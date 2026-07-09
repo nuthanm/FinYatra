@@ -1,0 +1,1425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="App_Title" xml:space="preserve">
+    <value>FinYatra</value>
+  </data>
+  <data name="Nav_OpenMenu" xml:space="preserve">
+    <value>மெனுவைத் திற</value>
+  </data>
+  <data name="Nav_CollapseSidebar" xml:space="preserve">
+    <value>பக்கப்பட்டியைச் சுருக்கு</value>
+  </data>
+  <data name="Nav_CloseMenu" xml:space="preserve">
+    <value>மெனுவை மூடு</value>
+  </data>
+  <data name="Nav_SearchPlaceholder" xml:space="preserve">
+    <value>கருவிகளைத் தேடு…</value>
+  </data>
+  <data name="Nav_SearchAria" xml:space="preserve">
+    <value>கருவிகளைத் தேடு</value>
+  </data>
+  <data name="Nav_SearchGoAria" xml:space="preserve">
+    <value>தேடு</value>
+  </data>
+  <data name="Nav_LanguageAria" xml:space="preserve">
+    <value>மொழி</value>
+  </data>
+  <data name="Nav_PrimaryAria" xml:space="preserve">
+    <value>முதன்மை வழிசெலுத்தல்</value>
+  </data>
+  <data name="Nav_FooterAria" xml:space="preserve">
+    <value>அடிக்குறிப்பு இணைப்புகள்</value>
+  </data>
+  <data name="Group_Overview" xml:space="preserve">
+    <value>கண்ணோட்டம்</value>
+  </data>
+  <data name="Group_Planning" xml:space="preserve">
+    <value>திட்டமிடல்</value>
+  </data>
+  <data name="Group_Investing" xml:space="preserve">
+    <value>முதலீடு</value>
+  </data>
+  <data name="Group_Loans" xml:space="preserve">
+    <value>கடன்கள்</value>
+  </data>
+  <data name="Group_Basics" xml:space="preserve">
+    <value>அடிப்படைகள்</value>
+  </data>
+  <data name="Group_More" xml:space="preserve">
+    <value>மேலும்</value>
+  </data>
+  <data name="Group_Assets" xml:space="preserve">
+    <value>சொத்துக்கள்</value>
+  </data>
+  <data name="Nav_Home" xml:space="preserve">
+    <value>முகப்பு</value>
+  </data>
+  <data name="Nav_AllTools" xml:space="preserve">
+    <value>அனைத்து கருவிகள்</value>
+  </data>
+  <data name="Nav_GoalPlanner" xml:space="preserve">
+    <value>இலக்கு திட்டமிடுபவர்</value>
+  </data>
+  <data name="Nav_Fire" xml:space="preserve">
+    <value>FIRE</value>
+  </data>
+  <data name="Nav_FdLaddering" xml:space="preserve">
+    <value>FD லேடரிங்</value>
+  </data>
+  <data name="Nav_Sip" xml:space="preserve">
+    <value>SIP</value>
+  </data>
+  <data name="Nav_Cagr" xml:space="preserve">
+    <value>CAGR</value>
+  </data>
+  <data name="Nav_Lumpsum" xml:space="preserve">
+    <value>ஒரே தவணை முதலீடு</value>
+  </data>
+  <data name="Nav_Emi" xml:space="preserve">
+    <value>EMI</value>
+  </data>
+  <data name="Nav_Mortgage" xml:space="preserve">
+    <value>வீட்டுக் கடன்</value>
+  </data>
+  <data name="Nav_Inflation" xml:space="preserve">
+    <value>பணவீக்கம்</value>
+  </data>
+  <data name="Nav_CompoundInterest" xml:space="preserve">
+    <value>கூட்டு வட்டி</value>
+  </data>
+  <data name="Nav_About" xml:space="preserve">
+    <value>எங்களைப் பற்றி</value>
+  </data>
+  <data name="Nav_Contact" xml:space="preserve">
+    <value>தொடர்பு</value>
+  </data>
+  <data name="Nav_Sitemap" xml:space="preserve">
+    <value>தள வரைபடம்</value>
+  </data>
+  <data name="Nav_Privacy" xml:space="preserve">
+    <value>தனியுரிமைக் கொள்கை</value>
+  </data>
+  <data name="Nav_Terms" xml:space="preserve">
+    <value>விதிமுறைகள்</value>
+  </data>
+  <data name="Label_Soon" xml:space="preserve">
+    <value>விரைவில்</value>
+  </data>
+  <data name="Footer_MadeWith" xml:space="preserve">
+    <value>உருவாக்கப்பட்டது</value>
+  </data>
+  <data name="Footer_Rights" xml:space="preserve">
+    <value>அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.</value>
+  </data>
+  <data name="Footer_Privacy" xml:space="preserve">
+    <value>தனியுரிமைக் கொள்கை</value>
+  </data>
+  <data name="Footer_Terms" xml:space="preserve">
+    <value>விதிமுறைகள் மற்றும் நிபந்தனைகள்</value>
+  </data>
+  <data name="Footer_About" xml:space="preserve">
+    <value>எங்களைப் பற்றி</value>
+  </data>
+  <data name="Footer_Contact" xml:space="preserve">
+    <value>தொடர்பு</value>
+  </data>
+  <data name="Footer_Sitemap" xml:space="preserve">
+    <value>தள வரைபடம்</value>
+  </data>
+  <data name="Footer_AdsTxt" xml:space="preserve">
+    <value>ads.txt</value>
+  </data>
+  <data name="Scroll_NavAria" xml:space="preserve">
+    <value>பக்கம் உருட்டல் குறுக்குவழிகள்</value>
+  </data>
+  <data name="Scroll_Top" xml:space="preserve">
+    <value>மேலே</value>
+  </data>
+  <data name="Scroll_Bottom" xml:space="preserve">
+    <value>கீழே</value>
+  </data>
+  <data name="Scroll_TopAria" xml:space="preserve">
+    <value>மேலே உருட்டு</value>
+  </data>
+  <data name="Scroll_BottomAria" xml:space="preserve">
+    <value>கீழே உருட்டு</value>
+  </data>
+  <data name="Home_Badge" xml:space="preserve">
+    <value>இலவச நிதிக் கருவிகள் · உள்நுழைவு இல்லை · இந்தியா-முதல்</value>
+  </data>
+  <data name="Home_H1_Before" xml:space="preserve">
+    <value>ஊகத்துடன் அல்ல, </value>
+  </data>
+  <data name="Home_H1_Highlight" xml:space="preserve">
+    <value>தெளிவுடன்</value>
+  </data>
+  <data name="Home_H1_After" xml:space="preserve">
+    <value> உங்கள் பணத்தைத் திட்டமிடுங்கள்.</value>
+  </data>
+  <data name="Home_Sub" xml:space="preserve">
+    <value>தெளிவான, மொபைல்-முதல் கணக்கிடிகள் மற்றும் திட்டமிடுபவர்கள். ஒவ்வொரு கருவியும் சூத்திரம், உதாரணம் மற்றும் பாதுகாப்பான vs நிலையற்ற வழிகளைக் காட்டுகிறது — முடிவு மட்டுமல்ல, “ஏன்” என்பதையும் கற்றுக்கொள்ளுங்கள்.</value>
+  </data>
+  <data name="Home_CtaExplore" xml:space="preserve">
+    <value>அனைத்து கருவிகளையும் பார்க்க</value>
+  </data>
+  <data name="Home_CtaGoal" xml:space="preserve">
+    <value>இலக்கு திட்டமிடுபவருடன் தொடங்கு</value>
+  </data>
+  <data name="Home_StatTools" xml:space="preserve">
+    <value>நிதிக் கருவிகள்</value>
+  </data>
+  <data name="Home_StatFree" xml:space="preserve">
+    <value>இலவசமாகப் பயன்படுத்து</value>
+  </data>
+  <data name="Home_StatSignup" xml:space="preserve">
+    <value>பதிவு தேவையில்லை</value>
+  </data>
+  <data name="Home_StatLearn" xml:space="preserve">
+    <value>கற்றுக்கொள் + கணக்கிடு</value>
+  </data>
+  <data name="Home_KpiReachGoal" xml:space="preserve">
+    <value>இலக்கை அடை</value>
+  </data>
+  <data name="Home_KpiStartInvest" xml:space="preserve">
+    <value>முதலீடு தொடங்கு</value>
+  </data>
+  <data name="Home_KpiPlanLoan" xml:space="preserve">
+    <value>கடனைத் திட்டமிடு</value>
+  </data>
+  <data name="Home_KpiUnderstandInflation" xml:space="preserve">
+    <value>பணவீக்கத்தைப் புரிந்துகொள்</value>
+  </data>
+  <data name="Home_KpiPlanLiquidity" xml:space="preserve">
+    <value>நிதிப்புழக்கத்தைத் திட்டமிடு</value>
+  </data>
+  <data name="Home_KpiGoalFoot" xml:space="preserve">
+    <value>பாதுகாப்பான vs நிலையற்ற சேமிப்பு</value>
+  </data>
+  <data name="Home_KpiSipFoot" xml:space="preserve">
+    <value>மாதாந்திர SIP → எதிர்கால மதிப்பு</value>
+  </data>
+  <data name="Home_KpiEmiFoot" xml:space="preserve">
+    <value>EMI, வட்டி &amp; மொத்தம்</value>
+  </data>
+  <data name="Home_KpiInflationFoot" xml:space="preserve">
+    <value>இன்றைய ₹ யின் எதிர்கால செலவு</value>
+  </data>
+  <data name="Home_KpiFdFoot" xml:space="preserve">
+    <value>காலப்பிரிவு பிரித்த நிரந்தர வைப்புகள்</value>
+  </data>
+  <data name="Home_QuickToolsAria" xml:space="preserve">
+    <value>விரைவு கருவிகள்</value>
+  </data>
+  <data name="Home_GainAria" xml:space="preserve">
+    <value>நீங்கள் பெறுவது</value>
+  </data>
+  <data name="Home_GainTitle" xml:space="preserve">
+    <value>நீங்கள் பெறுவது</value>
+  </data>
+  <data name="Home_GainWhyTitle" xml:space="preserve">
+    <value>“ஏன்” என்பதைப் புரிந்துகொள்</value>
+  </data>
+  <data name="Home_GainWhyText" xml:space="preserve">
+    <value>ஒவ்வொரு கருவியும் சிறிய விளக்கத்துடன் தொடங்குகிறது, புதியவர்கள் எளிதாகப் புரிந்துகொள்ள.</value>
+  </data>
+  <data name="Home_GainFormulaTitle" xml:space="preserve">
+    <value>சூத்திரத்தைக் கற்றுக்கொள்</value>
+  </data>
+  <data name="Home_GainFormulaText" xml:space="preserve">
+    <value>நிதியில் பயன்படுத்தப்படும் தரநிலை சூத்திரத்தை எளிய வார்த்தைகளில் காட்டுகிறோம்.</value>
+  </data>
+  <data name="Home_GainExampleTitle" xml:space="preserve">
+    <value>பணிபுரிந்த உதாரணத்தைப் பார்</value>
+  </data>
+  <data name="Home_GainExampleText" xml:space="preserve">
+    <value>இயல்புநிலை எண்களை முயற்சித்து முடிவு எப்படி உருவாகிறது என்பதைப் புரிந்துகொள்.</value>
+  </data>
+  <data name="Home_AllToolsAria" xml:space="preserve">
+    <value>அனைத்து கருவிகள்</value>
+  </data>
+  <data name="Home_AllTools" xml:space="preserve">
+    <value>அனைத்து கருவிகள்</value>
+  </data>
+  <data name="Tools_PageTitle" xml:space="preserve">
+    <value>கருவிகள் — FinYatra</value>
+  </data>
+  <data name="Tools_Title" xml:space="preserve">
+    <value>கருவிகள்</value>
+  </data>
+  <data name="Tools_Subtitle" xml:space="preserve">
+    <value>வகையின்படி கருவியைத் தேர்ந்தெடு</value>
+  </data>
+  <data name="Tools_Desc" xml:space="preserve">
+    <value>தெளிவான, கட்டமைக்கப்பட்ட கணக்கிடிகள் மற்றும் திட்டமிடுபவர்கள். ஒவ்வொரு கருவியிலும் உதாரணங்கள், கருதுகோள்கள் மற்றும் தெளிவான “ஏன்” உள்ளது.</value>
+  </data>
+  <data name="Tools_TabAll" xml:space="preserve">
+    <value>அனைத்தும்</value>
+  </data>
+  <data name="Tools_CategoriesAria" xml:space="preserve">
+    <value>கருவி வகைகள்</value>
+  </data>
+  <data name="View_ChooseLayout" xml:space="preserve">
+    <value>தளவமைப்பைத் தேர்ந்தெடு</value>
+  </data>
+  <data name="View_Tiles" xml:space="preserve">
+    <value>ஓடுகள்</value>
+  </data>
+  <data name="View_List" xml:space="preserve">
+    <value>பட்டியல்</value>
+  </data>
+  <data name="Tools_ComingSoon" xml:space="preserve">
+    <value>விரைவில் வருகிறது</value>
+  </data>
+  <data name="Tools_NoTools" xml:space="preserve">
+    <value>காட்ட எந்தக் கருவியும் இல்லை.</value>
+  </data>
+  <data name="NotFound_Message" xml:space="preserve">
+    <value>மன்னிக்கவும், இந்த முகவரியில் எதுவும் இல்லை.</value>
+  </data>
+  <data name="Tool_goal_Title" xml:space="preserve">
+    <value>இலக்கு திட்டமிடுபவர்</value>
+  </data>
+  <data name="Tool_goal_Description" xml:space="preserve">
+    <value>எந்த இலக்குத் தொகையையும் அடைய பாதுகாப்பான vs நிலையற்ற மாதாந்திர சேமிப்பு.</value>
+  </data>
+  <data name="Tool_fire_Title" xml:space="preserve">
+    <value>FIRE கணக்கிடி</value>
+  </data>
+  <data name="Tool_fire_Description" xml:space="preserve">
+    <value>உங்கள் FIRE தொகுதி மற்றும் தேவையான SIP ஐ அறியுங்கள் (பணவீக்கம்-அறிவு).</value>
+  </data>
+  <data name="Tool_fd_Title" xml:space="preserve">
+    <value>FD லேடரிங்</value>
+  </data>
+  <data name="Tool_fd_Description" xml:space="preserve">
+    <value>வருடாந்திர நிதிப்புழக்கம் மற்றும் மறுமுதலீட்டிற்காக காலப்பிரிவு பிரித்த வைப்புகள்.</value>
+  </data>
+  <data name="Tool_sip_Title" xml:space="preserve">
+    <value>SIP கணக்கிடி</value>
+  </data>
+  <data name="Tool_sip_Description" xml:space="preserve">
+    <value>நீண்டகால SIP வளர்ச்சியைக் காட்சிகள் மற்றும் கணிப்புகளுடன் மதிப்பிடு.</value>
+  </data>
+  <data name="Tool_cagr_Title" xml:space="preserve">
+    <value>CAGR கணக்கிடி</value>
+  </data>
+  <data name="Tool_cagr_Description" xml:space="preserve">
+    <value>எந்த முதலீட்டின் வருடாந்திர வளர்ச்சியையும் புரிந்துகொள்.</value>
+  </data>
+  <data name="Tool_lumpsum_Title" xml:space="preserve">
+    <value>ஒரே தவணை வளர்ச்சி</value>
+  </data>
+  <data name="Tool_lumpsum_Description" xml:space="preserve">
+    <value>ஒருமுறை முதலீட்டை காலப்போக்கில் முன்னோக்கி கணக்கிடு.</value>
+  </data>
+  <data name="Tool_emi_Title" xml:space="preserve">
+    <value>EMI கணக்கிடி</value>
+  </data>
+  <data name="Tool_emi_Description" xml:space="preserve">
+    <value>மாதாந்திர EMI, மொத்த வட்டி மற்றும் வருடாந்திர தவணைக் குறைப்பு.</value>
+  </data>
+  <data name="Tool_mortgage_Title" xml:space="preserve">
+    <value>வீட்டுக் கடன் கணக்கிடி</value>
+  </data>
+  <data name="Tool_mortgage_Description" xml:space="preserve">
+    <value>வீட்டுக் கடன் EMI மற்றும் செலுத்தும் திறன் மதிப்பீடு.</value>
+  </data>
+  <data name="Tool_inflation_Title" xml:space="preserve">
+    <value>பணவீக்கக் கணக்கிடி</value>
+  </data>
+  <data name="Tool_inflation_Description" xml:space="preserve">
+    <value>இன்றைய பணத்தின் எதிர்கால செலவு, வருடந்தோறும்.</value>
+  </data>
+  <data name="Tool_interest_Title" xml:space="preserve">
+    <value>கூட்டு வட்டி</value>
+  </data>
+  <data name="Tool_interest_Description" xml:space="preserve">
+    <value>சேமிப்பு மற்றும் கடன்களில் கூட்டு வட்டியைப் புரிந்துகொள்.</value>
+  </data>
+  <data name="Page_About_DisclaimerBody" xml:space="preserve">
+    <value>FinYatra கல்வி அடிப்படையிலான மதிப்பீடுகளை மட்டுமே வழங்குகிறது. நாங்கள் SEBI பதிவுசெய்யப்பட்ட ஆலோசகர், வங்கி அல்லது தரகர் அல்ல. முடிவுகள் நீங்கள் உள்ளிடும் அனுமானங்களைப் பொறுத்தது. முக்கியமான நிதி முடிவுகளை எப்போதும் தகுதிவாய்ந்த நிபுணரிடம் சரிபார்க்கவும்.</value>
+  </data>
+  <data name="Page_Search_Title" xml:space="preserve">
+    <value>தேடு</value>
+  </data>
+  <data name="Page_ComingSoon_NextHeading" xml:space="preserve">
+    <value>அடுத்து என்ன நடக்கும்</value>
+  </data>
+  <data name="Info_Example" xml:space="preserve">
+    <value>உதாரணம்</value>
+  </data>
+  <data name="Page_Contact_LabelSecurityCheck" xml:space="preserve">
+    <value>பாதுகாப்பு சோதனை</value>
+  </data>
+  <data name="Page_About_Description" xml:space="preserve">
+    <value>FinYatra பணத்தை தெளிவாகத் திட்டமிட உதவுகிறது — கணக்கிடிகள், சூத்திரங்கள் மற்றும் எளிய மொழியில் விரிவான உதாரணங்கள்.</value>
+  </data>
+  <data name="Page_About_PageTitle" xml:space="preserve">
+    <value>எங்களைப் பற்றி — FinYatra</value>
+  </data>
+  <data name="Page_Contact_PageTitle" xml:space="preserve">
+    <value>தொடர்பு — FinYatra</value>
+  </data>
+  <data name="Page_About_Offer4" xml:space="preserve">
+    <value>கல்வி உள்ளடக்கம்: சூத்திரங்கள், அனுமானங்கள் மற்றும் படிப்படியான விளக்கங்கள்</value>
+  </data>
+  <data name="Info_Purpose" xml:space="preserve">
+    <value>நோக்கம்</value>
+  </data>
+  <data name="Page_Contact_Description" xml:space="preserve">
+    <value>பிழையைப் புகாரளிக்கவும், அம்சத்தைக் கோரவும், கேள்வி கேட்கவும் அல்லது கூட்டாண்மை பற்றி விவாதிக்கவும்.</value>
+  </data>
+  <data name="Page_Contact_BtnSending" xml:space="preserve">
+    <value>அனுப்புகிறது…</value>
+  </data>
+  <data name="Page_ComingSoon_LayoutHint" xml:space="preserve">
+    <value>தளவமைப்பை மாற்ற Tiles/List ஐப் பயன்படுத்துங்கள்.</value>
+  </data>
+  <data name="Page_Terms_PageTitle" xml:space="preserve">
+    <value>விதிமுறைகள் மற்றும் நிபந்தனைகள் — FinYatra</value>
+  </data>
+  <data name="Page_Privacy_Subtitle" xml:space="preserve">
+    <value>உங்கள் தரவை நாங்கள் எவ்வாறு கையாளுகிறோம்</value>
+  </data>
+  <data name="Page_Search_SubtitleResults" xml:space="preserve">
+    <value>"{1}" க்கு {0} முடிவு(கள்).</value>
+  </data>
+  <data name="Common_Terms" xml:space="preserve">
+    <value>விதிமுறைகள்</value>
+  </data>
+  <data name="Page_Search_ResultsHeading" xml:space="preserve">
+    <value>முடிவுகள்</value>
+  </data>
+  <data name="Page_About_ContactHeading" xml:space="preserve">
+    <value>தொடர்பில் இருங்கள்</value>
+  </data>
+  <data name="Page_Search_NoResultsBody" xml:space="preserve">
+    <value>"{0}" உடன் பொருந்தும் கருவியைக் கண்டுபிடிக்க முடியவில்லை. goal, sip, emi அல்லது inflation போன்ற சிறிய முக்கிய வார்த்தையை முயற்சிக்கவும்.</value>
+  </data>
+  <data name="Page_Privacy_Description" xml:space="preserve">
+    <value>FinYatra ஒரு கணக்கிடி-முதல், தனியுரிமை-நட்பு செயலி. நாங்கள் எதை சேகரிக்கிறோம், எதை சேகரிக்கவில்லை மற்றும் உங்கள் தேர்வுகள் என்ன என்பதை இந்தக் கொள்கை விளக்குகிறது.</value>
+  </data>
+  <data name="Info_RealLife" xml:space="preserve">
+    <value>நிஜ வாழ்க்கை பயன்பாடு</value>
+  </data>
+  <data name="Page_Sitemap_Subtitle" xml:space="preserve">
+    <value>FinYatra இல் உள்ள அனைத்து பக்கங்களும்</value>
+  </data>
+  <data name="Tool_inflation_Subtitle" xml:space="preserve">
+    <value>எதிர்கால செலவை புரிந்து கொள்ளுங்கள்</value>
+  </data>
+  <data name="Page_About_MissionHeading" xml:space="preserve">
+    <value>எங்கள் நோக்கம்</value>
+  </data>
+  <data name="Page_ComingSoon_Subtitle" xml:space="preserve">
+    <value>விரைவில்</value>
+  </data>
+  <data name="Page_Contact_RequestType_Translation" xml:space="preserve">
+    <value>மொழிபெயர்ப்பு மேம்பாடு</value>
+  </data>
+  <data name="Info_WhenToUse" xml:space="preserve">
+    <value>எப்போது பயன்படுத்த வேண்டும்</value>
+  </data>
+  <data name="Info_FormulaHowTo" xml:space="preserve">
+    <value>சூத்திரம் மற்றும் எப்படி கணக்கிடுவது</value>
+  </data>
+  <data name="Page_Privacy_Title" xml:space="preserve">
+    <value>தனியுரிமைக் கொள்கை</value>
+  </data>
+  <data name="Common_Col_Emi" xml:space="preserve">
+    <value>EMI</value>
+  </data>
+  <data name="Common_YourInputs" xml:space="preserve">
+    <value>உங்கள் உள்ளீடுகள்</value>
+  </data>
+  <data name="Page_Contact_LabelMessage" xml:space="preserve">
+    <value>செய்தி</value>
+  </data>
+  <data name="Common_PrivacyPolicy" xml:space="preserve">
+    <value>தனியுரிமைக் கொள்கை</value>
+  </data>
+  <data name="Common_Formula" xml:space="preserve">
+    <value>சூத்திரம்</value>
+  </data>
+  <data name="Share_ToolGuide" xml:space="preserve">
+    <value>கருவி வழிகாட்டி</value>
+  </data>
+  <data name="Info_WhyKnow" xml:space="preserve">
+    <value>இது ஏன் தெரியும்?</value>
+  </data>
+  <data name="Page_ComingSoon_RequestBody" xml:space="preserve">
+    <value>உங்கள் கோரிக்கையை (இந்த கருவி எந்த கேள்விக்கு பதில் அளிக்க வேண்டும் என்பதையும்) inbox.nuthan@gmail.com க்கு மின்னஞ்சல் அனுப்புங்கள்.</value>
+  </data>
+  <data name="Page_Contact_LabelSubject" xml:space="preserve">
+    <value>பொருள்</value>
+  </data>
+  <data name="Page_Contact_ConsentText" xml:space="preserve">
+    <value>தனியுரிமைக் கொள்கை மற்றும் விதிமுறைகளுக்கு நான் ஒப்புக்கொள்கிறேன்.</value>
+  </data>
+  <data name="Info_Differentiation" xml:space="preserve">
+    <value>FinYatra எப்படி வேறுபட்டது</value>
+  </data>
+  <data name="Page_ComingSoon_PageTitle" xml:space="preserve">
+    <value>விரைவில் — FinYatra</value>
+  </data>
+  <data name="Common_PageTitleSuffix" xml:space="preserve">
+    <value> — FinYatra</value>
+  </data>
+  <data name="Page_Sitemap_PageTitle" xml:space="preserve">
+    <value>தளவரைபடம் — FinYatra</value>
+  </data>
+  <data name="Page_Terms_Title" xml:space="preserve">
+    <value>விதிமுறைகள் மற்றும் நிபந்தனைகள்</value>
+  </data>
+  <data name="Common_Col_Tenure" xml:space="preserve">
+    <value>பதவிக்காலம்</value>
+  </data>
+  <data name="Common_Col_EstValue" xml:space="preserve">
+    <value>அனுமான மதிப்பு</value>
+  </data>
+  <data name="Page_Contact_RequestType_Other" xml:space="preserve">
+    <value>மற்றவை</value>
+  </data>
+  <data name="Info_Pros" xml:space="preserve">
+    <value>நன்மை</value>
+  </data>
+  <data name="Info_Cons" xml:space="preserve">
+    <value>பாதகம்</value>
+  </data>
+  <data name="Page_Search_NoResultsTitle" xml:space="preserve">
+    <value>முடிவுகள் எதுவும் இல்லை</value>
+  </data>
+  <data name="Page_Contact_RequestType_Feedback" xml:space="preserve">
+    <value>கணக்கிடி கருத்து</value>
+  </data>
+  <data name="Common_WhatYouLearn" xml:space="preserve">
+    <value>நீங்கள் என்ன கற்றுக் கொள்வீர்கள்</value>
+  </data>
+  <data name="Page_About_MaintainerHeading" xml:space="preserve">
+    <value>FinYatra யை யார் நிர்வகிக்கிறார்கள்</value>
+  </data>
+  <data name="Page_Contact_PrivacyText" xml:space="preserve">
+    <value>உங்கள் செய்தியை பதிலளிப்பதற்கு மட்டுமே பயன்படுத்துகிறோம். எங்கள் தனியுரிமைக் கொள்கையைப் பார்க்கவும்.</value>
+  </data>
+  <data name="Common_Calculate" xml:space="preserve">
+    <value>கணக்கிடுங்கள்</value>
+  </data>
+  <data name="Common_Col_Gain" xml:space="preserve">
+    <value>லாபம்</value>
+  </data>
+  <data name="Info_Abbreviation" xml:space="preserve">
+    <value>சுருக்கப்பெயர்</value>
+  </data>
+  <data name="Page_About_Offer2" xml:space="preserve">
+    <value>உள்நுழைவு இல்லை, பதிவு இல்லை, பணக்கட்டு இல்லை — ஒவ்வொரு கருவியையும் இலவசமாகப் பயன்படுத்துங்கள்</value>
+  </data>
+  <data name="Page_About_ContactBody" xml:space="preserve">
+    <value>கேள்விகள், கருத்துகள் அல்லது கூட்டாண்மை விசாரணைகள்? எங்கள் தொடர்பு பக்கத்தைப் பார்வையிடுங்கள் அல்லது inbox.nuthan@gmail.com க்கு மின்னஞ்சல் அனுப்புங்கள்.</value>
+  </data>
+  <data name="Page_About_Offer1" xml:space="preserve">
+    <value>இலக்கு திட்டமிடல், SIP, EMI, பணவீக்கம், FIRE மற்றும் FD லேடரிங் கணக்கிடிகள்</value>
+  </data>
+  <data name="Common_Label_TenureYears" xml:space="preserve">
+    <value>காலம் (ஆண்டுகள்)</value>
+  </data>
+  <data name="Info_GoalsForTool" xml:space="preserve">
+    <value>இந்த கருவிக்கான இலக்குகள்</value>
+  </data>
+  <data name="Page_About_OfferHeading" xml:space="preserve">
+    <value>நாங்கள் வழங்குவது</value>
+  </data>
+  <data name="Info_Alternatives" xml:space="preserve">
+    <value>மாற்று மற்றும் ஒப்பீடு</value>
+  </data>
+  <data name="Page_Contact_LabelResponseTime" xml:space="preserve">
+    <value>பதில் நேரம்</value>
+  </data>
+  <data name="Info_FormulaIntro" xml:space="preserve">
+    <value>முதலில் சூத்திரத்தைப் படித்து, எண் எவ்வாறு கட்டப்பட்டுள்ளது என்பதைப் பார்க்க கீழே உள்ள படிகளைப் பின்பற்றவும்.</value>
+  </data>
+  <data name="Page_ComingSoon_AvailableHeading" xml:space="preserve">
+    <value>இப்போது கிடைக்கிறது</value>
+  </data>
+  <data name="Page_Contact_Title" xml:space="preserve">
+    <value>தொடர்பு</value>
+  </data>
+  <data name="Page_Contact_InfoBody" xml:space="preserve">
+    <value>ஒரு கணக்கிடியில் கருத்து உள்ளதா, பிழை கண்டுபிடித்தீர்களா அல்லது புதிய கருவி வேண்டுமா? பாதுகாப்பான படிவத்தின் மூலம் செய்தி அனுப்புங்கள் — நீங்கள் வழங்கும் முகவரிக்கு மின்னஞ்சல் மூலம் பதில் அளிப்போம்.</value>
+  </data>
+  <data name="Tool_fire_Subtitle" xml:space="preserve">
+    <value>நிதி சுதந்திரம், சீக்கிரம் ஓய்வு பெறுங்கள்</value>
+  </data>
+  <data name="Common_Year" xml:space="preserve">
+    <value>ஆண்டு</value>
+  </data>
+  <data name="Page_Contact_Subtitle" xml:space="preserve">
+    <value>உங்களிடமிருந்து கேட்க விரும்புகிறோம்</value>
+  </data>
+  <data name="Common_Label_Years" xml:space="preserve">
+    <value>ஆண்டுகள்</value>
+  </data>
+  <data name="Common_Email" xml:space="preserve">
+    <value>மின்னஞ்சல்</value>
+  </data>
+  <data name="Page_Sitemap_Description" xml:space="preserve">
+    <value>பார்வையாளர்கள் மற்றும் தேடுபொறிகளுக்கான பொது பக்கங்களின் முழுப் பட்டியல்.</value>
+  </data>
+  <data name="Common_ContactPageLink" xml:space="preserve">
+    <value>தொடர்பு பக்கம்</value>
+  </data>
+  <data name="Page_Contact_SecurityCheckPrompt" xml:space="preserve">
+    <value>— {0} என்றால் என்ன?</value>
+  </data>
+  <data name="Page_About_MaintainerBody" xml:space="preserve">
+    <value>FinYatra நூதன் முராரிசெட்டி என்பவரால் உருவாக்கப்பட்டு நிர்வகிக்கப்படுகிறது — இந்திய பயனர்களுக்கான தெளிவான, நம்பகமான நிதி கருவிகளில் ஆர்வமுள்ள ஒரு சுயாதீன டெவலப்பர்.</value>
+  </data>
+  <data name="Page_Search_PageTitle" xml:space="preserve">
+    <value>தேடு — FinYatra</value>
+  </data>
+  <data name="Info_Alternative" xml:space="preserve">
+    <value>மாற்று</value>
+  </data>
+  <data name="Page_Contact_LabelRequestType" xml:space="preserve">
+    <value>கோரிக்கை வகை</value>
+  </data>
+  <data name="Page_Contact_InfoHeading" xml:space="preserve">
+    <value>தொடர்பில் இருங்கள்</value>
+  </data>
+  <data name="Tool_goal_Subtitle" xml:space="preserve">
+    <value>உங்கள் இலக்கை அடைய சேமிக்கவும்</value>
+  </data>
+  <data name="Common_LastUpdated" xml:space="preserve">
+    <value>கடைசியாக புதுப்பிக்கப்பட்டது:</value>
+  </data>
+  <data name="Page_Sitemap_Title" xml:space="preserve">
+    <value>தளவரைபடம்</value>
+  </data>
+  <data name="Page_Search_Description" xml:space="preserve">
+    <value>பெயர் அல்லது விளக்கத்தால் கருவிகளைத் தேடுங்கள்.</value>
+  </data>
+  <data name="Common_YourGoal" xml:space="preserve">
+    <value>உங்கள் இலக்கு</value>
+  </data>
+  <data name="Tool_fd_Subtitle" xml:space="preserve">
+    <value>சிறந்த பணப்புழக்க திட்டமிடல்</value>
+  </data>
+  <data name="Common_Col_Invested" xml:space="preserve">
+    <value>முதலீடு செய்யப்பட்டது</value>
+  </data>
+  <data name="Page_Sitemap_Intro" xml:space="preserve">
+    <value>இயந்திரம்-படிக்கக்கூடிய தளவரைபடம்: sitemap.xml · கிராலர்கள் மற்றும் AdSense மதிப்பாய்வுக்கும் பயனுள்ளது.</value>
+  </data>
+  <data name="Page_About_MissionBody" xml:space="preserve">
+    <value>FinYatra இந்தியாவிற்காக உருவாக்கப்பட்ட இலவச நிதி கணக்கிடிகள் மற்றும் திட்டமிடுபவர்களின் தொகுப்பு. எண்களுக்குப் பின்னால் உள்ள காரணத்தை அனைவரும் புரிந்துகொள்ள வேண்டும் — முடிவு மட்டுமல்ல. ஒவ்வொரு கருவியும் சூத்திரம், விரிவான உதாரணம் மற்றும் நடைமுறை சூழலைக் காட்டுகிறது.</value>
+  </data>
+  <data name="Page_Contact_LabelPrivacy" xml:space="preserve">
+    <value>தனியுரிமை</value>
+  </data>
+  <data name="Page_ComingSoon_Description" xml:space="preserve">
+    <value>இந்த கருவி அடுத்ததாக திட்டமிடப்பட்டுள்ளது. இதற்கிடையில் கிடைக்கும் கணக்கிடிகளை ஆராயுங்கள்.</value>
+  </data>
+  <data name="Page_Terms_Description" xml:space="preserve">
+    <value>FinYatra ஐப் பயன்படுத்துவதற்கு முன் இந்த விதிமுறைகளைப் படிக்கவும். செயலியைப் பயன்படுத்துவதன் மூலம் நீங்கள் அவற்றுக்கு ஒப்புக்கொள்கிறீர்கள்.</value>
+  </data>
+  <data name="Page_Contact_RequestType_Feature" xml:space="preserve">
+    <value>அம்சக் கோரிக்கை</value>
+  </data>
+  <data name="Info_Motto" xml:space="preserve">
+    <value>பொன்மொழி</value>
+  </data>
+  <data name="Page_Contact_SuccessHeading" xml:space="preserve">
+    <value>செய்தி அனுப்பப்பட்டது</value>
+  </data>
+  <data name="Common_Col_Principal" xml:space="preserve">
+    <value>அசல் தொகை</value>
+  </data>
+  <data name="Page_ComingSoon_NextBody" xml:space="preserve">
+    <value>FinYatra இன் மற்ற பகுதிகளைப் போலவே சூத்திரம்-முதல், உதாரணம்-சார்ந்த அணுகுமுறையில் இந்த கணக்கிடியை உருவாக்கி வருகிறோம்.</value>
+  </data>
+  <data name="Common_Col_Interest" xml:space="preserve">
+    <value>வட்டி</value>
+  </data>
+  <data name="Page_Terms_Subtitle" xml:space="preserve">
+    <value>FinYatra பயன்பாட்டிற்கான விதிகள்</value>
+  </data>
+  <data name="Page_Privacy_PageTitle" xml:space="preserve">
+    <value>தனியுரிமைக் கொள்கை — FinYatra</value>
+  </data>
+  <data name="Page_Contact_RequestType_Bug" xml:space="preserve">
+    <value>பிழை அறிக்கை</value>
+  </data>
+  <data name="Page_ComingSoon_NewTool" xml:space="preserve">
+    <value>புதிய கருவி</value>
+  </data>
+  <data name="Page_About_Title" xml:space="preserve">
+    <value>FinYatra பற்றி</value>
+  </data>
+  <data name="Common_Label_RatePa" xml:space="preserve">
+    <value>வட்டி விகிதம் (% p.a.)</value>
+  </data>
+  <data name="Page_Contact_ResponseTimeValue" xml:space="preserve">
+    <value>பொதுவாக 2–3 வணிக நாட்களுக்குள்</value>
+  </data>
+  <data name="Page_Contact_RequestType_Partnership" xml:space="preserve">
+    <value>கூட்டாண்மை / விளம்பரம்</value>
+  </data>
+  <data name="Common_Col_Maturity" xml:space="preserve">
+    <value>முதிர்ச்சி</value>
+  </data>
+  <data name="Page_Contact_SuccessBody" xml:space="preserve">
+    <value>நன்றி — உங்கள் செய்தி பாதுகாப்பாக வழங்கப்பட்டது. சில வணிக நாட்களுக்குள் பதில் அளிப்போம்.</value>
+  </data>
+  <data name="Page_About_Subtitle" xml:space="preserve">
+    <value>இலவசம், இந்தியா-முதல் நிதி கருவிகள்</value>
+  </data>
+  <data name="Common_Generate" xml:space="preserve">
+    <value>ஏணியை உருவாக்கவும்</value>
+  </data>
+  <data name="Page_Contact_LabelName" xml:space="preserve">
+    <value>உங்கள் பெயர்</value>
+  </data>
+  <data name="Page_About_DisclaimerHeading" xml:space="preserve">
+    <value>முக்கியமான மறுப்பு</value>
+  </data>
+  <data name="Info_OfficialLinks" xml:space="preserve">
+    <value>அதிகாரப்பூர்வ / நம்பகமான இணைப்புகள்</value>
+  </data>
+  <data name="Page_ComingSoon_RequestHeading" xml:space="preserve">
+    <value>இதை விரைவில் வேண்டுமா?</value>
+  </data>
+  <data name="Page_About_Offer3" xml:space="preserve">
+    <value>இந்தி, தெலுங்கு, தமிழ், கன்னடம் மற்றும் மலையாளம் ஆதரவுடன் மொபைல்-முதல் வடிவமைப்பு</value>
+  </data>
+  <data name="Page_Contact_BtnSend" xml:space="preserve">
+    <value>செய்தி அனுப்பு</value>
+  </data>
+  <data name="Page_Contact_BtnSendAnother" xml:space="preserve">
+    <value>மற்றொரு செய்தி அனுப்பு</value>
+  </data>
+  <data name="Tool_emi_Subtitle" xml:space="preserve">
+    <value>கடனைத் திருப்பிச் செலுத்துவது எளிமையானது</value>
+  </data>
+  <data name="Tool_sip_Subtitle" xml:space="preserve">
+    <value>மாதாந்திர முதலீட்டைத் திட்டமிடுங்கள்</value>
+  </data>
+  <data name="Page_Search_SubtitleEmpty" xml:space="preserve">
+    <value>மேலே உள்ள தேடல் பெட்டியில் தட்டச்சு செய்து Enter அழுத்துங்கள்.</value>
+  </data>
+  <data name="Page_Search_SuggestedHeading" xml:space="preserve">
+    <value>பரிந்துரைக்கப்பட்ட கருவிகள்</value>
+  </data>
+  <data name="Tool_sip_LabelRate" xml:space="preserve">
+    <value>எதிர்பார்க்கப்படும் வருவாய் விகிதம் (% p.a.)</value>
+  </data>
+  <data name="Tool_goal_LabelTarget" xml:space="preserve">
+    <value>இலக்கு தொகை (₹)</value>
+  </data>
+  <data name="Tool_goal_LabelBest" xml:space="preserve">
+    <value>சிறந்தது (% p.a.)</value>
+  </data>
+  <data name="Tool_fire_LabelRetirementAge" xml:space="preserve">
+    <value>ஓய்வூதிய வயது</value>
+  </data>
+  <data name="Tool_emi_LearnText" xml:space="preserve">
+    <value>வட்டி விகிதம் மற்றும் பதவிக்காலம் எப்படி மாறுகிறது EMI மற்றும் மொத்த வட்டி.</value>
+  </data>
+  <data name="Tool_goal_LabelWorst" xml:space="preserve">
+    <value>மோசமான (% p.a.)</value>
+  </data>
+  <data name="Tool_emi_LabelPrincipal" xml:space="preserve">
+    <value>கடன் தொகை (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelReturn" xml:space="preserve">
+    <value>எதிர்பார்க்கப்படும் வருவாய் விகிதம் (%)</value>
+  </data>
+  <data name="Tool_inflation_LearnText" xml:space="preserve">
+    <value>பணவீக்கம் வாங்கும் சக்தியை எவ்வாறு சிதைக்கிறது மற்றும் ஏன் திட்டமிடல் அதைக் கணக்கிட வேண்டும்.</value>
+  </data>
+  <data name="Tool_goal_VolatilePath" xml:space="preserve">
+    <value>நிலையற்ற பாதை</value>
+  </data>
+  <data name="Tool_fd_LabelCount" xml:space="preserve">
+    <value>FDs எண்ணிக்கை</value>
+  </data>
+  <data name="Tool_sip_LabelSip" xml:space="preserve">
+    <value>மாதாந்திர SIP (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelExpenses" xml:space="preserve">
+    <value>மாதாந்திர செலவுகள் (₹)</value>
+  </data>
+  <data name="Tool_sip_LearnText" xml:space="preserve">
+    <value>காலம் (பதவிக்காலம்) மற்றும் வருவாய் விகிதம் ஆகியவை நீண்ட கால செல்வத்தின் மீது எவ்வாறு மிகப்பெரிய தாக்கத்தை ஏற்படுத்துகின்றன.</value>
+  </data>
+  <data name="Tool_goal_SecurePath" xml:space="preserve">
+    <value>பாதுகாப்பான பாதை</value>
+  </data>
+  <data name="Tool_goal_LearnText" xml:space="preserve">
+    <value>பாதுகாப்பான பாதையில் (FD-போன்ற) மற்றும் ஆவியாகும் பாதையில் (ஈக்விட்டி போன்றது) மாதந்தோறும் எவ்வளவு சேமிப்பது மற்றும் பணவீக்கம் எவ்வாறு இலக்கை மாற்றுகிறது.</value>
+  </data>
+  <data name="Tool_fd_LabelStartTenure" xml:space="preserve">
+    <value>பதவிக்காலம் தொடங்குகிறது</value>
+  </data>
+  <data name="Tool_fd_TenureYear" xml:space="preserve">
+    <value>{0} ஆண்டு</value>
+  </data>
+  <data name="Tool_fire_LearnTitle" xml:space="preserve">
+    <value>FIRE என்றால் என்ன?</value>
+  </data>
+  <data name="Tool_fd_LearnText" xml:space="preserve">
+    <value>பணப்புழக்கத்திற்காக வெவ்வேறு years இல் முதிர்ச்சியடையும் பல நிலையான வைப்புகளாக மொத்தத் தொகையைப் பிரிக்கவும்.</value>
+  </data>
+  <data name="Tool_inflation_LabelPresent" xml:space="preserve">
+    <value>இன்றைய விலை (₹)</value>
+  </data>
+  <data name="Tool_goal_LabelBase" xml:space="preserve">
+    <value>அடிப்படை (% p.a.)</value>
+  </data>
+  <data name="Tool_fd_LabelAmount" xml:space="preserve">
+    <value>மொத்தத் தொகை (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelCurrentAge" xml:space="preserve">
+    <value>தற்போதைய வயது</value>
+  </data>
+  <data name="Tool_fire_LearnText" xml:space="preserve">
+    <value>FIRE ஒரு கார்பஸைத் திட்டமிட உதவுகிறது, இதன் மூலம் உங்கள் முதலீடுகள் உங்கள் வருடாந்திர செலவுகளை ஈடுசெய்யும்.</value>
+  </data>
+  <data name="Tool_goal_AdjustInflation" xml:space="preserve">
+    <value>பணவீக்கத்திற்கான இலக்கை சரிசெய்யவும்</value>
+  </data>
+  <data name="Tool_goal_LabelHorizon" xml:space="preserve">
+    <value>நேர அடிவானம் (years)</value>
+  </data>
+  <data name="Page_Contact_ConsentPrefix" xml:space="preserve">
+    <value>நான் ஒப்புக்கொள்கிறேன்</value>
+  </data>
+  <data name="Common_And" xml:space="preserve">
+    <value>மற்றும்</value>
+  </data>
+  <data name="Tool_inflation_Result_FutureCost" xml:space="preserve">
+    <value>எதிர்கால செலவு</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_2" xml:space="preserve">
+    <value>மாதாந்திர EMI சுமார் ₹21,700 ஆகிறது.</value>
+  </data>
+  <data name="Tool_goal_StepInflation_5" xml:space="preserve">
+    <value>பணவீக்க-சரிசெய்யப்பட்ட எதிர்கால இலக்கைப் பெற targetToday ஆல் பெருக்கவும்.</value>
+  </data>
+  <data name="Common_BreakdownAria" xml:space="preserve">
+    <value>விரிவாக்க அட்டவணை</value>
+  </data>
+  <data name="Tool_goal_FormulaSipNote" xml:space="preserve">
+    <value>வருமானம் 0% எனில், sip = இலக்கு / months.</value>
+  </data>
+  <data name="Common_FormulaLabel" xml:space="preserve">
+    <value>சூத்திரம்</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_1" xml:space="preserve">
+    <value>இன்றைய மாதாந்திர வீட்டுச் செலவு: ₹50,000.</value>
+  </data>
+  <data name="Tool_fire_RuleCorpus" xml:space="preserve">
+    <value>இலக்கு கார்ப்பஸ் ≈</value>
+  </data>
+  <data name="Tool_goal_Info_Link_Sebi" xml:space="preserve">
+    <value>SEBI — முதலீட்டாளர் கல்வி (பரஸ்பர நிதி அடிப்படைகள்)</value>
+  </data>
+  <data name="Tool_fire_InflationIntro" xml:space="preserve">
+    <value>பணவீக்கம் வாங்கும் திறனைக் குறைக்கிறது.</value>
+  </data>
+  <data name="Tool_inflation_BreakdownTitle" xml:space="preserve">
+    <value>ஆண்டுக்கு ஆண்டு செலவு வளர்ச்சி</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedFootnoteInflation" xml:space="preserve">
+    <value>{0}% பணவீக்கம் {1} ஆண்டுகளில் சேர்க்கப்பட்டுள்ளது</value>
+  </data>
+  <data name="Common_StepByStep" xml:space="preserve">
+    <value>படிப்படியான விளக்கம்</value>
+  </data>
+  <data name="Tool_sip_Result_InvestedFootnote" xml:space="preserve">
+    <value>{0} ஆண்டுகள் × {1}/மாதம்</value>
+  </data>
+  <data name="Common_FinYatraGuide" xml:space="preserve">
+    <value>FinYatra வழிகாட்டி</value>
+  </data>
+  <data name="Tool_sip_Result_EstimatedGains" xml:space="preserve">
+    <value>மதிப்பிடப்பட்ட லாபம்</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_3" xml:space="preserve">
+    <value>7% FD போன்ற பாதுகாப்பான பாதைக்கு மாதத்திற்கு சுமார் ₹18,500 தேவைப்படும்.</value>
+  </data>
+  <data name="Tool_goal_StepInflation_2" xml:space="preserve">
+    <value>பணவீக்க % ஐ தசம விகிதமாக மாற்றவும் (எ.கா. 6% → 0.06).</value>
+  </data>
+  <data name="Tool_emi_ExampleTitle" xml:space="preserve">
+    <value>தயாரிப்பு உதாரணம்: 8.5% வீட்டுக் கடன் ₹25L</value>
+  </data>
+  <data name="Common_Scenario_Base" xml:space="preserve">
+    <value>அடிப்படை</value>
+  </data>
+  <data name="Tool_goal_FormulaInflationNote" xml:space="preserve">
+    <value>பணவீக்கம் நிறுத்தப்பட்டால், futureTarget = targetToday.</value>
+  </data>
+  <data name="Tool_sip_ExampleTitle" xml:space="preserve">
+    <value>தயாரிப்பு உதாரணம்: 15 ஆண்டுகள் ₹10,000/மாதம் SIP</value>
+  </data>
+  <data name="Tool_sip_BreakdownSubtitle" xml:space="preserve">
+    <value>{0}% p.a. திரும்ப</value>
+  </data>
+  <data name="Tool_sip_Result_GainsFootnote" xml:space="preserve">
+    <value>மதிப்பு கழித்து முதலீடு</value>
+  </data>
+  <data name="Tool_goal_Source_BusinessToday" xml:space="preserve">
+    <value>BusinessToday — FD விலைகள் ஜூலை 2026</value>
+  </data>
+  <data name="Tool_fire_Result_AgeRange" xml:space="preserve">
+    <value>வயது {0} → {1}</value>
+  </data>
+  <data name="Common_Scenario_YourTenure" xml:space="preserve">
+    <value>உங்கள் பதவிக்காலம்</value>
+  </data>
+  <data name="Common_Col_Increase" xml:space="preserve">
+    <value>அதிகரிக்கவும்</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_2" xml:space="preserve">
+    <value>1 ஆண்டு, 2 ஆண்டுகள், 3 ஆண்டுகள் FDகளை உருவாக்குங்கள் — ஒவ்வொரு ஆண்டும் ஒரு FD முதிர்ச்சியடைய.</value>
+  </data>
+  <data name="Tool_sip_BreakdownTitle" xml:space="preserve">
+    <value>ஆண்டுக்கு ஆண்டு வளர்ச்சி</value>
+  </data>
+  <data name="Tool_goal_StepSip_5" xml:space="preserve">
+    <value>இந்த sip என்பது உங்கள் இலக்குடன் கூடிய மாதாந்திரத் தொகையாகும்.</value>
+  </data>
+  <data name="Common_TenureYearsShort" xml:space="preserve">
+    <value>{0} ஆண்டு</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_3" xml:space="preserve">
+    <value>ஓய்வில் வருடாந்திர செலவு: ~₹19.2 லட்சம் → FIRE கார்ப்பஸ் இலக்கு ≈ ₹4.8 கோடி (25× விதி).</value>
+  </data>
+  <data name="Tool_fire_BreakdownTitle" xml:space="preserve">
+    <value>SIP வளர்ச்சி முன்னறிவிப்பு</value>
+  </data>
+  <data name="Tool_emi_BreakdownTitle" xml:space="preserve">
+    <value>வருடாந்திர தவணைக் குறைப்பு</value>
+  </data>
+  <data name="Tool_inflation_ExampleSubtitle" xml:space="preserve">
+    <value>20 ஆண்டுகளில் 6% பணவீக்கத்தில்</value>
+  </data>
+  <data name="Common_WorkedExample" xml:space="preserve">
+    <value>செயல்பட்ட உதாரணம்</value>
+  </data>
+  <data name="Tool_fire_Scenario_Secure" xml:space="preserve">
+    <value>பாதுகாப்பானது (7%)</value>
+  </data>
+  <data name="Tool_fire_InflationYears" xml:space="preserve">
+    <value>{0}% இல் 5 ஆண்டுகளில்.</value>
+  </data>
+  <data name="Tool_goal_ExampleTitle" xml:space="preserve">
+    <value>தயாரிப்பு எடுத்துக்காட்டு: ₹10L கார் + 5 years இல் அவசர நிதி</value>
+  </data>
+  <data name="Tool_goal_ScenarioSubtitle" xml:space="preserve">
+    <value>இலக்கை அடைய ஒவ்வொரு மாதமும் எவ்வளவு முதலீடு செய்ய வேண்டும்</value>
+  </data>
+  <data name="Tool_fire_Goal_Car" xml:space="preserve">
+    <value>கார்</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Cons" xml:space="preserve">
+    <value>வருமானம் மாறுபடும்; உத்தரவாதம் இல்லை</value>
+  </data>
+  <data name="Tool_emi_Result_TotalPayment" xml:space="preserve">
+    <value>மொத்த செலுத்துதல்</value>
+  </data>
+  <data name="Tool_fire_ScenarioTitle" xml:space="preserve">
+    <value>பாதுகாப்பான vs ஆவியாகும் சேமிப்பு பாதை</value>
+  </data>
+  <data name="Tool_inflation_ExampleTitle" xml:space="preserve">
+    <value>தயாரிப்பு உதாரணம்: இன்று ₹50,000 மாதாந்திர செலவு</value>
+  </data>
+  <data name="Tool_fire_Result_MonthlySip" xml:space="preserve">
+    <value>தேவையான மாதாந்திர SIP</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_5" xml:space="preserve">
+    <value>முக்கிய நுண்ணறிவு: அதிக வருமானத்தைத் துரத்துவதை விட முன்கூட்டியே தொடங்குவதும் நிலைத்தன்மையும் முக்கியம்.</value>
+  </data>
+  <data name="Tool_sip_Result_TotalInvested" xml:space="preserve">
+    <value>மொத்த முதலீடு</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Pros" xml:space="preserve">
+    <value>யூகிக்கக்கூடியது</value>
+  </data>
+  <data name="Tool_goal_Source_BajajAmc" xml:space="preserve">
+    <value>Bajaj AMC — Nifty 50 வரலாற்று வருவாய்கள்</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Example" xml:space="preserve">
+    <value>மாத வருமானத்தில் 20% சேமிக்கவும்</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_3" xml:space="preserve">
+    <value>எதிர்காலத்தில் தேவைப்படும் பணத்தில் பணவீக்கத்தின் தாக்கத்தை புரிந்து கொள்ளுங்கள்</value>
+  </data>
+  <data name="Tool_goal_FormulaInflationTitle" xml:space="preserve">
+    <value>பணவீக்கம் சரிசெய்யப்பட்ட இலக்கு</value>
+  </data>
+  <data name="Tool_goal_Info_Link_Rbi" xml:space="preserve">
+    <value>RBI — நிதிக் கல்வி / பண அடிப்படைகள்</value>
+  </data>
+  <data name="Tool_sip_ScenarioSubtitle" xml:space="preserve">
+    <value>அதே SIP, வெவ்வேறு வருவாய் அனுமானங்கள்</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_3" xml:space="preserve">
+    <value>12% (அடிப்படை) விகிதத்தில், கார்ப்பஸ் சுமார் ₹50 லட்சம் வரை செல்லும்.</value>
+  </data>
+  <data name="Common_Scenario_YourRate" xml:space="preserve">
+    <value>உங்கள் விகிதம்</value>
+  </data>
+  <data name="Tool_inflation_ScenarioSubtitle" xml:space="preserve">
+    <value>அதே தொகை, வெவ்வேறு பணவீக்க அனுமானங்கள்</value>
+  </data>
+  <data name="Common_RateAssumptions" xml:space="preserve">
+    <value>விகித அனுமானங்கள் (மேலே திருத்தக்கூடியவை)</value>
+  </data>
+  <data name="Tool_fire_ScenarioSubtitle" xml:space="preserve">
+    <value>FIRE கார்பஸை அடைய மாதாந்திர SIP தேவை</value>
+  </data>
+  <data name="Tool_goal_Info_RealLife" xml:space="preserve">
+    <value>கார் வாங்குதல், அவசரகால நிதியை உருவாக்குதல், முன்பணம் செலுத்துதல் திட்டமிடல், கல்வி நிதி - இலக்குத் தொகை மற்றும் காலக்கெடுவுடன் எதையும்.</value>
+  </data>
+  <data name="Common_CopyFormulaAria" xml:space="preserve">
+    <value>சூத்திரத்தை நகலெடுக்கவும்</value>
+  </data>
+  <data name="Tool_emi_Scenario_Shorter" xml:space="preserve">
+    <value>குறுகிய காலம்</value>
+  </data>
+  <data name="Common_ScenarioComparisonAria" xml:space="preserve">
+    <value>காட்சி ஒப்பீடு</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_2" xml:space="preserve">
+    <value>கணிக்கக்கூடிய (பாதுகாப்பான) மற்றும் நிச்சயமற்ற (கொந்தளிப்பான) பாதைகளை ஒப்பிடுக</value>
+  </data>
+  <data name="Tool_fire_BreakdownSubtitle" xml:space="preserve">
+    <value>மாதம் {0} சேமிப்பு @ {1}%</value>
+  </data>
+  <data name="Common_Footnote_RatePa" xml:space="preserve">
+    <value>{0} p.a. விகிதம்</value>
+  </data>
+  <data name="Tool_goal_Source_PolicyBazaar" xml:space="preserve">
+    <value>PolicyBazaar — FD வட்டி விகிதங்கள்</value>
+  </data>
+  <data name="Tool_emi_Scenario_Longer" xml:space="preserve">
+    <value>நீண்ட காலம்</value>
+  </data>
+  <data name="Common_Label_FutureValue" xml:space="preserve">
+    <value>எதிர்கால மதிப்பு</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Name" xml:space="preserve">
+    <value>எளிய பட்ஜெட் விதி</value>
+  </data>
+  <data name="Tool_goal_StepSip_4" xml:space="preserve">
+    <value>SIP சூத்திரத்தைப் பயன்படுத்தவும்: sip = இலக்கு × r / ((1 + r) ^ months − 1).</value>
+  </data>
+  <data name="Common_Label_Corpus" xml:space="preserve">
+    <value>கார்பஸ்</value>
+  </data>
+  <data name="Common_Label_MonthlySip" xml:space="preserve">
+    <value>மாதாந்திர SIP</value>
+  </data>
+  <data name="Common_Footnote_InflationRate" xml:space="preserve">
+    <value>{0} பணவீக்கம்</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_5" xml:space="preserve">
+    <value>7% பாதுகாப்பான வருமானத்தில், சுமார் ₹92,000/மாதம் தேவை — நிலையற்ற பாதை குறைந்த சேமிப்பைக் கோருகிறது ஆனால் ஆபத்து உள்ளது.</value>
+  </data>
+  <data name="Tool_fire_Scenario_Volatile" xml:space="preserve">
+    <value>நிலையற்றது (15%)</value>
+  </data>
+  <data name="Tool_emi_ScenarioSubtitle" xml:space="preserve">
+    <value>அதே கடன், வெவ்வேறு காலங்கள்</value>
+  </data>
+  <data name="Tool_fire_Goal_Interior" xml:space="preserve">
+    <value>உள்துறை</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Cons" xml:space="preserve">
+    <value>குறிப்பிட்ட இலக்கு அல்ல; காலக்கெடு தெளிவு இல்லை</value>
+  </data>
+  <data name="Common_Col_PrincipalPaid" xml:space="preserve">
+    <value>முதல்வர் செலுத்தினார்</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_3" xml:space="preserve">
+    <value>20 ஆண்டுகளில், அது சுமார் ₹1.6 லட்சம்/மாதம் வரை உயரும்.</value>
+  </data>
+  <data name="Tool_goal_Source_SumMoney" xml:space="preserve">
+    <value>sum.money — Nifty ரிட்டர்ன்ஸ் கால்குலேட்டர்</value>
+  </data>
+  <data name="Tool_fire_Goal_Travel" xml:space="preserve">
+    <value>பயணம்</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Name" xml:space="preserve">
+    <value>SIP கால்குலேட்டர்</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_3" xml:space="preserve">
+    <value>20 ஆண்டுகளில் மொத்த செலுத்துதல்: சுமார் ₹52 லட்சம் — அதில் ~₹27 லட்சம் வட்டி.</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Example" xml:space="preserve">
+    <value>5 yearsக்கு ₹10,000/மாதம் SIP 12%</value>
+  </data>
+  <data name="Common_Summary" xml:space="preserve">
+    <value>சுருக்கம்</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_4" xml:space="preserve">
+    <value>10% வருமானத்தில், இதை அடைய சுமார் ₹66,000/மாதம் SIP தேவை.</value>
+  </data>
+  <data name="Tool_goal_StepSip_2" xml:space="preserve">
+    <value>மொத்த எண்ணிக்கை months: months = years × 12.</value>
+  </data>
+  <data name="Common_EmptyCell" xml:space="preserve">
+    <value>—</value>
+  </data>
+  <data name="Tool_fd_ExampleTitle" xml:space="preserve">
+    <value>தயாரிப்பு உதாரணம்: ₹3,00,000 ஐ 3 FDகளாகப் பிரித்தல்</value>
+  </data>
+  <data name="Common_Col_FutureCost" xml:space="preserve">
+    <value>எதிர்கால செலவு</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Cons" xml:space="preserve">
+    <value>வரிக்குப் பிறகு பணவீக்கத்தை வெல்ல முடியாது</value>
+  </data>
+  <data name="Tool_sip_Scenario_Conservative" xml:space="preserve">
+    <value>பாதுகாப்பான</value>
+  </data>
+  <data name="Tool_fire_RuleNote" xml:space="preserve">
+    <value>(4% திரும்பப் பெறுதல் விகிதத்தின் அடிப்படையில்).</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_1" xml:space="preserve">
+    <value>கடன்: ₹25,00,000, 8.5% விகிதத்தில் 20 ஆண்டுகள்.</value>
+  </data>
+  <data name="Tool_goal_Result_VolatileRange" xml:space="preserve">
+    <value>{0} – {1} வரம்பு</value>
+  </data>
+  <data name="Tool_fire_InflationBecomes" xml:space="preserve">
+    <value>சுமார் ஆகிறது</value>
+  </data>
+  <data name="Tool_goal_Info_WhyKnow" xml:space="preserve">
+    <value>பெரும்பாலான மக்கள் தெளிவான இலக்கு இல்லாமல் சேமிக்கிறார்கள். இது உங்கள் இலக்கை அளவிடக்கூடியதாக ஆக்குகிறது மற்றும் வருமானம் மற்றும் பணவீக்கம் தேவையான மாதாந்திர சேமிப்பை எவ்வாறு மாற்றுகிறது என்பதைக் காட்டுகிறது.</value>
+  </data>
+  <data name="Tool_fire_Result_YearsToFire" xml:space="preserve">
+    <value>FIRE வரை ஆண்டுகள்</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_4" xml:space="preserve">
+    <value>உங்கள் வருமானம் அல்லது முதலீடுகள் குறைந்தபட்சம் பணவீக்க விகிதத்தில் வளரவில்லை என்றால், நீங்கள் பின்தங்கி வருகிறீர்கள்.</value>
+  </data>
+  <data name="Tool_goal_FormulaSipTitle" xml:space="preserve">
+    <value>மாதாந்திர SIP தேவை</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_4" xml:space="preserve">
+    <value>15% (ஆக்கிரமிப்பு) விகிதத்தில், கார்ப்பஸ் சுமார் ₹67 லட்சம் வரை செல்லலாம்.</value>
+  </data>
+  <data name="Tool_goal_Info_Purpose" xml:space="preserve">
+    <value>இலக்குத் தொகை மற்றும் நேர எல்லையை எளிய மாதாந்திர சேமிப்புத் திட்டமாக மாற்றவும்.</value>
+  </data>
+  <data name="Tool_emi_Result_MonthlyEmi" xml:space="preserve">
+    <value>மாதாந்திர EMI</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_4" xml:space="preserve">
+    <value>12% ஈக்விட்டி போன்ற வருவாயில் உள்ள நிலையற்றத் தளத்திற்குத் தோராயமாக ₹16,400/மாதம் தேவை — ஆனால் முடிவுகள் ~₹19,800 (8%) முதல் ~₹14,600 (15%) வரை இருக்கலாம்.</value>
+  </data>
+  <data name="Tool_emi_ScenarioTitle" xml:space="preserve">
+    <value>காலத்தின் தாக்கம்</value>
+  </data>
+  <data name="Common_Label_Increase" xml:space="preserve">
+    <value>அதிகரிக்கவும்</value>
+  </data>
+  <data name="Tool_sip_FormulaNote" xml:space="preserve">
+    <value>FV என்பது உங்கள் முதலீட்டின் எதிர்கால மதிப்பு. ^ என்பது 'அடுக்கிற்கு' என்று பொருள்.</value>
+  </data>
+  <data name="Tool_fire_Goal_Marriage" xml:space="preserve">
+    <value>திருமணம்</value>
+  </data>
+  <data name="Tool_goal_StepSip_3" xml:space="preserve">
+    <value>கூட்டுக் காரணியைக் கணக்கிடுங்கள்: (1 + ஆர்) ^ months.</value>
+  </data>
+  <data name="Common_Breakdown" xml:space="preserve">
+    <value>முறிவு</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_2" xml:space="preserve">
+    <value>10% (பாதுகாப்பான) விகிதத்தில், கார்ப்பஸ் சுமார் ₹41 லட்சம் வரை வளரும்.</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileWorst" xml:space="preserve">
+    <value>ஆவியாகும் - மோசமான</value>
+  </data>
+  <data name="Tool_sip_ScenarioTitle" xml:space="preserve">
+    <value>திரும்பும் காட்சிகள்</value>
+  </data>
+  <data name="Common_Label_EndValue" xml:space="preserve">
+    <value>இறுதி மதிப்பு</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_2" xml:space="preserve">
+    <value>6% பணவீக்கத்தில், 10 ஆண்டுகளில் அதே வாழ்க்கைமுறைக்கு சுமார் ₹89,500/மாதம் தேவை.</value>
+  </data>
+  <data name="Common_Footnote_AtReturn" xml:space="preserve">
+    <value>{0} திரும்பும் நேரத்தில்</value>
+  </data>
+  <data name="Common_Footnote_AfterYears" xml:space="preserve">
+    <value>{0} yearsக்குப் பிறகு</value>
+  </data>
+  <data name="Tool_inflation_Result_PresentFootnote" xml:space="preserve">
+    <value>தற்போதைய மதிப்பு</value>
+  </data>
+  <data name="Tool_goal_BreakdownTitle" xml:space="preserve">
+    <value>ஆண்டுக்கு ஆண்டு கணிப்பு (கொந்தளிப்பான அடிப்படை)</value>
+  </data>
+  <data name="Tool_goal_StepInflation_1" xml:space="preserve">
+    <value>இன்றைய கோல் தொகையுடன் (targetToday) தொடங்கவும்.</value>
+  </data>
+  <data name="Common_Label_MonthlySaving" xml:space="preserve">
+    <value>மாதாந்திர சேமிப்பு</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_When" xml:space="preserve">
+    <value>உங்களுக்கு ஒரு கடினமான திட்டம் தேவைப்படும்போது</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_When" xml:space="preserve">
+    <value>நிலையான விகிதத்தில் நிலையான மாதாந்திர வைப்புத்தொகையை நீங்கள் விரும்பும் போது</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_1" xml:space="preserve">
+    <value>உங்கள் இலக்கை நேரக்கட்டுப்பாடு மற்றும் எண்ணை சார்ந்ததாக ஆக்குங்கள்</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_4" xml:space="preserve">
+    <value>நீண்டகால வைப்பை முன்கூட்டியே உடைக்காமல் முன்னறிந்த நீர்மையை வழங்குகிறது.</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Example" xml:space="preserve">
+    <value>5 yearsக்கு ₹10,000/மாதம் RD 7%</value>
+  </data>
+  <data name="Tool_fd_FormulaNote" xml:space="preserve">
+    <value>P வைப்பு, r வருடாந்திர விகிதம் (தசமம்), t ஆண்டுகள். எளிமைப்படுத்தப்பட்ட வருடாந்திர கூட்டு வட்டி; ^ என்பது 'அடுக்கிற்கு' என்று பொருள்.</value>
+  </data>
+  <data name="Tool_goal_Scenario_Secure" xml:space="preserve">
+    <value>பாதுகாப்பானது</value>
+  </data>
+  <data name="Tool_fire_ExampleTitle" xml:space="preserve">
+    <value>தயாரிப்பு உதாரணம்: ₹50,000/மாதம் செலவில் 50 வயதில் ஓய்வு</value>
+  </data>
+  <data name="Tool_inflation_Scenario_Low" xml:space="preserve">
+    <value>குறைவு (4%)</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedTarget" xml:space="preserve">
+    <value>சரிசெய்யப்பட்ட இலக்கு</value>
+  </data>
+  <data name="Tool_fire_ExampleSubtitle" xml:space="preserve">
+    <value>இன்று வயது 30, 6% பணவீக்கம், 10% வருமானம்</value>
+  </data>
+  <data name="Common_YearN" xml:space="preserve">
+    <value>ஆண்டு {0}</value>
+  </data>
+  <data name="Tool_sip_Result_EstimatedValue" xml:space="preserve">
+    <value>மதிப்பிடப்பட்ட மதிப்பு</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Pros" xml:space="preserve">
+    <value>வேகமாகவும் எளிதாகவும்</value>
+  </data>
+  <data name="Tool_goal_Result_SecureMonthly" xml:space="preserve">
+    <value>மாதாந்திர பாதுகாப்பு</value>
+  </data>
+  <data name="Tool_fire_RuleFormula" xml:space="preserve">
+    <value>வருடாந்திர செலவு × 25</value>
+  </data>
+  <data name="Tool_sip_ExampleSubtitle" xml:space="preserve">
+    <value>பாதுகாப்பான 10%, அடிப்படை 12%, ஆக்கிரமிப்பு 15%</value>
+  </data>
+  <data name="Tool_goal_Info_Motto" xml:space="preserve">
+    <value>சிறிய படிகள், நிலையான பயணம் - பதட்டத்துடன் அல்ல, தெளிவுடன் சேமிக்கவும்.</value>
+  </data>
+  <data name="Tool_goal_Result_VolatileMonthly" xml:space="preserve">
+    <value>ஆவியாகும் மாதாந்திர (அடிப்படை)</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_1" xml:space="preserve">
+    <value>₹3,00,000 ஐ 3 சம பாகங்களாகப் பிரிக்கவும் → ஒவ்வொன்றும் ₹1,00,000.</value>
+  </data>
+  <data name="Tool_goal_ScenarioTitle" xml:space="preserve">
+    <value>பாதுகாப்பான மற்றும் நிலையற்ற மாதாந்திர சேமிப்பு</value>
+  </data>
+  <data name="Tool_fire_Quote" xml:space="preserve">
+    <value>பணத்தை சேமிக்கவும், பணம் உங்களை காப்பாற்றும்.</value>
+  </data>
+  <data name="Tool_emi_BreakdownSubtitle" xml:space="preserve">
+    <value>ஒவ்வொரு ஆண்டும் செலுத்தப்பட்ட அசல் vs வட்டி</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileBest" xml:space="preserve">
+    <value>ஆவியாகும் - சிறந்தது</value>
+  </data>
+  <data name="Tool_goal_Result_SecureFootnote" xml:space="preserve">
+    <value>{0}% p.a. நிலையான வருவாய்</value>
+  </data>
+  <data name="Common_Label_Return" xml:space="preserve">
+    <value>வருமானம்</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_5" xml:space="preserve">
+    <value>காலத்தைத் தேர்ந்தெடுப்பதற்கு முன் EMI சாத்தியக்கூறு vs மொத்த வட்டி செலவை எப்போதும் ஒப்பிடுங்கள்.</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedFootnoteToday" xml:space="preserve">
+    <value>இன்றைய ரூபாய்</value>
+  </data>
+  <data name="Tool_inflation_FormulaNote" xml:space="preserve">
+    <value>i என்பது ஆண்டுக்கு பணவீக்க விகிதம் (தசமமாக, எ.கா. 6% = 0.06). ^ என்பது 'அடுக்கிற்கு' என்று பொருள்.</value>
+  </data>
+  <data name="Tool_goal_StepInflation_4" xml:space="preserve">
+    <value>அதை years எண்ணாக உயர்த்தவும்: (1 + inflationRate) ^ years.</value>
+  </data>
+  <data name="Common_WorkedExampleAria" xml:space="preserve">
+    <value>விரிவான உதாரணம்</value>
+  </data>
+  <data name="Common_Label_Months" xml:space="preserve">
+    <value>மாதங்கள்</value>
+  </data>
+  <data name="Common_ResultSummaryAria" xml:space="preserve">
+    <value>முடிவு சுருக்கம்</value>
+  </data>
+  <data name="Tool_goal_BreakdownSubtitle" xml:space="preserve">
+    <value>அடிப்படை ஆவியாகும் மாதாந்திரத் தொகையைச் சேமித்தால்</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Pros" xml:space="preserve">
+    <value>சாத்தியமான அதிக வளர்ச்சி</value>
+  </data>
+  <data name="Tool_goal_StepSip_1" xml:space="preserve">
+    <value>ஆண்டு வருமானத்தை மாதாந்திரமாக மாற்றவும்: r = annualReturn / 12.</value>
+  </data>
+  <data name="Tool_inflation_Scenario_High" xml:space="preserve">
+    <value>அதிகம் (8%)</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_4" xml:space="preserve">
+    <value>காலத்தை 15 ஆண்டுகளாகக் குறைத்தால், EMI உயரும் ஆனால் மொத்த வட்டி குறிப்பிடத்தக்க அளவு குறையும்.</value>
+  </data>
+  <data name="Common_Col_TodaysValue" xml:space="preserve">
+    <value>இன்றைய மதிப்பு</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileBase" xml:space="preserve">
+    <value>ஆவியாகும் - அடிப்படை</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_5" xml:space="preserve">
+    <value>அதனால்தான் FIRE மற்றும் இலக்கு திட்டமிடலில் இன்றைய எண்கள் மட்டுமல்ல, பணவீக்கத்தையும் கணக்கில் எடுக்க வேண்டும்.</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_When" xml:space="preserve">
+    <value>நீங்கள் சந்தையுடன் இணைக்கப்பட்ட நிதிகளில் முதலீடு செய்யும்போது</value>
+  </data>
+  <data name="Tool_fire_Result_TargetCorpus" xml:space="preserve">
+    <value>இலக்கு கார்ப்பஸ்</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_5" xml:space="preserve">
+    <value>வர்த்தகம்: பாதுகாப்பானது கணிக்கக்கூடிய விளைவை அளிக்கிறது; நிலையற்ற தன்மையுடன் குறைந்த மாதாந்திர சேமிப்பு தேவைப்படலாம்.</value>
+  </data>
+  <data name="Tool_fd_BreakdownSubtitle" xml:space="preserve">
+    <value>ஒவ்வொரு FD: {0}</value>
+  </data>
+  <data name="Tool_goal_Info_Abbreviation" xml:space="preserve">
+    <value>இலக்கு அடிப்படையிலான சேமிப்பு திட்டமிடுபவர் (நிலையான சுருக்கம் இல்லை)</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_1" xml:space="preserve">
+    <value>நீங்கள் 15 ஆண்டுகள் ஒவ்வொரு மாதமும் ₹10,000 முதலீடு செய்கிறீர்கள் — மொத்தம் ₹18 லட்சம் முதலீடு.</value>
+  </data>
+  <data name="Tool_fire_RuleTitle" xml:space="preserve">
+    <value>கட்டளை விதி (எளிமையானது)</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_2" xml:space="preserve">
+    <value>6% பணவீக்கத்துடன், எதிர்கால இலக்கு ₹13.4 லட்சமாக இருக்கும்.</value>
+  </data>
+  <data name="Tool_inflation_ScenarioTitle" xml:space="preserve">
+    <value>பணவீக்க காட்சிகள்</value>
+  </data>
+  <data name="Tool_goal_StepInflation_3" xml:space="preserve">
+    <value>வளர்ச்சிக் காரணியைக் கணக்கிடுங்கள்: (1 + inflationRate).</value>
+  </data>
+  <data name="Tool_inflation_Result_IncreaseNeeded" xml:space="preserve">
+    <value>தேவையான அதிகரிப்பு</value>
+  </data>
+  <data name="Tool_inflation_Result_CostToday" xml:space="preserve">
+    <value>இன்றைய செலவு</value>
+  </data>
+  <data name="Common_ScenarioComparison" xml:space="preserve">
+    <value>காட்சி ஒப்பீடு</value>
+  </data>
+  <data name="Tool_emi_FormulaNote" xml:space="preserve">
+    <value>P என்பது கடனின் அசல் தொகை. ^ என்பது 'அடுக்கிற்கு' என்று பொருள்.</value>
+  </data>
+  <data name="Common_NoDataYet" xml:space="preserve">
+    <value>இன்னும் தரவு இல்லை.</value>
+  </data>
+  <data name="Tool_fire_Goal_House" xml:space="preserve">
+    <value>வீடு</value>
+  </data>
+  <data name="Tool_sip_Scenario_Aggressive" xml:space="preserve">
+    <value>ஆக்கிரமிப்பு</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_1" xml:space="preserve">
+    <value>இலக்கு: பயன்படுத்திய காருக்கு இன்றைய பணத்தில் ₹10,00,000 + 5 years இல் எமர்ஜென்சி பஃபர்.</value>
+  </data>
+  <data name="Tool_fire_InflationToday" xml:space="preserve">
+    <value>இன்று ₹100</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_3" xml:space="preserve">
+    <value>1-ஆண்டு FD முதிர்ச்சியடையும்போது, அதைப் பயன்படுத்தலாம் அல்லது புதிய நீண்ட FDக்கு மாற்றலாம்.</value>
+  </data>
+  <data name="Tool_goal_SummaryAria" xml:space="preserve">
+    <value>இலக்கு திட்டமிடுபவர் சுருக்கம்</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_2" xml:space="preserve">
+    <value>இன்றைய மாதாந்திர செலவு ₹50,000 ஓய்வுக்கு சுமார் ₹1.6 லட்சம்/மாதம் (6% பணவீக்கம்).</value>
+  </data>
+  <data name="Tool_emi_Result_TotalInterest" xml:space="preserve">
+    <value>மொத்த வட்டி</value>
+  </data>
+  <data name="Tool_fire_Goal_Other" xml:space="preserve">
+    <value>மற்றவை</value>
+  </data>
+  <data name="Common_Col_Balance" xml:space="preserve">
+    <value>இருப்பு</value>
+  </data>
+  <data name="Tool_fd_ExampleSubtitle" xml:space="preserve">
+    <value>வருடாந்திர நீர்மைக்கு 1y, 2y, 3y காலங்கள்</value>
+  </data>
+  <data name="Tool_fire_Result_CorpusFootnote" xml:space="preserve">
+    <value>எதிர்கால மாதாந்திர செலவு: {0}</value>
+  </data>
+  <data name="Common_Copy" xml:space="preserve">
+    <value>நகலெடுக்கவும்</value>
+  </data>
+  <data name="Tool_sip_Result_ValueFootnote" xml:space="preserve">
+    <value>{0} வருமானத்தில்</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Name" xml:space="preserve">
+    <value>RD/FD கால்குலேட்டர்</value>
+  </data>
+  <data name="Tool_fd_BreakdownTitle" xml:space="preserve">
+    <value>FD ஏணி</value>
+  </data>
+  <data name="Tool_emi_Result_PaymentFootnote" xml:space="preserve">
+    <value>அசல் + வட்டி</value>
+  </data>
+  <data name="Tool_emi_Result_TenureFootnote" xml:space="preserve">
+    <value>{0} ஆண்டு காலம்</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_1" xml:space="preserve">
+    <value>தற்போதைய வயது 30, இலக்கு ஓய்வு 50 — கார்ப்பஸ் உருவாக்க 20 ஆண்டுகள்.</value>
+  </data>
+  <data name="Tool_goal_ExampleSubtitle" xml:space="preserve">
+    <value>2026 ஆம் ஆண்டின் நடுப்பகுதியில் விகித அனுமானங்களைப் பயன்படுத்துதல் (மேலே திருத்தக்கூடியது)</value>
+  </data>
+  <data name="Common_Copied" xml:space="preserve">
+    <value>நகலெடுக்கப்பட்டது</value>
+  </data>
+  <data name="Tool_goal_Info_Differentiation" xml:space="preserve">
+    <value>ஒரு எண்ணைக் கொடுப்பதற்குப் பதிலாக, FinYatra பாதுகாப்பான மற்றும் நிலையற்ற சூழ்நிலைகளை அருகருகே காட்டுகிறது, மேலும் ஆண்டுக்கு ஆண்டு முறிவைக் காட்டுகிறது, இதனால் பயனர்கள் நிச்சயமற்ற தன்மையையும் முன்னேற்றத்தையும் புரிந்துகொள்கிறார்கள்.</value>
+  </data>
+  <data name="Common_Col_InterestPaid" xml:space="preserve">
+    <value>வட்டி செலுத்தப்பட்டது</value>
+  </data>
+  <data name="Tool_fire_GoalsTitle" xml:space="preserve">
+    <value>இலக்குகள் (விரும்பினால்)</value>
+  </data>
+<data name="Tool_fire_Info_Abbreviation" xml:space="preserve"><value>FIRE = நிதி சுதந்திரம், சீக்கிர ஓய்வு</value></data><data name="Tool_fire_Info_Purpose" xml:space="preserve"><value>ஓய்வுக்குத் தேவையான கார்ப்பஸையும் அதை அடைய தேவையான மாதாந்திர முதலீட்டையும் மதிப்பிடுங்கள்.</value></data><data name="Tool_fire_Info_WhyKnow" xml:space="preserve"><value>ஓய்வு திட்டமிடல் பெரும்பாலும் கணிதம் + ஒழுக்கம். FIRE இலக்கை உறுதியாக்குகிறது மற்றும் பணவீக்கம், திரும்பப் பெறுதல் விகித அனுமானங்கள் மற்றும் வருமான எதிர்பார்ப்புகளின் பங்கைக் காட்டுகிறது.</value></data><data name="Tool_fire_Info_RealLife" xml:space="preserve"><value>முழுநேர வேலையை எப்போது நிறுத்தலாம் என்பதைத் தேர்வு செய்தல், தொழில் இடைவெளி திட்டமிடல், அல்லது சம்பளம் இல்லாமல் வாழ்க்கைச் செலவுகளை முதலீடுகள் ஈடுகட்ட முடியும் என்பதை உறுதிப்படுத்துதல்.</value></data><data name="Tool_fire_Info_Goal_1" xml:space="preserve"><value>ஓய்வில் எதிர்கால (பணவீக்கம்-சரிசெய்யப்பட்ட) செலவுகளை மதிப்பிடுங்கள்</value></data><data name="Tool_fire_Info_Goal_2" xml:space="preserve"><value>செலவுகளை கார்ப்பஸ் இலக்காக மாற்றுங்கள் (கட்டளை விதி)</value></data><data name="Tool_fire_Info_Goal_3" xml:space="preserve"><value>கால அளவுக்குத் தேவையான மாதாந்திர SIP ஐக் கணக்கிடுங்கள்</value></data><data name="Tool_fire_Info_Alt_Retirement_Name" xml:space="preserve"><value>ஓய்வு கணக்கிடி</value></data><data name="Tool_fire_Info_Alt_Retirement_When" xml:space="preserve"><value>மேலும் விரிவான மாதிரி வேண்டுமெனில்</value></data><data name="Tool_fire_Info_Alt_Retirement_Example" xml:space="preserve"><value>வருமானம்/செலவு + பணவீக்கம் + ஓய்வூதியம்</value></data><data name="Tool_fire_Info_Alt_Retirement_Pros" xml:space="preserve"><value>மேலும் விரிவானது</value></data><data name="Tool_fire_Info_Alt_Retirement_Cons" xml:space="preserve"><value>அதிக உள்ளீடுகள்; தொடக்கநிலையாளர்களுக்கு கடினம்</value></data><data name="Tool_fire_Info_Alt_Rule_Name" xml:space="preserve"><value>4% விதி மட்டும் மதிப்பீடு</value></data><data name="Tool_fire_Info_Alt_Rule_When" xml:space="preserve"><value>விரைவான கார்ப்பஸ் கட்டளை விதி வேண்டுமெனில்</value></data><data name="Tool_fire_Info_Alt_Rule_Example" xml:space="preserve"><value>வருடாந்திர செலவு × 25</value></data><data name="Tool_fire_Info_Alt_Rule_Pros" xml:space="preserve"><value>மிகவும் எளிமையானது</value></data><data name="Tool_fire_Info_Alt_Rule_Cons" xml:space="preserve"><value>இன்னும் ஒரு எளிமைப்படுத்தல்</value></data><data name="Tool_fire_Info_Alt_Goal_Name" xml:space="preserve"><value>இலக்கு திட்டமிடுபவர்</value></data><data name="Tool_fire_Info_Alt_Goal_When" xml:space="preserve"><value>ஓய்வு மட்டுமல்ல, எந்த இலக்கையும் திட்டமிட வேண்டுமெனில்</value></data><data name="Tool_fire_Info_Alt_Goal_Example" xml:space="preserve"><value>20 ஆண்டுகளில் ₹5Cr</value></data><data name="Tool_fire_Info_Alt_Goal_Pros" xml:space="preserve"><value>நெகிழ்வானது</value></data><data name="Tool_fire_Info_Alt_Goal_Cons" xml:space="preserve"><value>ஓய்வு-குறிப்பிட்டது அல்ல</value></data><data name="Tool_fire_Info_Link_Rbi" xml:space="preserve"><value>RBI — இந்திய ரிசர்வ் வங்கி</value></data><data name="Tool_fire_Info_Link_Sebi" xml:space="preserve"><value>SEBI — முதலீட்டாளர் கல்வி</value></data><data name="Tool_fire_Info_Differentiation" xml:space="preserve"><value>FinYatra தெளிவில் கவனம் செலுத்துகிறது: குறைந்த உள்ளீடுகள், பணவீக்கம்-அறிந்த எண்கள், மற்றும் கார்ப்பஸ் என்னவென்றும் SIP அதை எவ்வாறு உருவாக்குகிறது என்பதையும் பயனர்கள் புரிந்துகொள்ள ஒரு முன்னறிவிப்பு அட்டவணை.</value></data><data name="Tool_fire_Info_Motto" xml:space="preserve"><value>சுதந்திரம் கட்டப்படுகிறது, விரும்பப்படுவதில்லை — திட்டமிட்டு நிலையாக முதலீடு செய்யுங்கள்.</value></data><data name="Tool_fire_FormulaInflateTitle" xml:space="preserve"><value>ஓய்வு ஆண்டு வரை செலவுகளை பணவீக்கமாக்குங்கள்</value></data><data name="Tool_fire_StepInflate_1" xml:space="preserve"><value>தற்போதைய மாதாந்திர செலவை எடுத்துக் கொள்ளுங்கள்.</value></data><data name="Tool_fire_StepInflate_2" xml:space="preserve"><value>ஓய்வு வரை ஆண்டுகளுக்கு அனுமானிக்கப்பட்ட பணவீக்கத்தால் அதை உயர்த்துங்கள்.</value></data><data name="Tool_fire_StepInflate_3" xml:space="preserve"><value>ஓய்வில் அதே வாழ்க்கைமுறைக்கு எவ்வளவு செலவாகும் என்பதை இது தோராயமாகக் கணிக்கிறது.</value></data><data name="Tool_fire_FormulaCorpusTitle" xml:space="preserve"><value>கார்ப்பஸ் இலக்கு (எளிய விதி)</value></data><data name="Tool_fire_StepCorpus_1" xml:space="preserve"><value>எதிர்கால மாதாந்திர செலவை வருடாந்திர செலவாக மாற்றுங்கள்.</value></data><data name="Tool_fire_StepCorpus_2" xml:space="preserve"><value>25 ஆல் பெருக்குங்கள் (4% திரும்பப் பெறுதல் அனுமானத்திற்கு சமம்).</value></data><data name="Tool_fire_FormulaSipTitle" xml:space="preserve"><value>கார்ப்பஸை அடைய தேவையான மாதாந்திர SIP</value></data><data name="Tool_fire_StepSipCalc_1" xml:space="preserve"><value>வருடாந்திர வருமானத்தை மாதாந்திர வருமானம் r ஆக மாற்றுங்கள்.</value></data><data name="Tool_fire_StepSipCalc_2" xml:space="preserve"><value>ஓய்வு வரை மொத்த மாதங்களைக் கணக்கிடுங்கள்.</value></data><data name="Tool_fire_StepSipCalc_3" xml:space="preserve"><value>பங்களிப்புகள் கூட்டு வட்டியாக கார்ப்பஸ் இலக்கை அடைய SIP ஐத் தீர்க்கவும்.</value></data><data name="Tool_sip_Info_Abbreviation" xml:space="preserve"><value>SIP = முறையான முதலீட்டுத் திட்டம்</value></data><data name="Tool_sip_Info_Purpose" xml:space="preserve"><value>நிலையான மாதாந்திர முதலீடு கூட்டு வட்டியுடன் காலப்போக்கில் எவ்வாறு வளரும் என்பதை மதிப்பிடுங்கள்.</value></data><data name="Tool_sip_Info_WhyKnow" xml:space="preserve"><value>SIP திட்டமிடல் யூகிப்பிலிருந்து காப்பாற்றுகிறது. உங்கள் மாதாந்திர சேமிப்பு பழக்கத்தை எதிர்கால இலக்குடன் இணைக்கிறது, மேலும் நேரம் மற்றும் வருமான அனுமானங்கள் முடிவை எவ்வாறு மாற்றுகின்றன என்பதைக் காட்டுகிறது.</value></data><data name="Tool_sip_Info_RealLife" xml:space="preserve"><value>வீட்டு முன்பணம், குழந்தை கல்வி, ஓய்வு அல்லது மாதாந்திர முதலீடு செய்யும் எந்த நீண்டகால இலக்குக்கும்.</value></data><data name="Tool_sip_Info_Goal_1" xml:space="preserve"><value>மாதாந்திர SIP க்கான எதிர்கால மதிப்பை மதிப்பிடுங்கள்</value></data><data name="Tool_sip_Info_Goal_2" xml:space="preserve"><value>பாதுகாப்பான/அடிப்படை/ஆக்கிரமிப்பு வருமான காட்சிகளை ஒப்பிடுங்கள்</value></data><data name="Tool_sip_Info_Goal_3" xml:space="preserve"><value>ஆண்டுக்கு ஆண்டு வளர்ச்சியைப் பார்த்து நம்பிக்கையும் நிலைத்தன்மையும் உருவாக்குங்கள்</value></data><data name="Tool_sip_Info_Alt_Rd_Name" xml:space="preserve"><value>RD கணக்கிடி (வங்கி)</value></data><data name="Tool_sip_Info_Alt_Rd_When" xml:space="preserve"><value>உறுதியான வருமானம் வேண்டுமெனில்</value></data><data name="Tool_sip_Info_Alt_Rd_Example" xml:space="preserve"><value>₹10,000/மாதம் RD @ 7% 10 ஆண்டுகள்</value></data><data name="Tool_sip_Info_Alt_Rd_Pros" xml:space="preserve"><value>முன்னறியக்கூடியது</value></data><data name="Tool_sip_Info_Alt_Rd_Cons" xml:space="preserve"><value>பொதுவாக குறைந்த நீண்டகால வளர்ச்சி</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Name" xml:space="preserve"><value>ஒரேமுறை தொகை கணக்கிடி</value></data><data name="Tool_sip_Info_Alt_Lumpsum_When" xml:space="preserve"><value>மாதாந்திரமல்ல, ஒருமுறை முதலீடு செய்யும்போது</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Example" xml:space="preserve"><value>₹5,00,000 @ 12% 10 ஆண்டுகள்</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Pros" xml:space="preserve"><value>ஒரேமுறை தொகை இருந்தால் எளிமையானது</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Cons" xml:space="preserve"><value>மாதாந்திர ஒழுக்க மாதிரி இல்லை</value></data><data name="Tool_sip_Info_Alt_Goal_Name" xml:space="preserve"><value>இலக்கு திட்டமிடுபவர்</value></data><data name="Tool_sip_Info_Alt_Goal_When" xml:space="preserve"><value>இலக்குத் தொகையிலிருந்து தொடங்கும்போது</value></data><data name="Tool_sip_Info_Alt_Goal_Example" xml:space="preserve"><value>7 ஆண்டுகளில் ₹15L தேவை</value></data><data name="Tool_sip_Info_Alt_Goal_Pros" xml:space="preserve"><value>இலக்கு-முதல் திட்டமிடல்</value></data><data name="Tool_sip_Info_Alt_Goal_Cons" xml:space="preserve"><value>வருமான அனுமானங்கள் தேவை</value></data><data name="Tool_sip_Info_Link_Sebi" xml:space="preserve"><value>SEBI — முதலீட்டாளர் கல்வி</value></data><data name="Tool_sip_Info_Link_Amfi" xml:space="preserve"><value>AMFI — பரஸ்பர நிதி அடிப்படைகள்</value></data><data name="Tool_sip_Info_Differentiation" xml:space="preserve"><value>FinYatra கட்டமைக்கப்பட்ட காட்சிகள் மற்றும் படிக்கக்கூடிய முன்னறிவிப்பு அட்டவணையைச் சேர்க்கிறது, இதனால் பயனர்கள் மதிப்பீடு மற்றும் அதன் பின்னால் உள்ள நிச்சயமற்ற தன்மை இரண்டையும் புரிந்துகொள்கிறார்கள்.</value></data><data name="Tool_sip_Info_Motto" xml:space="preserve"><value>நிலைத்தன்மை செல்வத்தை உருவாக்குகிறது — ஒரு SIP ஒரு முறை.</value></data><data name="Tool_sip_FormulaFvTitle" xml:space="preserve"><value>SIP எதிர்கால மதிப்பு</value></data><data name="Tool_sip_StepFv_1" xml:space="preserve"><value>வருடாந்திர வருமானத்தை மாதாந்திர வருமானமாக மாற்றுங்கள் r = annualReturn/12.</value></data><data name="Tool_sip_StepFv_2" xml:space="preserve"><value>மொத்த மாதங்கள் n = years×12 ஐக் கணக்கிடுங்கள்.</value></data><data name="Tool_sip_StepFv_3" xml:space="preserve"><value>((1+r)^n - 1)/r என்பது மீண்டும் மீண்டும் மாதாந்திர பங்களிப்புகளுக்கான கூட்டு வட்டி பெருக்கி.</value></data><data name="Tool_sip_StepFv_4" xml:space="preserve"><value>மதிப்பிடப்பட்ட எதிர்கால மதிப்புக்கு SIP தொகையால் பெருக்குங்கள்.</value></data><data name="Tool_sip_StepFv_5" xml:space="preserve"><value>r 0% என்றால், FV = SIP × n.</value></data><data name="Tool_emi_Info_Abbreviation" xml:space="preserve"><value>EMI = சம மாதாந்திர தவணை</value></data><data name="Tool_emi_Info_Purpose" xml:space="preserve"><value>கடனுக்கான நிலையான மாதாந்திர தவணையைக் கண்டறியுங்கள், மேலும் காலப்போக்கில் வட்டி vs அசல் எவ்வளவு செல்லுகிறது என்பதைப் புரிந்துகொள்ளுங்கள்.</value></data><data name="Tool_emi_Info_WhyKnow" xml:space="preserve"><value>EMI மாதாந்திர பணப்புழக்கத்தைப் பாதிக்கிறது. விகிதம் அல்லது காலத்தில் சிறிய மாற்றங்கள் மொத்த வட்டியை லட்சங்களாக மாற்றலாம் — EMI அறிவது நீங்கள் புத்திசாலித்தனமான காலம் மற்றும் முன்கூட்டுத் திட்டத்தைத் தேர்வு செய்ய உதவுகிறது.</value></data><data name="Tool_emi_Info_RealLife" xml:space="preserve"><value>வீட்டுக் கடன்கள், கார் கடன்கள், கல்விக் கடன்கள், தனிப்பட்ட கடன்கள் — மாதாந்திர அசல் + வட்டி திருப்பிச் செலுத்தும் எல்லா இடங்களிலும்.</value></data><data name="Tool_emi_Info_Goal_1" xml:space="preserve"><value>கடன் எடுப்பதற்கு முன் மாதாந்திர EMI ஐ அறியுங்கள்</value></data><data name="Tool_emi_Info_Goal_2" xml:space="preserve"><value>மொத்த வட்டிச் செலவைப் பாருங்கள் (நீண்ட காலத்தின் மறைந்த செலவு)</value></data><data name="Tool_emi_Info_Goal_3" xml:space="preserve"><value>தவணைக் குறைப்பைப் புரிந்துகொள்ளுங்கள் (ஆரம்ப EMIகளில் அதிக வட்டி செல்கிறது)</value></data><data name="Tool_emi_Info_Alt_Bank_Name" xml:space="preserve"><value>வங்கி EMI கணக்கிடி</value></data><data name="Tool_emi_Info_Alt_Bank_When" xml:space="preserve"><value>வங்கி-குறிப்பிட்ட சலுகை வேண்டுமெனில்</value></data><data name="Tool_emi_Info_Alt_Bank_Example" xml:space="preserve"><value>₹10L @ 9% 5 ஆண்டுகள்</value></data><data name="Tool_emi_Info_Alt_Bank_Pros" xml:space="preserve"><value>வங்கி தயாரிப்பு விவரங்கள் சேர்க்கப்படலாம்</value></data><data name="Tool_emi_Info_Alt_Bank_Cons" xml:space="preserve"><value>அனுமானங்கள்/கட்டணங்கள் மறைக்கப்படலாம்</value></data><data name="Tool_emi_Info_Alt_Amort_Name" xml:space="preserve"><value>தவணைக் குறைப்பு அட்டவணை கருவி</value></data><data name="Tool_emi_Info_Alt_Amort_When" xml:space="preserve"><value>முழு மாதாந்திர அட்டவணை வேண்டுமெனில்</value></data><data name="Tool_emi_Info_Alt_Amort_Example" xml:space="preserve"><value>மாதம் தோறும் அசல்/வட்டி</value></data><data name="Tool_emi_Info_Alt_Amort_Pros" xml:space="preserve"><value>மிகவும் விரிவானது</value></data><data name="Tool_emi_Info_Alt_Amort_Cons" xml:space="preserve"><value>விரைவாகப் படிப்பது கடினம்</value></data><data name="Tool_emi_Info_Alt_Afford_Name" xml:space="preserve"><value>கட்டளை விதி சாத்தியக்கூறு</value></data><data name="Tool_emi_Info_Alt_Afford_When" xml:space="preserve"><value>விரைவான சோதனை வேண்டுமெனில்</value></data><data name="Tool_emi_Info_Alt_Afford_Example" xml:space="preserve"><value>EMI ≤ கையில் வருமானத்தின் 30–40%</value></data><data name="Tool_emi_Info_Alt_Afford_Pros" xml:space="preserve"><value>விரைவான வடிகட்டி</value></data><data name="Tool_emi_Info_Alt_Afford_Cons" xml:space="preserve"><value>வட்டி விவரம் இல்லை</value></data><data name="Tool_emi_Info_Link_Rbi" xml:space="preserve"><value>RBI — இந்திய ரிசர்வ் வங்கி</value></data><data name="Tool_emi_Info_Differentiation" xml:space="preserve"><value>FinYatra இதை குறைந்தபட்சமாக ஆனால் முழுமையாக வைத்திருக்கிறது: சுருக்க அட்டைகள், காட்சி ஒப்பீடு, மற்றும் படிக்கக்கூடிய தவணைக் குறைப்பு விரிவாக்கம், இதனால் பயனர்கள் கடனின் உண்மையான செலவைப் புரிந்துகொள்கிறார்கள்.</value></data><data name="Tool_emi_Info_Motto" xml:space="preserve"><value>புத்திசாலித்தனமாகக் கடன் வாங்குங்கள் — EMI அமைதியாகவும் முன்னறியக்கூடியதாகவும் வைத்திருங்கள்.</value></data><data name="Tool_emi_FormulaEmiTitle" xml:space="preserve"><value>EMI (நிலையான மாதாந்திர செலுத்துதல்)</value></data><data name="Tool_emi_StepEmi_1" xml:space="preserve"><value>P உங்கள் கடன் அசல் தொகை (கடன் தொகை).</value></data><data name="Tool_emi_StepEmi_2" xml:space="preserve"><value>வருடாந்திர வட்டி விகிதத்தை மாதாந்திர விகிதமாக மாற்றுங்கள்: monthlyRate = annualRate/12.</value></data><data name="Tool_emi_StepEmi_3" xml:space="preserve"><value>n என்பது மாதங்களின் எண்ணிக்கை (ஆண்டுகள் × 12).</value></data><data name="Tool_emi_StepEmi_4" xml:space="preserve"><value>சூத்திரம் மாதம் n வரை அசல்+வட்டியை முழுமையாக செலுத்தும் நிலையான தவணையைக் கொடுக்கிறது.</value></data><data name="Tool_emi_StepEmi_5" xml:space="preserve"><value>விகிதம் 0% என்றால், EMI = P / n.</value></data><data name="Tool_inflation_Info_Abbreviation" xml:space="preserve"><value>பணவீக்கம் (சுருக்கப்பெயர் இல்லை)</value></data><data name="Tool_inflation_Info_Purpose" xml:space="preserve"><value>பணவீக்கத்தால் ஏதோ ஒன்றின் செலவு காலப்போக்கில் எவ்வாறு அதிகரிக்கும் என்பதை மதிப்பிடுங்கள்.</value></data><data name="Tool_inflation_Info_WhyKnow" xml:space="preserve"><value>பெரும்பாலான நிதி இலக்குகள் தோல்வியடைவது ஏனெனில் மக்கள் இன்றைய ரூபாயில் திட்டமிடுகிறார்கள். பணவீக்கம் தேவையான தொகையை அமைதியாக அதிகரிக்கிறது — குறிப்பாக ஓய்வு மற்றும் கல்வி போன்ற நீண்ட காலங்களில்.</value></data><data name="Tool_inflation_Info_RealLife" xml:space="preserve"><value>எதிர்கால பள்ளிக் கட்டணம், எதிர்கால வாடகை, மருத்துவச் செலவுகள், ஓய்வில் வாழ்க்கைச் செலவுகள், வீடு கட்டுதல் போன்ற நீண்டகால திட்டங்கள்.</value></data><data name="Tool_inflation_Info_Goal_1" xml:space="preserve"><value>இன்றைய செலவை எதிர்கால செலவாக மாற்றுங்கள்</value></data><data name="Tool_inflation_Info_Goal_2" xml:space="preserve"><value>பணவீக்கத்தின் கூட்டு தன்மையைப் புரிந்துகொள்ளுங்கள்</value></data><data name="Tool_inflation_Info_Goal_3" xml:space="preserve"><value>FIRE மற்றும் இலக்கு திட்டமிடலை யதார்த்தமாக்குங்கள்</value></data><data name="Tool_inflation_Info_Alt_Rule72_Name" xml:space="preserve"><value>72 விதி தோராயம்</value></data><data name="Tool_inflation_Info_Alt_Rule72_When" xml:space="preserve"><value>விரைவான இரட்டிப்பு நேரம் வேண்டுமெனில்</value></data><data name="Tool_inflation_Info_Alt_Rule72_Example" xml:space="preserve"><value>6% இல், செலவு ~12 ஆண்டுகளில் இரட்டிப்பாகும்</value></data><data name="Tool_inflation_Info_Alt_Rule72_Pros" xml:space="preserve"><value>விரைவான மனக்கணிதம்</value></data><data name="Tool_inflation_Info_Alt_Rule72_Cons" xml:space="preserve"><value>தோராயமானது</value></data><data name="Tool_inflation_Info_Alt_Cpi_Name" xml:space="preserve"><value>அரசு CPI தரவு</value></data><data name="Tool_inflation_Info_Alt_Cpi_When" xml:space="preserve"><value>அதிகாரப்பூர்வ பணவீக்கத் தொடர் தேவையெனில்</value></data><data name="Tool_inflation_Info_Alt_Cpi_Example" xml:space="preserve"><value>CPI பணவீக்க போக்கைப் பார்க்கவும்</value></data><data name="Tool_inflation_Info_Alt_Cpi_Pros" xml:space="preserve"><value>நம்பகமான ஆதாரம்</value></data><data name="Tool_inflation_Info_Alt_Cpi_Cons" xml:space="preserve"><value>கணக்கிடி அல்ல</value></data><data name="Tool_inflation_Info_Alt_Budget_Name" xml:space="preserve"><value>பட்ஜெட் உயர்வு முறை</value></data><data name="Tool_inflation_Info_Alt_Budget_When" xml:space="preserve"><value>வருடாந்திர பட்ஜெட்களைத் திட்டமிடும்போது</value></data><data name="Tool_inflation_Info_Alt_Budget_Example" xml:space="preserve"><value>பட்ஜெட்டை ஆண்டுதோறும் 6% உயர்த்துங்கள்</value></data><data name="Tool_inflation_Info_Alt_Budget_Pros" xml:space="preserve"><value>நடைமுறை திட்டமிடல்</value></data><data name="Tool_inflation_Info_Alt_Budget_Cons" xml:space="preserve"><value>இன்னும் அனுமான அடிப்படையிலானது</value></data><data name="Tool_inflation_Info_Link_Rbi" xml:space="preserve"><value>RBI — இந்திய ரிசர்வ் வங்கி</value></data><data name="Tool_inflation_Info_Link_Mospi" xml:space="preserve"><value>MOSPI — CPI / பணவீக்க புள்ளிவிவரங்கள் (இந்தியா)</value></data><data name="Tool_inflation_Info_Differentiation" xml:space="preserve"><value>FinYatra சூத்திரத்துடன் ஆண்டுக்கு ஆண்டு அட்டவணை மற்றும் உண்மையான உதாரணங்களை இணைக்கிறது, இதனால் பயனர்கள் ஒரு எண்ணை மட்டும் பார்க்காமல் தாக்கத்தை உணர்கிறார்கள்.</value></data><data name="Tool_inflation_Info_Motto" xml:space="preserve"><value>இன்றைய ரூபாய்க்கு அல்ல, நாளைய ரூபாய்க்குத் திட்டமிடுங்கள்.</value></data><data name="Tool_inflation_FormulaFutureTitle" xml:space="preserve"><value>பணவீக்கத்துடன் எதிர்கால செலவு</value></data><data name="Tool_inflation_StepFuture_1" xml:space="preserve"><value>presentCost (இன்றைய விலை) உடன் தொடங்குங்கள்.</value></data><data name="Tool_inflation_StepFuture_2" xml:space="preserve"><value>பணவீக்க % ஐ வளர்ச்சி காரணியாக (1 + inflationRate) மாற்றுங்கள்.</value></data><data name="Tool_inflation_StepFuture_3" xml:space="preserve"><value>அதை ஆண்டுகளின் எண்ணிக்கைக்கு உயர்த்துங்கள் (கூட்டு வட்டி).</value></data><data name="Tool_inflation_StepFuture_4" xml:space="preserve"><value>futureCost பெற பெருக்குங்கள்.</value></data><data name="Tool_inflation_StepFuture_5" xml:space="preserve"><value>அதிகரிப்பு = futureCost - presentCost.</value></data><data name="Tool_fd_Info_Abbreviation" xml:space="preserve"><value>FD = நிரந்தர வைப்பு</value></data><data name="Tool_fd_Info_Purpose" xml:space="preserve"><value>அனைத்தையும் ஒரே தேதியில் பூட்டுவதற்குப் பதிலாக கால இடைவெளியில் முதிர்ச்சியடையும் வகையில் படிப்படியான நிரந்தர வைப்புகளைத் திட்டமிடுங்கள்.</value></data><data name="Tool_fd_Info_WhyKnow" xml:space="preserve"><value>FD ஐ முன்கூட்டியே உடைப்பது பெரும்பாலும் வட்டியைக் குறைக்கிறது. லேடரிங் வைப்புகளை உடைக்கும் தேவையைக் குறைக்கிறது, அதே நேரம் பணத்தை ஒழுங்காக பாதுகாப்பாகவும் கிடைக்குமாறும் வைக்கிறது.</value></data><data name="Tool_fd_Info_RealLife" xml:space="preserve"><value>அவசர நிதி வைப்பு, திட்டமிட்ட செலவுகள் (கட்டணம், பயணம், வீர் புதுப்பித்தல்), மற்றும் முன்னறியக்கூடிய பணப்புழக்கம் விரும்பும் பாதுகாப்பான முதலீட்டாளர்கள்.</value></data><data name="Tool_fd_Info_Goal_1" xml:space="preserve"><value>படிப்படியான முதிர்ச்சியுடன் நீர்மையை மேம்படுத்துங்கள்</value></data><data name="Tool_fd_Info_Goal_2" xml:space="preserve"><value>முன்கூட்டியே உடைப்பு அபராத ஆபத்தைக் குறைக்கவும்</value></data><data name="Tool_fd_Info_Goal_3" xml:space="preserve"><value>வருமானம் vs பணம் அணுகல் சமநிலை</value></data><data name="Tool_fd_Info_Alt_Single_Name" xml:space="preserve"><value>ஒரு நீண்ட FD</value></data><data name="Tool_fd_Info_Alt_Single_When" xml:space="preserve"><value>இடைநிலை நீர்மை தேவையில்லை எனில்</value></data><data name="Tool_fd_Info_Alt_Single_Example" xml:space="preserve"><value>₹3L 3 ஆண்டுகள்</value></data><data name="Tool_fd_Info_Alt_Single_Pros" xml:space="preserve"><value>எளிமையானது</value></data><data name="Tool_fd_Info_Alt_Single_Cons" xml:space="preserve"><value>அபராதம் இல்லாமல் அணுகுவது கடினம்</value></data><data name="Tool_fd_Info_Alt_Mix_Name" xml:space="preserve"><value>FD + நீர்ம நிதி கலவை</value></data><data name="Tool_fd_Info_Alt_Mix_When" xml:space="preserve"><value>சிறிது நீர்மை வேண்டுமெனில்</value></data><data name="Tool_fd_Info_Alt_Mix_Example" xml:space="preserve"><value>50% FD, 50% நீர்ம நிதி</value></data><data name="Tool_fd_Info_Alt_Mix_Pros" xml:space="preserve"><value>சிறந்த அணுகல்</value></data><data name="Tool_fd_Info_Alt_Mix_Cons" xml:space="preserve"><value>அதிக கூறுகள்</value></data><data name="Tool_fd_Info_Alt_Rd_Name" xml:space="preserve"><value>RD ஏணி</value></data><data name="Tool_fd_Info_Alt_Rd_When" xml:space="preserve"><value>ஒரேமுறை தொகையல்ல, மாதாந்திர முதலீடு செய்யும்போது</value></data><data name="Tool_fd_Info_Alt_Rd_Example" xml:space="preserve"><value>₹10k/மாதம் RD</value></data><data name="Tool_fd_Info_Alt_Rd_Pros" xml:space="preserve"><value>ஒழுக்கமான சேமிப்பு</value></data><data name="Tool_fd_Info_Alt_Rd_Cons" xml:space="preserve"><value>வேறு கட்டமைப்பு</value></data><data name="Tool_fd_Info_Link_Rbi" xml:space="preserve"><value>RBI — வைப்பு காப்பீடு (DICGC) சூழல்</value></data><data name="Tool_fd_Info_Link_Dicgc" xml:space="preserve"><value>DICGC — வைப்பு காப்பீடு (இந்தியா)</value></data><data name="Tool_fd_Info_Differentiation" xml:space="preserve"><value>FinYatra ஏணியை தெளிவான அட்டவணையில் FD ஒன்றுக்கு ஒன்று பிரிப்பு மற்றும் முதிர்ச்சி மதிப்பீட்டுடன் காட்டுகிறது, இதனால் ஆண்டுக்கு ஆண்டு நீர்மையைத் திட்டமிடலாம்.</value></data><data name="Tool_fd_Info_Motto" xml:space="preserve"><value>பணத்தை பாதுகாப்பாக வைத்திருங்கள் — உங்களை பூட்டாமல்.</value></data><data name="Tool_fd_FormulaLadderTitle" xml:space="preserve"><value>FD ஏணி பிரிப்பு + முதிர்ச்சி</value></data><data name="Tool_fd_StepLadder_1" xml:space="preserve"><value>totalAmount ஐ சம பாகங்களாக (perFd) பிரிக்கவும்.</value></data><data name="Tool_fd_StepLadder_2" xml:space="preserve"><value>startYears இலிருந்து காலங்களை ஒதுக்குங்கள்: 1y, 2y, 3y...</value></data><data name="Tool_fd_StepLadder_3" xml:space="preserve"><value>ஒவ்வொரு FDக்கும் எளிமைப்படுத்தப்பட்ட வருடாந்திர கூட்டு வட்டியால் முதிர்ச்சியை மதிப்பிடுங்கள்.</value></data><data name="Tool_fd_StepLadder_4" xml:space="preserve"><value>முடிவு ஒரு ஏணி — ஒவ்வொரு ஆண்டும் ஒரு FD முதிர்ச்சியடையும்.</value></data><data name="Page_Privacy_S01_Title" xml:space="preserve"><value>1. நாங்கள் யார்</value></data><data name="Page_Privacy_S01_Body" xml:space="preserve"><value>FinYatra ("நாங்கள்", "எங்களை", "செயலி") இலவச கல்வி நிதி கணக்கிடிகள் மற்றும் திட்டமிடுபவர்களை வழங்குகிறது. இது நூதன் முராரிசெட்டி நிர்வகிக்கும் ஒரு சுயாதீன திட்டம். எப்போதும் எங்களைத் தொடர்பு கொள்ளலாம்:</value></data><data name="Page_Privacy_S02_Title" xml:space="preserve"><value>2. சுருக்கமாக</value></data><data name="Page_Privacy_S02_L1" xml:space="preserve"><value>FinYatra ஐப் பயன்படுத்த கணக்கு, பதிவு அல்லது உள்நுழைவு தேவையில்லை.</value></data><data name="Page_Privacy_S02_L2" xml:space="preserve"><value>கணக்கிடிகளில் நீங்கள் தட்டச்சு செய்யும் எண்கள் உங்கள் உலாவியில் செயலாக்கப்படுகின்றன, எங்கள் சேவையகங்களுக்கு அனுப்பப்படுவதில்லை.</value></data><data name="Page_Privacy_S02_L3" xml:space="preserve"><value>உங்கள் தனிப்பட்ட தரவை நாங்கள் ஒருபோதும் விற்க மாட்டோம் — ஒருபோதும்.</value></data><data name="Page_Privacy_S02_L4" xml:space="preserve"><value>செயலியை இலவசமாக வைத்திருக்க தனியுரிமை-மதிக்கும் பகுப்பாய்வு மற்றும், இயக்கப்பட்டால், விளம்பரத்தைப் பயன்படுத்துகிறோம்.</value></data><data name="Page_Privacy_S03_Title" xml:space="preserve"><value>3. நீங்கள் உள்ளிடும் தகவல்</value></data><data name="Page_Privacy_S03_Body" xml:space="preserve"><value>கணக்கிடி உள்ளீடுகள் (எ.கா. இலக்குத் தொகைகள், வட்டி விகிதங்கள், காலம் மற்றும் செலவுகள்) உங்கள் சாதனத்தில் முடிவுகளைக் கணக்கிட மட்டுமே பயன்படுத்தப்படுகின்றன. அவை உங்கள் உலாவி அமர்வில் இருக்கின்றன, பக்கத்தை மூடும்போது அல்லது புதுப்பிக்கும்போது அழிக்கப்படும், நீங்கள் விரும்பி முடிவை நகலெடுக்கவோ பகிரவோ செய்யாவிட்டால். இந்த மதிப்புகளை சேவையகத்தில் சேமிக்கவோ உங்கள் அடையாளத்துடன் இணைக்கவோ செய்ய மாட்டோம்.</value></data><data name="Page_Privacy_S04_Title" xml:space="preserve"><value>4. தானாக சேகரிக்கப்படும் தகவல்</value></data><data name="Page_Privacy_S04_Body" xml:space="preserve"><value>பெரும்பாலான வலைத்தளங்களைப் போல, எங்கள் ஹோஸ்டிங் வழங்குநர் மற்றும் எந்த பகுப்பாய்வு அல்லது விளம்பர பங்காளிகளும் தானாக உங்கள் IP முகவரி, சாதனம் மற்றும் உலாவி வகை, தோராயமான பிராந்தியம், வரும் பக்கம் மற்றும் பார்க்கப்பட்ட பக்கங்கள் போன்ற நிலையான தொழில்நுட்ப தரவைப் பெறலாம். இது தளத்தைப் பாதுகாப்பாக வைத்திருக்கவும், எந்த கருவிகள் பயனுள்ளவை என்பதைப் புரிந்துகொள்ளவும், சிக்கல்களை சரிசெய்யவும் உதவுகிறது.</value></data><data name="Page_Privacy_S05_Title" xml:space="preserve"><value>5. குக்கீகள் &amp; இதேபோன்ற தொழில்நுட்பங்கள்</value></data><data name="Page_Privacy_S05_Body" xml:space="preserve"><value>காட்சி விருப்பங்களை (உங்கள் Tiles/List தேர்வு போன்றவை) நினைவில் வைக்க சிறிது local storage ஐப் பயன்படுத்துகிறோம். விளம்பரம் இயக்கப்பட்டால், மூன்றாம் தரப்பினர் கீழே விவரிக்கப்பட்டபடி குக்கீகளை அமைக்கலாம். உலாவி அமைப்புகளிலிருந்து எப்போதும் குக்கீகள் மற்றும் local storage ஐ அழிக்கலாம்.</value></data><data name="Page_Privacy_S06_Title" xml:space="preserve"><value>6. விளம்பரம் (Google AdSense)</value></data><data name="Page_Privacy_S06_Body" xml:space="preserve"><value>FinYatra ஐ இலவசமாக வைத்திருக்க Google AdSense மூலம் விளம்பரங்களைக் காட்டலாம். Google மற்றும் அதன் பங்காளிகள் விளம்பரங்களை வழங்கவும் அளவிடவும் குக்கீகள் மற்றும் சாதன அடையாளங்களைப் பயன்படுத்தலாம், உங்கள் அமைப்புகளுக்கு உட்பட்டு, முந்தைய வருகைகளின் அடிப்படையில் தனிப்பயனாக்கப்பட்ட விளம்பரங்கள் உட்பட. விளம்பர தனிப்பயனாக்கத்தைக் கட்டுப்படுத்தலாம்:</value></data><data name="Page_Privacy_S06_LinkAds" xml:space="preserve"><value>Google Ads Settings</value></data><data name="Page_Privacy_S06_BodyAfter" xml:space="preserve"><value>மேலும் அறிய:</value></data><data name="Page_Privacy_S06_LinkPolicy" xml:space="preserve"><value>How Google uses information from sites that use its services</value></data><data name="Page_Privacy_S07_Title" xml:space="preserve"><value>7. மூன்றாம் தரப்பு சேவைகள்</value></data><data name="Page_Privacy_S07_Body" xml:space="preserve"><value>செயலியை வழங்க Google Fonts இலிருந்து Inter எழுத்துரு மற்றும் பொது CDNகளிலிருந்து சில நூலகங்களை ஏற்றுகிறோம். இந்த வழங்குநர்கள் தங்கள் கோப்புகளை வழங்குவதின் பகுதியாக உங்கள் IP முகவரியைப் பெறலாம். ஆதாரங்களுக்கான வெளிப்புற இணைப்புகள் (RBI, SEBI, வங்கிகள் மற்றும் இதேபோன்றவை) குறிப்புக்காக வழங்கப்படுகின்றன; அவற்றின் தனியுரிமை நடைமுறைகள் அவர்களின் சொந்தக் கொள்கைகளால் நிர்வகிக்கப்படுகின்றன.</value></data><data name="Page_Privacy_S08_Title" xml:space="preserve"><value>8. உங்கள் உரிமைகள் &amp; தேர்வுகள்</value></data><data name="Page_Privacy_S08_L1" xml:space="preserve"><value>எந்த தனிப்பட்ட தகவலும் வழங்காமல் செயலியைப் பயன்படுத்துங்கள்.</value></data><data name="Page_Privacy_S08_L2" xml:space="preserve"><value>உலாவியில் குக்கீகள் மற்றும் local storage ஐத் தடுக்கவும் அல்லது நீக்கவும்.</value></data><data name="Page_Privacy_S08_L3" xml:space="preserve"><value>உங்கள் Google கணக்கு அல்லது உலாவி கட்டுப்பாடுகள் மூலம் தனிப்பயனாக்கப்பட்ட விளம்பரங்களிலிருந்து விலகுங்கள்.</value></data><data name="Page_Privacy_S08_L4" xml:space="preserve"><value>எந்த தனியுரிமை கேள்வியையும் கேட்கவோ கவலையைத் தெரிவிக்கவோ எங்களைத் தொடர்பு கொள்ளுங்கள்.</value></data><data name="Page_Privacy_S09_Title" xml:space="preserve"><value>9. குழந்தைகளின் தனியுரிமை</value></data><data name="Page_Privacy_S09_Body" xml:space="preserve"><value>FinYatra பொதுவான பார்வையாளர்களுக்கானது, 13 வயதுக்குட்பட்ட குழந்தைகளுக்கு அல்ல. குழந்தைகளிடமிருந்து தனிப்பட்ட தகவலை வேண்டுமென்றே சேகரிக்க மாட்டோம்.</value></data><data name="Page_Privacy_S10_Title" xml:space="preserve"><value>10. இந்தக் கொள்கையில் மாற்றங்கள்</value></data><data name="Page_Privacy_S10_Body" xml:space="preserve"><value>செயலி வளர்ந்து வருவதற்கேற்ப இந்தக் கொள்கையைப் புதுப்பிக்கலாம். முக்கியமான மாற்றங்கள் புதிய "கடைசியாக புதுப்பிக்கப்பட்டது" தேதியுடன் இங்கே பிரதிபலிக்கும். மாற்றங்களுக்குப் பிறகு FinYatra ஐத் தொடர்ந்து பயன்படுத்துவது திருத்தப்பட்ட கொள்கையை ஏற்றுக்கொள்வதாகும்.</value></data><data name="Page_Terms_S01_Title" xml:space="preserve"><value>1. விதிமுறைகளின் ஏற்பு</value></data><data name="Page_Terms_S01_Body" xml:space="preserve"><value>FinYatra ஐ அணுகுவதன் மூலமோ பயன்படுத்துவதன் மூலமோ, இந்த விதிமுறைகள் மற்றும் நிபந்தனைகளுக்கும் எங்கள்</value></data><data name="Page_Terms_S01_LinkPrivacy" xml:space="preserve"><value>தனியுரிமைக் கொள்கை</value></data><data name="Page_Terms_S01_BodyAfter" xml:space="preserve"><value>க்கும் கட்டுப்படுவதற்கு ஒப்புக்கொள்கிறீர்கள். ஒப்புக்கொள்ளவில்லை என்றால், செயலியைப் பயன்படுத்த வேண்டாம்.</value></data><data name="Page_Terms_S02_Title" xml:space="preserve"><value>2. கல்வி பயன்பாடு மட்டும் — நிதி ஆலோசனை அல்ல</value></data><data name="Page_Terms_S02_Body" xml:space="preserve"><value>FinYatra பொதுவான கல்வி கணக்கிடிகள், மதிப்பீடுகள் மற்றும் விளக்கங்களை வழங்குகிறது. இது நிதி, முதலீடு, வரி அல்லது சட்ட ஆலோசனை அல்ல, மேலும் ஆலோசகர்–வாடிக்கையாளர் உறவை உருவாக்காது. முடிவுகள் விளக்கமானவை மற்றும் நீங்கள் உள்ளிடும் அனுமானங்களைப் பொறுத்தவை. நிதி முடிவுகளை எடுப்பதற்கு முன் எப்போதும் தகுதிவாய்ந்த நிபுணரை அணுகி, அதிகாரப்பூர்வ ஆதாரங்களுடன் எண்களை சரிபார்க்கவும்.</value></data><data name="Page_Terms_S03_Title" xml:space="preserve"><value>3. தகவலின் துல்லியம்</value></data><data name="Page_Terms_S03_Body" xml:space="preserve"><value>சூத்திரங்கள், உதாரணங்கள் மற்றும் விகித அனுமானங்களை சரியாகவும் புதுப்பித்த நிலையிலும் வைத்திருக்க முயற்சிக்கிறோம், ஆனால் துல்லியம், முழுமை அல்லது சரியான நேரத்திற்கான உத்தரவாதம் இல்லை. வட்டி விகிதங்கள், வருமானம், பணவீக்கம் மற்றும் வரி விதிகள் அடிக்கடி மாறுகின்றன, வழங்குநரைப் பொறுத்து வேறுபடுகின்றன. முக்கியமான எண்களை சுயாதீனமாக உறுதிப்படுத்துவது உங்கள் பொறுப்பு.</value></data><data name="Page_Terms_S04_Title" xml:space="preserve"><value>4. உத்தரவாதமான விளைவுகள் இல்லை</value></data><data name="Page_Terms_S04_Body" xml:space="preserve"><value>முன்னறிவிப்புகள் எளிமைப்படுத்தப்பட்ட மாதிரிகளைப் (எ.கா. நிலையான வருடாந்திர கூட்டு வட்டி) பயன்படுத்துகின்றன. உண்மையான முதலீடுகளில் ஆபத்து, கட்டணங்கள், வரிகள் மற்றும் சந்தை ஏற்ற இறக்கங்கள் உள்ளன, இங்கு காட்டப்படும் எந்த மதிப்பீட்டிலிருந்தும் மிகவும் வேறுபட்டு செயல்படலாம். கடந்த செயல்திறன் மற்றும் மாதிரி வருமானம் எதிர்கால முடிவுகளுக்கு உத்தரவாதம் அளிக்காது.</value></data><data name="Page_Terms_S05_Title" xml:space="preserve"><value>5. ஏற்றுக்கொள்ளக்கூடிய பயன்பாடு</value></data><data name="Page_Terms_S05_L1" xml:space="preserve"><value>செயலியை தவறாகப் பயன்படுத்தவோ, அதை சீர்குலைக்க முயற்சிக்கவோ, தானியங்கி தவறான பயன்பாட்டின் மூலம் அணுகவோ வேண்டாம்.</value></data><data name="Page_Terms_S05_L2" xml:space="preserve"><value>FinYatra முடிவுகளை மற்றவர்களுக்கு தொழில்முறை ஆலோசனையாக வழங்க வேண்டாம்.</value></data><data name="Page_Terms_S05_L3" xml:space="preserve"><value>பயனர்களை ஏமாற்ற அல்லது மிரட்ட செயலியை நகலெடுக்க வேண்டாம்.</value></data><data name="Page_Terms_S06_Title" xml:space="preserve"><value>6. அறிவுசார் சொத்து</value></data><data name="Page_Terms_S06_Body" xml:space="preserve"><value>FinYatra பெயர், வடிவமைப்பு, தளவமைப்பு மற்றும் அசல் உள்ளடக்கம் அவற்றின் ஆசிரியருக்குச் சொந்தமானவை. தனிப்பட்ட, வணிக அல்லாத நோக்கங்களுக்கு கணக்கிடிகளைப் பயன்படுத்தலாம், உங்கள் சொந்த முடிவுகளின் திரைப்பிடிப்புகளைப் பகிரலாம். மற்ற அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.</value></data><data name="Page_Terms_S07_Title" xml:space="preserve"><value>7. மூன்றாம் தரப்பு இணைப்புகள் &amp; விளம்பரங்கள்</value></data><data name="Page_Terms_S07_Body" xml:space="preserve"><value>FinYatra மூன்றாம் தரப்பு தளங்களுக்கு (RBI, SEBI, வங்கிகள் போன்றவை) இணைக்கலாம் மற்றும் விளம்பரங்களைக் காட்டலாம். மூன்றாம் தரப்பு உள்ளடக்கம், தயாரிப்புகள் அல்லது நடைமுறைகளை நாங்கள் கட்டுப்படுத்துவதில்லை, அவற்றிற்கு பொறுப்பல்ல. மூன்றாம் தரப்பு தளங்களைப் பார்வையிடுவது உங்கள் சொந்த ஆபத்தில், அவற்றின் விதிமுறைகளுக்கு உட்பட்டது.</value></data><data name="Page_Terms_S08_Title" xml:space="preserve"><value>8. பொறுப்பின் வரம்பு</value></data><data name="Page_Terms_S08_Body" xml:space="preserve"><value>சட்டத்தால் அனுமதிக்கப்பட்ட அதிகபட்ச அளவிற்கு, FinYatra மற்றும் அதன் ஆசிரியர் செயலி அல்லது அதன் முடிவுகளைப் பயன்படுத்துவதாலோ அல்லது அவற்றை நம்புவதாலோ ஏற்படும் எந்த நேரடி, மறைமுக, தற்செயல் அல்லது விளைவு இழப்புகளுக்கும் பொறுப்பல்ல. செயலி "உள்ளபடியே" மற்றும் "கிடைக்கும் படியே" எந்த வகையான உத்தரவாதமும் இல்லாமல் வழங்கப்படுகிறது.</value></data><data name="Page_Terms_S09_Title" xml:space="preserve"><value>9. மாற்றங்கள் &amp; கிடைப்பு</value></data><data name="Page_Terms_S09_Body" xml:space="preserve"><value>எந்த நேரத்திலும் செயலியின் எந்த பகுதியையும் மாற்றலாம், இடைநிறுத்தலாம் அல்லது நிறுத்தலாம், மேலும் இந்த விதிமுறைகளைப் புதுப்பிக்கலாம். மாற்றங்களுக்குப் பிறகு தொடர்ந்து பயன்படுத்துவது புதுப்பிக்கப்பட்ட விதிமுறைகளை ஏற்றுக்கொள்வதாகும்.</value></data><data name="Page_Terms_S10_Title" xml:space="preserve"><value>10. கடன்கள் &amp; குறிப்பு</value></data><data name="Page_Terms_S10_Body" xml:space="preserve"><value>இடைமுக ஐகான்கள் இன்லைன் SVG ஆக வழங்கப்படும் எளிய கோடு ஐகான்கள், திறந்த மூல</value></data><data name="Page_Terms_S10_LinkLucide" xml:space="preserve"><value>Lucide</value></data><data name="Page_Terms_S10_BodyMid" xml:space="preserve"><value>ஐகான் பாணியை அடிப்படையாகக் கொண்டவை (ISC / MIT உரிமம்). எழுத்துரு</value></data><data name="Page_Terms_S10_LinkInter" xml:space="preserve"><value>Inter</value></data><data name="Page_Terms_S10_BodyAfter" xml:space="preserve"><value>Rasmus Andersson உருவாக்கியது, SIL Open Font License கீழ். எந்த சொத்துக்கும் கூடுதல் குறிப்பு தேவை என்று நீங்கள் நம்பினால், தொடர்பு கொள்ளுங்கள்</value></data><data name="Page_Terms_S10_BodyEnd" xml:space="preserve"><value>— உடனடியாக கவனிப்போம்.</value></data><data name="Page_Terms_S11_Title" xml:space="preserve"><value>11. தொடர்பு</value></data><data name="Page_Terms_S11_Body" xml:space="preserve"><value>இந்த விதிமுறைகள் பற்றிய கேள்விகள்? inbox.nuthan@gmail.com க்கு மின்னஞ்சல் அனுப்புங்கள்.</value></data><data name="Page_Contact_Err_CaptchaLoad" xml:space="preserve"><value>பாதுகாப்பு கேள்வியை ஏற்ற முடியவில்லை. மீண்டும் முயற்சிக்கவும் என்பதைத் தட்டவும்.</value></data><data name="Page_Contact_Err_CaptchaAnswer" xml:space="preserve"><value>பாதுகாப்பு சோதனைக்கான பதிலை உள்ளிடவும்.</value></data><data name="Page_Contact_Err_Submit" xml:space="preserve"><value>இப்போது செய்தியை அனுப்ப முடியவில்லை.</value></data><data name="Page_Contact_Err_CaptchaWrong" xml:space="preserve"><value>தவறான பாதுகாப்பு சோதனை. மீண்டும் முயற்சிக்கவும்.</value></data><data name="Page_Contact_Val_NameRequired" xml:space="preserve"><value>பெயர் தேவை.</value></data><data name="Page_Contact_Val_EmailRequired" xml:space="preserve"><value>மின்னஞ்சல் தேவை.</value></data><data name="Page_Contact_Val_EmailInvalid" xml:space="preserve"><value>செல்லுபடியாகும் மின்னஞ்சலை உள்ளிடவும்.</value></data><data name="Page_Contact_Val_SubjectRequired" xml:space="preserve"><value>பொருள் தேவை.</value></data><data name="Page_Contact_Val_MessageRequired" xml:space="preserve"><value>செய்தி தேவை.</value></data><data name="Page_Contact_Val_MessageMin" xml:space="preserve"><value>சிறிது கூடுதல் விவரம் சேர்க்கவும் (குறைந்தது 10 எழுத்துகள்).</value></data><data name="Page_Contact_Val_ConsentRequired" xml:space="preserve"><value>தனியுரிமைக் கொள்கை மற்றும் விதிமுறைகளை ஏற்கவும்.</value></data><data name="Page_Contact_HoneypotLabel" xml:space="preserve"><value>வலைத்தளம்</value></data><data name="Page_Contact_Err_ApiOffline" xml:space="preserve"><value>FinYatra.Server இயங்கவில்லை. டெர்மினலில் இயக்கவும்: dotnet run --project FinYatra.Server — பிறகு கீழே மீண்டும் முயற்சிக்கவும் (அல்லது https://localhost:7265/contact திறக்கவும்).</value></data><data name="Page_Contact_BtnRetryCaptcha" xml:space="preserve"><value>மீண்டும் முயற்சிக்கவும்</value></data><data name="Page_Contact_Unavailable_Title" xml:space="preserve"><value>இப்போது இங்கிருந்து செய்தி அனுப்ப முடியாது</value></data><data name="Page_Contact_Unavailable_Body_Before" xml:space="preserve"><value>எங்கள் பாதுகாப்பான தொடர்பு படிவம் தற்காலிகமாக கிடைக்கவில்லை. தயவுசெய்து எங்களுக்கு மின்னஞ்சல் அனுப்புங்கள் </value></data><data name="Page_Contact_Unavailable_Body_After" xml:space="preserve"><value> — பொதுவாக 2–3 வேலை நாட்களில் பதிலளிப்போம்.</value></data><data name="Page_Contact_BtnTryAgain" xml:space="preserve"><value>மீண்டும் முயற்சிக்கவும்</value></data><data name="Page_Contact_DeliveryUnavailable_Title" xml:space="preserve"><value>உங்கள் செய்தியை அனுப்ப முடியவில்லை</value></data><data name="Page_Contact_BtnEmailUs" xml:space="preserve"><value>பதிலாக மின்னஞ்சல் அனுப்புங்கள்</value></data><data name="Page_Contact_Err_TooManyRequests" xml:space="preserve"><value>பல முயற்சிகள். சில நிமிடங்கள் காத்திருந்து மீண்டும் முயற்சிக்கவும்.</value></data></root>

@@ -1,0 +1,1425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="App_Title" xml:space="preserve">
+    <value>FinYatra</value>
+  </data>
+  <data name="Nav_OpenMenu" xml:space="preserve">
+    <value>मेनू खोलें</value>
+  </data>
+  <data name="Nav_CollapseSidebar" xml:space="preserve">
+    <value>साइडबार संक्षिप्त करें</value>
+  </data>
+  <data name="Nav_CloseMenu" xml:space="preserve">
+    <value>मेनू बंद करें</value>
+  </data>
+  <data name="Nav_SearchPlaceholder" xml:space="preserve">
+    <value>उपकरण खोजें…</value>
+  </data>
+  <data name="Nav_SearchAria" xml:space="preserve">
+    <value>उपकरण खोजें</value>
+  </data>
+  <data name="Nav_SearchGoAria" xml:space="preserve">
+    <value>खोजें</value>
+  </data>
+  <data name="Nav_LanguageAria" xml:space="preserve">
+    <value>भाषा</value>
+  </data>
+  <data name="Nav_PrimaryAria" xml:space="preserve">
+    <value>मुख्य नेविगेशन</value>
+  </data>
+  <data name="Nav_FooterAria" xml:space="preserve">
+    <value>फ़ुटर लिंक</value>
+  </data>
+  <data name="Group_Overview" xml:space="preserve">
+    <value>अवलोकन</value>
+  </data>
+  <data name="Group_Planning" xml:space="preserve">
+    <value>योजना</value>
+  </data>
+  <data name="Group_Investing" xml:space="preserve">
+    <value>निवेश</value>
+  </data>
+  <data name="Group_Loans" xml:space="preserve">
+    <value>ऋण</value>
+  </data>
+  <data name="Group_Basics" xml:space="preserve">
+    <value>मूल बातें</value>
+  </data>
+  <data name="Group_More" xml:space="preserve">
+    <value>और</value>
+  </data>
+  <data name="Group_Assets" xml:space="preserve">
+    <value>संपत्ति</value>
+  </data>
+  <data name="Nav_Home" xml:space="preserve">
+    <value>होम</value>
+  </data>
+  <data name="Nav_AllTools" xml:space="preserve">
+    <value>सभी उपकरण</value>
+  </data>
+  <data name="Nav_GoalPlanner" xml:space="preserve">
+    <value>लक्ष्य योजनाकार</value>
+  </data>
+  <data name="Nav_Fire" xml:space="preserve">
+    <value>FIRE</value>
+  </data>
+  <data name="Nav_FdLaddering" xml:space="preserve">
+    <value>FD लैडरिंग</value>
+  </data>
+  <data name="Nav_Sip" xml:space="preserve">
+    <value>SIP</value>
+  </data>
+  <data name="Nav_Cagr" xml:space="preserve">
+    <value>CAGR</value>
+  </data>
+  <data name="Nav_Lumpsum" xml:space="preserve">
+    <value>एकमुश्त निवेश</value>
+  </data>
+  <data name="Nav_Emi" xml:space="preserve">
+    <value>EMI</value>
+  </data>
+  <data name="Nav_Mortgage" xml:space="preserve">
+    <value>गृह ऋण</value>
+  </data>
+  <data name="Nav_Inflation" xml:space="preserve">
+    <value>मुद्रास्फीति</value>
+  </data>
+  <data name="Nav_CompoundInterest" xml:space="preserve">
+    <value>चक्रवृद्धि ब्याज</value>
+  </data>
+  <data name="Nav_About" xml:space="preserve">
+    <value>परिचय</value>
+  </data>
+  <data name="Nav_Contact" xml:space="preserve">
+    <value>संपर्क</value>
+  </data>
+  <data name="Nav_Sitemap" xml:space="preserve">
+    <value>साइटमैप</value>
+  </data>
+  <data name="Nav_Privacy" xml:space="preserve">
+    <value>गोपनीयता नीति</value>
+  </data>
+  <data name="Nav_Terms" xml:space="preserve">
+    <value>नियम</value>
+  </data>
+  <data name="Label_Soon" xml:space="preserve">
+    <value>जल्द</value>
+  </data>
+  <data name="Footer_MadeWith" xml:space="preserve">
+    <value>बनाया गया</value>
+  </data>
+  <data name="Footer_Rights" xml:space="preserve">
+    <value>सर्वाधिकार सुरक्षित।</value>
+  </data>
+  <data name="Footer_Privacy" xml:space="preserve">
+    <value>गोपनीयता नीति</value>
+  </data>
+  <data name="Footer_Terms" xml:space="preserve">
+    <value>नियम और शर्तें</value>
+  </data>
+  <data name="Footer_About" xml:space="preserve">
+    <value>परिचय</value>
+  </data>
+  <data name="Footer_Contact" xml:space="preserve">
+    <value>संपर्क</value>
+  </data>
+  <data name="Footer_Sitemap" xml:space="preserve">
+    <value>साइटमैप</value>
+  </data>
+  <data name="Footer_AdsTxt" xml:space="preserve">
+    <value>ads.txt</value>
+  </data>
+  <data name="Scroll_NavAria" xml:space="preserve">
+    <value>पृष्ठ स्क्रॉल शॉर्टकट</value>
+  </data>
+  <data name="Scroll_Top" xml:space="preserve">
+    <value>ऊपर</value>
+  </data>
+  <data name="Scroll_Bottom" xml:space="preserve">
+    <value>नीचे</value>
+  </data>
+  <data name="Scroll_TopAria" xml:space="preserve">
+    <value>ऊपर स्क्रॉल करें</value>
+  </data>
+  <data name="Scroll_BottomAria" xml:space="preserve">
+    <value>नीचे स्क्रॉल करें</value>
+  </data>
+  <data name="Home_Badge" xml:space="preserve">
+    <value>मुफ़्त वित्त उपकरण · बिना लॉगिन · भारत-प्रथम</value>
+  </data>
+  <data name="Home_H1_Before" xml:space="preserve">
+    <value>अनुमान नहीं, </value>
+  </data>
+  <data name="Home_H1_Highlight" xml:space="preserve">
+    <value>स्पष्टता</value>
+  </data>
+  <data name="Home_H1_After" xml:space="preserve">
+    <value> से अपने पैसे की योजना बनाएं।</value>
+  </data>
+  <data name="Home_Sub" xml:space="preserve">
+    <value>साफ़, मोबाइल-प्रथम कैलकुलेटर और योजनाकार। हर उपकरण सूत्र, उदाहरण और सुरक्षित बनाम अस्थिर तरीके दिखाता है — ताकि आप परिणाम ही नहीं, “क्यों” भी समझें।</value>
+  </data>
+  <data name="Home_CtaExplore" xml:space="preserve">
+    <value>सभी उपकरण देखें</value>
+  </data>
+  <data name="Home_CtaGoal" xml:space="preserve">
+    <value>लक्ष्य योजनाकार से शुरू करें</value>
+  </data>
+  <data name="Home_StatTools" xml:space="preserve">
+    <value>वित्त उपकरण</value>
+  </data>
+  <data name="Home_StatFree" xml:space="preserve">
+    <value>मुफ़्त उपयोग</value>
+  </data>
+  <data name="Home_StatSignup" xml:space="preserve">
+    <value>बिना साइन-अप</value>
+  </data>
+  <data name="Home_StatLearn" xml:space="preserve">
+    <value>सीखें + गणना</value>
+  </data>
+  <data name="Home_KpiReachGoal" xml:space="preserve">
+    <value>लक्ष्य पूरा करें</value>
+  </data>
+  <data name="Home_KpiStartInvest" xml:space="preserve">
+    <value>निवेश शुरू करें</value>
+  </data>
+  <data name="Home_KpiPlanLoan" xml:space="preserve">
+    <value>ऋण की योजना</value>
+  </data>
+  <data name="Home_KpiUnderstandInflation" xml:space="preserve">
+    <value>मुद्रास्फीति समझें</value>
+  </data>
+  <data name="Home_KpiPlanLiquidity" xml:space="preserve">
+    <value>तरलता की योजना</value>
+  </data>
+  <data name="Home_KpiGoalFoot" xml:space="preserve">
+    <value>सुरक्षित बनाम अस्थिर बचत</value>
+  </data>
+  <data name="Home_KpiSipFoot" xml:space="preserve">
+    <value>मासिक SIP → भविष्य मूल्य</value>
+  </data>
+  <data name="Home_KpiEmiFoot" xml:space="preserve">
+    <value>EMI, ब्याज और कुल</value>
+  </data>
+  <data name="Home_KpiInflationFoot" xml:space="preserve">
+    <value>आज के ₹ की भविष्य लागत</value>
+  </data>
+  <data name="Home_KpiFdFoot" xml:space="preserve">
+    <value>चरणबद्ध फिक्स्ड डिपॉज़िट</value>
+  </data>
+  <data name="Home_QuickToolsAria" xml:space="preserve">
+    <value>त्वरित उपकरण</value>
+  </data>
+  <data name="Home_GainAria" xml:space="preserve">
+    <value>आपको क्या मिलेगा</value>
+  </data>
+  <data name="Home_GainTitle" xml:space="preserve">
+    <value>आपको क्या मिलेगा</value>
+  </data>
+  <data name="Home_GainWhyTitle" xml:space="preserve">
+    <value>“क्यों” समझें</value>
+  </data>
+  <data name="Home_GainWhyText" xml:space="preserve">
+    <value>हर उपकरण छोटी व्याख्या से शुरू होता है ताकि शुरुआती लोग आसानी से समझ सकें।</value>
+  </data>
+  <data name="Home_GainFormulaTitle" xml:space="preserve">
+    <value>सूत्र सीखें</value>
+  </data>
+  <data name="Home_GainFormulaText" xml:space="preserve">
+    <value>हम वित्त में उपयोग होने वाला मानक सूत्र सरल शब्दों में दिखाते हैं।</value>
+  </data>
+  <data name="Home_GainExampleTitle" xml:space="preserve">
+    <value>उदाहरण देखें</value>
+  </data>
+  <data name="Home_GainExampleText" xml:space="preserve">
+    <value>डिफ़ॉल्ट संख्याएँ आज़माएँ और समझें कि परिणाम कैसे बनता है।</value>
+  </data>
+  <data name="Home_AllToolsAria" xml:space="preserve">
+    <value>सभी उपकरण</value>
+  </data>
+  <data name="Home_AllTools" xml:space="preserve">
+    <value>सभी उपकरण</value>
+  </data>
+  <data name="Tools_PageTitle" xml:space="preserve">
+    <value>उपकरण — FinYatra</value>
+  </data>
+  <data name="Tools_Title" xml:space="preserve">
+    <value>उपकरण</value>
+  </data>
+  <data name="Tools_Subtitle" xml:space="preserve">
+    <value>श्रेणी के अनुसार उपकरण चुनें</value>
+  </data>
+  <data name="Tools_Desc" xml:space="preserve">
+    <value>साफ़, संरचित कैलकुलेटर और योजनाकार। हर उपकरण में उदाहरण, मान्यताएँ और स्पष्ट “क्यों” शामिल है।</value>
+  </data>
+  <data name="Tools_TabAll" xml:space="preserve">
+    <value>सभी</value>
+  </data>
+  <data name="Tools_CategoriesAria" xml:space="preserve">
+    <value>उपकरण श्रेणियाँ</value>
+  </data>
+  <data name="View_ChooseLayout" xml:space="preserve">
+    <value>लेआउट चुनें</value>
+  </data>
+  <data name="View_Tiles" xml:space="preserve">
+    <value>टाइल</value>
+  </data>
+  <data name="View_List" xml:space="preserve">
+    <value>सूची</value>
+  </data>
+  <data name="Tools_ComingSoon" xml:space="preserve">
+    <value>जल्द आ रहा है</value>
+  </data>
+  <data name="Tools_NoTools" xml:space="preserve">
+    <value>दिखाने के लिए कोई उपकरण नहीं।</value>
+  </data>
+  <data name="NotFound_Message" xml:space="preserve">
+    <value>क्षमा करें, इस पते पर कुछ नहीं है।</value>
+  </data>
+  <data name="Tool_goal_Title" xml:space="preserve">
+    <value>लक्ष्य योजनाकार</value>
+  </data>
+  <data name="Tool_goal_Description" xml:space="preserve">
+    <value>किसी भी लक्ष्य राशि तक पहुँचने के लिए सुरक्षित बनाम अस्थिर मासिक बचत।</value>
+  </data>
+  <data name="Tool_fire_Title" xml:space="preserve">
+    <value>FIRE कैलकुलेटर</value>
+  </data>
+  <data name="Tool_fire_Description" xml:space="preserve">
+    <value>अपना FIRE कोष और आवश्यक SIP जानें (मुद्रास्फीति-सचेत)।</value>
+  </data>
+  <data name="Tool_fd_Title" xml:space="preserve">
+    <value>FD लैडरिंग</value>
+  </data>
+  <data name="Tool_fd_Description" xml:space="preserve">
+    <value>वार्षिक तरलता और पुनर्निवेश के लिए चरणबद्ध जमा।</value>
+  </data>
+  <data name="Tool_sip_Title" xml:space="preserve">
+    <value>SIP कैलकुलेटर</value>
+  </data>
+  <data name="Tool_sip_Description" xml:space="preserve">
+    <value>दीर्घकालिक SIP वृद्धि का अनुमान और परिदृश्य।</value>
+  </data>
+  <data name="Tool_cagr_Title" xml:space="preserve">
+    <value>CAGR कैलकुलेटर</value>
+  </data>
+  <data name="Tool_cagr_Description" xml:space="preserve">
+    <value>किसी भी निवेश की वार्षिक वृद्धि समझें।</value>
+  </data>
+  <data name="Tool_lumpsum_Title" xml:space="preserve">
+    <value>एकमुश्त वृद्धि</value>
+  </data>
+  <data name="Tool_lumpsum_Description" xml:space="preserve">
+    <value>एक बार के निवेश को समय में आगे प्रक्षेपित करें।</value>
+  </data>
+  <data name="Tool_emi_Title" xml:space="preserve">
+    <value>EMI कैलकुलेटर</value>
+  </data>
+  <data name="Tool_emi_Description" xml:space="preserve">
+    <value>मासिक EMI, कुल ब्याज और वार्षिक परिशोधन।</value>
+  </data>
+  <data name="Tool_mortgage_Title" xml:space="preserve">
+    <value>गृह ऋण कैलकुलेटर</value>
+  </data>
+  <data name="Tool_mortgage_Description" xml:space="preserve">
+    <value>गृह ऋण EMI और सामर्थ्य अनुमान।</value>
+  </data>
+  <data name="Tool_inflation_Title" xml:space="preserve">
+    <value>मुद्रास्फीति कैलकुलेटर</value>
+  </data>
+  <data name="Tool_inflation_Description" xml:space="preserve">
+    <value>आज के पैसे की भविष्य लागत, वर्ष-दर-वर्ष।</value>
+  </data>
+  <data name="Tool_interest_Title" xml:space="preserve">
+    <value>चक्रवृद्धि ब्याज</value>
+  </data>
+  <data name="Tool_interest_Description" xml:space="preserve">
+    <value>बचत और ऋण पर चक्रवृद्धि समझें।</value>
+  </data>
+  <data name="Page_About_DisclaimerBody" xml:space="preserve">
+    <value>FinYatra केवल शैक्षिक अनुमान प्रदान करता है। हम SEBI-पंजीकृत सलाहकार, बैंक या ब्रोकर नहीं हैं। परिणाम आपके द्वारा दर्ज की गई धारणाओं पर निर्भर करते हैं। महत्वपूर्ण वित्तीय निर्णयों से पहले हमेशा योग्य पेशेवर से सत्यापन करें।</value>
+  </data>
+  <data name="Page_Search_Title" xml:space="preserve">
+    <value>खोज</value>
+  </data>
+  <data name="Page_ComingSoon_NextHeading" xml:space="preserve">
+    <value>आगे क्या होगा</value>
+  </data>
+  <data name="Info_Example" xml:space="preserve">
+    <value>उदाहरण</value>
+  </data>
+  <data name="Page_Contact_LabelSecurityCheck" xml:space="preserve">
+    <value>सुरक्षा जाँच</value>
+  </data>
+  <data name="Page_About_Description" xml:space="preserve">
+    <value>FinYatra स्पष्टता के साथ पैसे की योजना बनाने में मदद करता है — कैलकुलेटर, सूत्र और सरल भाषा में विस्तृत उदाहरण।</value>
+  </data>
+  <data name="Page_About_PageTitle" xml:space="preserve">
+    <value>परिचय — FinYatra</value>
+  </data>
+  <data name="Page_Contact_PageTitle" xml:space="preserve">
+    <value>संपर्क — FinYatra</value>
+  </data>
+  <data name="Page_About_Offer4" xml:space="preserve">
+    <value>शैक्षिक सामग्री: सूत्र, धारणाएँ और चरण-दर-चरण स्पष्टीकरण</value>
+  </data>
+  <data name="Info_Purpose" xml:space="preserve">
+    <value>उद्देश्य</value>
+  </data>
+  <data name="Page_Contact_Description" xml:space="preserve">
+    <value>बग रिपोर्ट करें, फ़ीचर अनुरोध करें, प्रश्न पूछें या साझेदारी पर चर्चा करें।</value>
+  </data>
+  <data name="Page_Contact_BtnSending" xml:space="preserve">
+    <value>भेजा जा रहा है…</value>
+  </data>
+  <data name="Page_ComingSoon_LayoutHint" xml:space="preserve">
+    <value>लेआउट बदलने के लिए टाइल्स/सूची का उपयोग करें।</value>
+  </data>
+  <data name="Page_Terms_PageTitle" xml:space="preserve">
+    <value>नियम और शर्तें — FinYatra</value>
+  </data>
+  <data name="Page_Privacy_Subtitle" xml:space="preserve">
+    <value>हम आपके डेटा को कैसे संभालते हैं</value>
+  </data>
+  <data name="Page_Search_SubtitleResults" xml:space="preserve">
+    <value>"{1}" के लिए {0} परिणाम।</value>
+  </data>
+  <data name="Common_Terms" xml:space="preserve">
+    <value>नियम</value>
+  </data>
+  <data name="Page_Search_ResultsHeading" xml:space="preserve">
+    <value>परिणाम</value>
+  </data>
+  <data name="Page_About_ContactHeading" xml:space="preserve">
+    <value>संपर्क करें</value>
+  </data>
+  <data name="Page_Search_NoResultsBody" xml:space="preserve">
+    <value>हमें "{0}" से मेल खाता कोई उपकरण नहीं मिला। goal, sip, emi या inflation जैसा छोटा कीवर्ड आज़माएँ।</value>
+  </data>
+  <data name="Page_Privacy_Description" xml:space="preserve">
+    <value>FinYatra एक कैलकुलेटर-प्रथम, गोपनीयता-अनुकूल ऐप है। यह नीति बताती है कि हम क्या एकत्र करते हैं, क्या नहीं, और आपके पास कौन से विकल्प हैं।</value>
+  </data>
+  <data name="Info_RealLife" xml:space="preserve">
+    <value>वास्तविक जीवन में उपयोग</value>
+  </data>
+  <data name="Page_Sitemap_Subtitle" xml:space="preserve">
+    <value>FinYatra के सभी पृष्ठ</value>
+  </data>
+  <data name="Tool_inflation_Subtitle" xml:space="preserve">
+    <value>भविष्य की लागत को समझें</value>
+  </data>
+  <data name="Page_About_MissionHeading" xml:space="preserve">
+    <value>हमारा मिशन</value>
+  </data>
+  <data name="Page_ComingSoon_Subtitle" xml:space="preserve">
+    <value>जल्द आ रहा है</value>
+  </data>
+  <data name="Page_Contact_RequestType_Translation" xml:space="preserve">
+    <value>अनुवाद सुधार</value>
+  </data>
+  <data name="Info_WhenToUse" xml:space="preserve">
+    <value>कब उपयोग करें</value>
+  </data>
+  <data name="Info_FormulaHowTo" xml:space="preserve">
+    <value>फॉर्मूला और गणना कैसे करें</value>
+  </data>
+  <data name="Page_Privacy_Title" xml:space="preserve">
+    <value>गोपनीयता नीति</value>
+  </data>
+  <data name="Common_Col_Emi" xml:space="preserve">
+    <value>EMI</value>
+  </data>
+  <data name="Common_YourInputs" xml:space="preserve">
+    <value>आपके इनपुट</value>
+  </data>
+  <data name="Page_Contact_LabelMessage" xml:space="preserve">
+    <value>संदेश</value>
+  </data>
+  <data name="Common_PrivacyPolicy" xml:space="preserve">
+    <value>गोपनीयता नीति</value>
+  </data>
+  <data name="Common_Formula" xml:space="preserve">
+    <value>सूत्र</value>
+  </data>
+  <data name="Share_ToolGuide" xml:space="preserve">
+    <value>टूल गाइड</value>
+  </data>
+  <data name="Info_WhyKnow" xml:space="preserve">
+    <value>यह क्यों जानें?</value>
+  </data>
+  <data name="Page_ComingSoon_RequestBody" xml:space="preserve">
+    <value>अपना अनुरोध (और आप चाहते हैं कि यह उपकरण क्या उत्तर दे) inbox.nuthan@gmail.com पर ईमेल करें।</value>
+  </data>
+  <data name="Page_Contact_LabelSubject" xml:space="preserve">
+    <value>विषय</value>
+  </data>
+  <data name="Page_Contact_ConsentText" xml:space="preserve">
+    <value>मैं गोपनीयता नीति और नियमों से सहमत हूँ।</value>
+  </data>
+  <data name="Info_Differentiation" xml:space="preserve">
+    <value>FinYatra किस प्रकार भिन्न है</value>
+  </data>
+  <data name="Page_ComingSoon_PageTitle" xml:space="preserve">
+    <value>जल्द आ रहा है — FinYatra</value>
+  </data>
+  <data name="Common_PageTitleSuffix" xml:space="preserve">
+    <value> — FinYatra</value>
+  </data>
+  <data name="Page_Sitemap_PageTitle" xml:space="preserve">
+    <value>साइटमैप — FinYatra</value>
+  </data>
+  <data name="Page_Terms_Title" xml:space="preserve">
+    <value>नियम और शर्तें</value>
+  </data>
+  <data name="Common_Col_Tenure" xml:space="preserve">
+    <value>कार्यकाल</value>
+  </data>
+  <data name="Common_Col_EstValue" xml:space="preserve">
+    <value>अनुमानित मूल्य</value>
+  </data>
+  <data name="Page_Contact_RequestType_Other" xml:space="preserve">
+    <value>अन्य</value>
+  </data>
+  <data name="Info_Pros" xml:space="preserve">
+    <value>फायदे</value>
+  </data>
+  <data name="Info_Cons" xml:space="preserve">
+    <value>सीमाएँ</value>
+  </data>
+  <data name="Page_Search_NoResultsTitle" xml:space="preserve">
+    <value>कोई परिणाम नहीं मिला</value>
+  </data>
+  <data name="Page_Contact_RequestType_Feedback" xml:space="preserve">
+    <value>कैलकुलेटर प्रतिक्रिया</value>
+  </data>
+  <data name="Common_WhatYouLearn" xml:space="preserve">
+    <value>आप क्या सीखेंगे</value>
+  </data>
+  <data name="Page_About_MaintainerHeading" xml:space="preserve">
+    <value>FinYatra का रखरखाव कौन करता है</value>
+  </data>
+  <data name="Page_Contact_PrivacyText" xml:space="preserve">
+    <value>हम आपके संदेश का उपयोग केवल जवाब देने के लिए करते हैं। हमारी गोपनीयता नीति देखें।</value>
+  </data>
+  <data name="Common_Calculate" xml:space="preserve">
+    <value>गणना</value>
+  </data>
+  <data name="Common_Col_Gain" xml:space="preserve">
+    <value>लाभ</value>
+  </data>
+  <data name="Info_Abbreviation" xml:space="preserve">
+    <value>संक्षिप्त नाम</value>
+  </data>
+  <data name="Page_About_Offer2" xml:space="preserve">
+    <value>कोई लॉगिन, साइन-अप या पेवॉल नहीं — हर उपकरण मुफ़्त उपयोग करें</value>
+  </data>
+  <data name="Page_About_ContactBody" xml:space="preserve">
+    <value>प्रश्न, प्रतिक्रिया या साझेदारी संबंधी पूछताछ? हमारे संपर्क पृष्ठ पर जाएँ या inbox.nuthan@gmail.com पर ईमेल करें।</value>
+  </data>
+  <data name="Page_About_Offer1" xml:space="preserve">
+    <value>लक्ष्य योजना, SIP, EMI, मुद्रास्फीति, FIRE और FD लैडरिंग कैलकुलेटर</value>
+  </data>
+  <data name="Common_Label_TenureYears" xml:space="preserve">
+    <value>अवधि (वर्ष)</value>
+  </data>
+  <data name="Info_GoalsForTool" xml:space="preserve">
+    <value>इस उपकरण के लिए लक्ष्य</value>
+  </data>
+  <data name="Page_About_OfferHeading" xml:space="preserve">
+    <value>हम क्या प्रदान करते हैं</value>
+  </data>
+  <data name="Info_Alternatives" xml:space="preserve">
+    <value>विकल्प और तुलना</value>
+  </data>
+  <data name="Page_Contact_LabelResponseTime" xml:space="preserve">
+    <value>प्रतिक्रिया समय</value>
+  </data>
+  <data name="Info_FormulaIntro" xml:space="preserve">
+    <value>पहले सूत्र पढ़ें, फिर नीचे दिए गए चरणों का पालन करके देखें कि संख्या कैसे बनती है।</value>
+  </data>
+  <data name="Page_ComingSoon_AvailableHeading" xml:space="preserve">
+    <value>अभी उपलब्ध</value>
+  </data>
+  <data name="Page_Contact_Title" xml:space="preserve">
+    <value>संपर्क</value>
+  </data>
+  <data name="Page_Contact_InfoBody" xml:space="preserve">
+    <value>किसी कैलकुलेटर पर प्रतिक्रिया है, बग मिला है या नया उपकरण चाहिए? सुरक्षित फ़ॉर्म से संदेश भेजें — हम आपके दिए गए पते पर ईमेल से जवाब देंगे।</value>
+  </data>
+  <data name="Tool_fire_Subtitle" xml:space="preserve">
+    <value>वित्तीय स्वतंत्रता, जल्दी सेवानिवृत्त</value>
+  </data>
+  <data name="Common_Year" xml:space="preserve">
+    <value>वर्ष</value>
+  </data>
+  <data name="Page_Contact_Subtitle" xml:space="preserve">
+    <value>हम आपसे सुनना पसंद करेंगे</value>
+  </data>
+  <data name="Common_Label_Years" xml:space="preserve">
+    <value>साल</value>
+  </data>
+  <data name="Common_Email" xml:space="preserve">
+    <value>ईमेल</value>
+  </data>
+  <data name="Page_Sitemap_Description" xml:space="preserve">
+    <value>आगंतुकों और सर्च इंजन के लिए सार्वजनिक पृष्ठों की पूरी सूची।</value>
+  </data>
+  <data name="Common_ContactPageLink" xml:space="preserve">
+    <value>संपर्क पृष्ठ</value>
+  </data>
+  <data name="Page_Contact_SecurityCheckPrompt" xml:space="preserve">
+    <value>— {0} क्या है?</value>
+  </data>
+  <data name="Page_About_MaintainerBody" xml:space="preserve">
+    <value>FinYatra नूथन मुरारिसेट्टी द्वारा निर्मित और संचालित है — एक स्वतंत्र डेवलपर जो भारतीय उपयोगकर्ताओं के लिए स्पष्ट, विश्वसनीय वित्तीय उपकरणों के प्रति समर्पित है।</value>
+  </data>
+  <data name="Page_Search_PageTitle" xml:space="preserve">
+    <value>खोज — FinYatra</value>
+  </data>
+  <data name="Info_Alternative" xml:space="preserve">
+    <value>विकल्प</value>
+  </data>
+  <data name="Page_Contact_LabelRequestType" xml:space="preserve">
+    <value>अनुरोध प्रकार</value>
+  </data>
+  <data name="Page_Contact_InfoHeading" xml:space="preserve">
+    <value>संपर्क करें</value>
+  </data>
+  <data name="Tool_goal_Subtitle" xml:space="preserve">
+    <value>अपने लक्ष्य तक पहुंचने के लिए बचत करें</value>
+  </data>
+  <data name="Common_LastUpdated" xml:space="preserve">
+    <value>अंतिम अपडेट:</value>
+  </data>
+  <data name="Page_Sitemap_Title" xml:space="preserve">
+    <value>साइटमैप</value>
+  </data>
+  <data name="Page_Search_Description" xml:space="preserve">
+    <value>नाम या विवरण से उपकरण खोजें।</value>
+  </data>
+  <data name="Common_YourGoal" xml:space="preserve">
+    <value>आपका लक्ष्य</value>
+  </data>
+  <data name="Tool_fd_Subtitle" xml:space="preserve">
+    <value>बेहतर तरलता योजना</value>
+  </data>
+  <data name="Common_Col_Invested" xml:space="preserve">
+    <value>निवेश</value>
+  </data>
+  <data name="Page_Sitemap_Intro" xml:space="preserve">
+    <value>मशीन-पठनीय साइटमैप: sitemap.xml · क्रॉलर और AdSense समीक्षा के लिए भी उपयोगी।</value>
+  </data>
+  <data name="Page_About_MissionBody" xml:space="preserve">
+    <value>FinYatra भारत के लिए बनाया गया मुफ़्त वित्तीय कैलकुलेटर और योजनाकारों का संग्रह है। हमारा मानना है कि हर किसी को संख्याओं के पीछे का कारण समझना चाहिए — केवल परिणाम नहीं। हर उपकरण सूत्र, एक विस्तृत उदाहरण और व्यावहारिक संदर्भ दिखाता है।</value>
+  </data>
+  <data name="Page_Contact_LabelPrivacy" xml:space="preserve">
+    <value>गोपनीयता</value>
+  </data>
+  <data name="Page_ComingSoon_Description" xml:space="preserve">
+    <value>यह उपकरण अगला योजनाबद्ध है। इस बीच उपलब्ध कैलकुलेटर देखें।</value>
+  </data>
+  <data name="Page_Terms_Description" xml:space="preserve">
+    <value>FinYatra का उपयोग करने से पहले कृपया इन नियमों को पढ़ें। ऐप का उपयोग करके आप इनसे सहमत होते हैं।</value>
+  </data>
+  <data name="Page_Contact_RequestType_Feature" xml:space="preserve">
+    <value>फ़ीचर अनुरोध</value>
+  </data>
+  <data name="Info_Motto" xml:space="preserve">
+    <value>सिद्धांत</value>
+  </data>
+  <data name="Page_Contact_SuccessHeading" xml:space="preserve">
+    <value>संदेश भेजा गया</value>
+  </data>
+  <data name="Common_Col_Principal" xml:space="preserve">
+    <value>मूलधन</value>
+  </data>
+  <data name="Page_ComingSoon_NextBody" xml:space="preserve">
+    <value>हम इस कैलकुलेटर को FinYatra के बाकी हिस्सों की तरह ही सूत्र-प्रथम, उदाहरण-आधारित दृष्टिकोण से बना रहे हैं।</value>
+  </data>
+  <data name="Common_Col_Interest" xml:space="preserve">
+    <value>ब्याज</value>
+  </data>
+  <data name="Page_Terms_Subtitle" xml:space="preserve">
+    <value>FinYatra उपयोग के नियम</value>
+  </data>
+  <data name="Page_Privacy_PageTitle" xml:space="preserve">
+    <value>गोपनीयता नीति — FinYatra</value>
+  </data>
+  <data name="Page_Contact_RequestType_Bug" xml:space="preserve">
+    <value>बग रिपोर्ट</value>
+  </data>
+  <data name="Page_ComingSoon_NewTool" xml:space="preserve">
+    <value>नया उपकरण</value>
+  </data>
+  <data name="Page_About_Title" xml:space="preserve">
+    <value>FinYatra के बारे में</value>
+  </data>
+  <data name="Common_Label_RatePa" xml:space="preserve">
+    <value>ब्याज दर (% प्रति वर्ष)</value>
+  </data>
+  <data name="Page_Contact_ResponseTimeValue" xml:space="preserve">
+    <value>आमतौर पर 2–3 कार्य दिवसों में</value>
+  </data>
+  <data name="Page_Contact_RequestType_Partnership" xml:space="preserve">
+    <value>साझेदारी / विज्ञापन</value>
+  </data>
+  <data name="Common_Col_Maturity" xml:space="preserve">
+    <value>परिपक्वता</value>
+  </data>
+  <data name="Page_Contact_SuccessBody" xml:space="preserve">
+    <value>धन्यवाद — आपका संदेश सुरक्षित रूप से पहुँचा दिया गया। हम कुछ कार्य दिवसों में जवाब देंगे।</value>
+  </data>
+  <data name="Page_About_Subtitle" xml:space="preserve">
+    <value>मुफ़्त, भारत-प्रथम वित्तीय उपकरण</value>
+  </data>
+  <data name="Common_Generate" xml:space="preserve">
+    <value>सीढ़ी उत्पन्न करें</value>
+  </data>
+  <data name="Page_Contact_LabelName" xml:space="preserve">
+    <value>आपका नाम</value>
+  </data>
+  <data name="Page_About_DisclaimerHeading" xml:space="preserve">
+    <value>महत्वपूर्ण अस्वीकरण</value>
+  </data>
+  <data name="Info_OfficialLinks" xml:space="preserve">
+    <value>आधिकारिक/विश्वसनीय लिंक</value>
+  </data>
+  <data name="Page_ComingSoon_RequestHeading" xml:space="preserve">
+    <value>इसे जल्दी चाहिए?</value>
+  </data>
+  <data name="Page_About_Offer3" xml:space="preserve">
+    <value>हिंदी, तेलुगु, तमिल, कन्नड़ और मलयालम समर्थन के साथ मोबाइल-प्रथम डिज़ाइन</value>
+  </data>
+  <data name="Page_Contact_BtnSend" xml:space="preserve">
+    <value>संदेश भेजें</value>
+  </data>
+  <data name="Page_Contact_BtnSendAnother" xml:space="preserve">
+    <value>एक और संदेश भेजें</value>
+  </data>
+  <data name="Tool_emi_Subtitle" xml:space="preserve">
+    <value>ऋण भुगतान को सरल बनाया गया</value>
+  </data>
+  <data name="Tool_sip_Subtitle" xml:space="preserve">
+    <value>मासिक निवेश की योजना बनाएं</value>
+  </data>
+  <data name="Page_Search_SubtitleEmpty" xml:space="preserve">
+    <value>ऊपर खोज बॉक्स में टाइप करें और Enter दबाएँ।</value>
+  </data>
+  <data name="Page_Search_SuggestedHeading" xml:space="preserve">
+    <value>सुझाए गए उपकरण</value>
+  </data>
+  <data name="Tool_sip_LabelRate" xml:space="preserve">
+    <value>अपेक्षित रिटर्न दर (% प्रति वर्ष)</value>
+  </data>
+  <data name="Tool_goal_LabelTarget" xml:space="preserve">
+    <value>लक्ष्य राशि (₹)</value>
+  </data>
+  <data name="Tool_goal_LabelBest" xml:space="preserve">
+    <value>सर्वोत्तम (% प्रति वर्ष)</value>
+  </data>
+  <data name="Tool_fire_LabelRetirementAge" xml:space="preserve">
+    <value>सेवानिवृत्ति की उम्र</value>
+  </data>
+  <data name="Tool_emi_LearnText" xml:space="preserve">
+    <value>ब्याज दर और अवधि कैसे बदलती है EMI और कुल भुगतान किया गया ब्याज।</value>
+  </data>
+  <data name="Tool_goal_LabelWorst" xml:space="preserve">
+    <value>सबसे ख़राब (% प्रति वर्ष)</value>
+  </data>
+  <data name="Tool_emi_LabelPrincipal" xml:space="preserve">
+    <value>ऋण राशि (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelReturn" xml:space="preserve">
+    <value>अपेक्षित वापसी दर (%)</value>
+  </data>
+  <data name="Tool_inflation_LearnText" xml:space="preserve">
+    <value>मुद्रास्फीति किस प्रकार क्रय शक्ति को नष्ट कर देती है और योजना को इसका हिसाब क्यों देना चाहिए।</value>
+  </data>
+  <data name="Tool_goal_VolatilePath" xml:space="preserve">
+    <value>अस्थिर पथ</value>
+  </data>
+  <data name="Tool_fd_LabelCount" xml:space="preserve">
+    <value>FDs की संख्या</value>
+  </data>
+  <data name="Tool_sip_LabelSip" xml:space="preserve">
+    <value>मासिक SIP (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelExpenses" xml:space="preserve">
+    <value>मासिक खर्च (₹)</value>
+  </data>
+  <data name="Tool_sip_LearnText" xml:space="preserve">
+    <value>कैसे समय (कार्यकाल) और रिटर्न दर का दीर्घकालिक धन पर सबसे अधिक प्रभाव पड़ता है।</value>
+  </data>
+  <data name="Tool_goal_SecurePath" xml:space="preserve">
+    <value>सुरक्षित पथ</value>
+  </data>
+  <data name="Tool_goal_LearnText" xml:space="preserve">
+    <value>सुरक्षित पथ (FD-जैसे) बनाम अस्थिर पथ (इक्विटी-जैसे) में मासिक कितनी बचत करें, और मुद्रास्फीति लक्ष्य को कैसे बदलती है।</value>
+  </data>
+  <data name="Tool_fd_LabelStartTenure" xml:space="preserve">
+    <value>कार्यकाल प्रारंभ</value>
+  </data>
+  <data name="Tool_fd_TenureYear" xml:space="preserve">
+    <value>{0} वर्ष</value>
+  </data>
+  <data name="Tool_fire_LearnTitle" xml:space="preserve">
+    <value>FIRE क्या है?</value>
+  </data>
+  <data name="Tool_fd_LearnText" xml:space="preserve">
+    <value>तरलता के लिए एकमुश्त राशि को अलग-अलग years में परिपक्व होने वाली कई सावधि जमाओं में विभाजित करें।</value>
+  </data>
+  <data name="Tool_inflation_LabelPresent" xml:space="preserve">
+    <value>आज की लागत (₹)</value>
+  </data>
+  <data name="Tool_goal_LabelBase" xml:space="preserve">
+    <value>आधार (% प्रति वर्ष)</value>
+  </data>
+  <data name="Tool_fd_LabelAmount" xml:space="preserve">
+    <value>कुल राशि (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelCurrentAge" xml:space="preserve">
+    <value>वर्तमान आयु</value>
+  </data>
+  <data name="Tool_fire_LearnText" xml:space="preserve">
+    <value>FIRE आपको एक कोष की योजना बनाने में मदद करता है ताकि आपका निवेश आपके वार्षिक खर्चों को कवर कर सके।</value>
+  </data>
+  <data name="Tool_goal_AdjustInflation" xml:space="preserve">
+    <value>मुद्रास्फीति के लिए लक्ष्य समायोजित करें</value>
+  </data>
+  <data name="Tool_goal_LabelHorizon" xml:space="preserve">
+    <value>अवधि (वर्ष)</value>
+  </data>
+  <data name="Page_Contact_ConsentPrefix" xml:space="preserve">
+    <value>मैं सहमत हूँ</value>
+  </data>
+  <data name="Common_And" xml:space="preserve">
+    <value>और</value>
+  </data>
+  <data name="Tool_inflation_Result_FutureCost" xml:space="preserve">
+    <value>भविष्य की लागत</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_2" xml:space="preserve">
+    <value>मासिक EMI लगभग ₹21,700 आती है।</value>
+  </data>
+  <data name="Tool_goal_StepInflation_5" xml:space="preserve">
+    <value>मुद्रास्फीति-समायोजित भविष्य का लक्ष्य प्राप्त करने के लिए targetToday से गुणा करें।</value>
+  </data>
+  <data name="Common_BreakdownAria" xml:space="preserve">
+    <value>विवरण तालिका</value>
+  </data>
+  <data name="Tool_goal_FormulaSipNote" xml:space="preserve">
+    <value>यदि रिटर्न 0% है, sip = लक्ष्य / months।</value>
+  </data>
+  <data name="Common_FormulaLabel" xml:space="preserve">
+    <value>सूत्र</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_1" xml:space="preserve">
+    <value>आज का मासिक घरेलू खर्च: ₹50,000।</value>
+  </data>
+  <data name="Tool_fire_RuleCorpus" xml:space="preserve">
+    <value>लक्ष्य कोष ≈</value>
+  </data>
+  <data name="Tool_goal_Info_Link_Sebi" xml:space="preserve">
+    <value>SEBI - निवेशक शिक्षा (म्यूचुअल फंड मूल बातें)</value>
+  </data>
+  <data name="Tool_fire_InflationIntro" xml:space="preserve">
+    <value>मुद्रास्फीति क्रय शक्ति घटाती है।</value>
+  </data>
+  <data name="Tool_inflation_BreakdownTitle" xml:space="preserve">
+    <value>वर्ष-दर-वर्ष लागत वृद्धि</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedFootnoteInflation" xml:space="preserve">
+    <value>{0}% मुद्रास्फीति {1} वर्षों में शामिल है</value>
+  </data>
+  <data name="Common_StepByStep" xml:space="preserve">
+    <value>चरण-दर-चरण स्पष्टीकरण</value>
+  </data>
+  <data name="Tool_sip_Result_InvestedFootnote" xml:space="preserve">
+    <value>{0} वर्ष × {1}/माह</value>
+  </data>
+  <data name="Common_FinYatraGuide" xml:space="preserve">
+    <value>FinYatra गाइड</value>
+  </data>
+  <data name="Tool_sip_Result_EstimatedGains" xml:space="preserve">
+    <value>अनुमानित लाभ</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_3" xml:space="preserve">
+    <value>7% FD जैसे सुरक्षित रिटर्न के लिए लगभग ₹18,500/माह की आवश्यकता है।</value>
+  </data>
+  <data name="Tool_goal_StepInflation_2" xml:space="preserve">
+    <value>मुद्रास्फीति % को दशमलव दर में बदलें (जैसे 6% → 0.06)।</value>
+  </data>
+  <data name="Tool_emi_ExampleTitle" xml:space="preserve">
+    <value>उत्पाद उदाहरण: ₹25L होम लोन @ 8.5%</value>
+  </data>
+  <data name="Common_Scenario_Base" xml:space="preserve">
+    <value>आधार</value>
+  </data>
+  <data name="Tool_goal_FormulaInflationNote" xml:space="preserve">
+    <value>यदि मुद्रास्फीति बंद है, futureTarget = targetToday।</value>
+  </data>
+  <data name="Tool_sip_ExampleTitle" xml:space="preserve">
+    <value>उत्पाद उदाहरण: 15 वर्षों के लिए ₹10,000/माह SIP</value>
+  </data>
+  <data name="Tool_sip_BreakdownSubtitle" xml:space="preserve">
+    <value>{0}% वार्षिक रिटर्न पर</value>
+  </data>
+  <data name="Tool_sip_Result_GainsFootnote" xml:space="preserve">
+    <value>मूल्य माइनस निवेश</value>
+  </data>
+  <data name="Tool_goal_Source_BusinessToday" xml:space="preserve">
+    <value>BusinessToday - FD दरें जुलाई 2026</value>
+  </data>
+  <data name="Tool_fire_Result_AgeRange" xml:space="preserve">
+    <value>आयु {0} → {1}</value>
+  </data>
+  <data name="Common_Scenario_YourTenure" xml:space="preserve">
+    <value>आपका कार्यकाल</value>
+  </data>
+  <data name="Common_Col_Increase" xml:space="preserve">
+    <value>बढ़ोतरी</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_2" xml:space="preserve">
+    <value>1 वर्ष, 2 वर्ष, 3 वर्ष की FD बनाएँ ताकि हर साल एक FD परिपक्व हो।</value>
+  </data>
+  <data name="Tool_sip_BreakdownTitle" xml:space="preserve">
+    <value>साल दर साल वृद्धि</value>
+  </data>
+  <data name="Tool_goal_StepSip_5" xml:space="preserve">
+    <value>यह sip वह मासिक राशि है जो आपके लक्ष्य से जुड़ती है।</value>
+  </data>
+  <data name="Common_TenureYearsShort" xml:space="preserve">
+    <value>{0} वर्ष</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_3" xml:space="preserve">
+    <value>सेवानिवृत्ति पर वार्षिक खर्च: ~₹19.2 लाख → FIRE कोष लक्ष्य ≈ ₹4.8 करोड़ (25× नियम)।</value>
+  </data>
+  <data name="Tool_fire_BreakdownTitle" xml:space="preserve">
+    <value>SIP वृद्धि प्रक्षेपण</value>
+  </data>
+  <data name="Tool_emi_BreakdownTitle" xml:space="preserve">
+    <value>वार्षिक परिशोधन</value>
+  </data>
+  <data name="Tool_inflation_ExampleSubtitle" xml:space="preserve">
+    <value>20 वर्षों में 6% मुद्रास्फीति पर</value>
+  </data>
+  <data name="Common_WorkedExample" xml:space="preserve">
+    <value>विस्तृत उदाहरण</value>
+  </data>
+  <data name="Tool_fire_Scenario_Secure" xml:space="preserve">
+    <value>सुरक्षित (7%)</value>
+  </data>
+  <data name="Tool_fire_InflationYears" xml:space="preserve">
+    <value>5 वर्षों में {0}% पर।</value>
+  </data>
+  <data name="Tool_goal_ExampleTitle" xml:space="preserve">
+    <value>उत्पाद उदाहरण: ₹10L कार + 5 वर्ष में आपात निधि</value>
+  </data>
+  <data name="Tool_goal_ScenarioSubtitle" xml:space="preserve">
+    <value>लक्ष्य तक पहुंचने के लिए आपको हर महीने कितना निवेश करना होगा</value>
+  </data>
+  <data name="Tool_fire_Goal_Car" xml:space="preserve">
+    <value>कार</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Cons" xml:space="preserve">
+    <value>रिटर्न अलग-अलग होते हैं; गारंटी नहीं</value>
+  </data>
+  <data name="Tool_emi_Result_TotalPayment" xml:space="preserve">
+    <value>कुल भुगतान</value>
+  </data>
+  <data name="Tool_fire_ScenarioTitle" xml:space="preserve">
+    <value>सुरक्षित बनाम अस्थिर बचत पथ</value>
+  </data>
+  <data name="Tool_inflation_ExampleTitle" xml:space="preserve">
+    <value>उत्पाद उदाहरण: आज ₹50,000 मासिक खर्च</value>
+  </data>
+  <data name="Tool_fire_Result_MonthlySip" xml:space="preserve">
+    <value>आवश्यक मासिक SIP</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_5" xml:space="preserve">
+    <value>मुख्य अंतर्दृष्टि: सबसे अधिक रिटर्न का पीछा करने से ज़्यादा जल्दी शुरू करना और निरंतर रहना मायने रखता है।</value>
+  </data>
+  <data name="Tool_sip_Result_TotalInvested" xml:space="preserve">
+    <value>कुल निवेश</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Pros" xml:space="preserve">
+    <value>उम्मीद के मुताबिक</value>
+  </data>
+  <data name="Tool_goal_Source_BajajAmc" xml:space="preserve">
+    <value>Bajaj AMC - Nifty 50 ऐतिहासिक रिटर्न</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Example" xml:space="preserve">
+    <value>मासिक आय का 20% बचाएं</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_3" xml:space="preserve">
+    <value>भविष्य में आवश्यक धन पर मुद्रास्फीति के प्रभाव को समझें</value>
+  </data>
+  <data name="Tool_goal_FormulaInflationTitle" xml:space="preserve">
+    <value>मुद्रास्फीति-समायोजित लक्ष्य</value>
+  </data>
+  <data name="Tool_goal_Info_Link_Rbi" xml:space="preserve">
+    <value>RBI - वित्तीय शिक्षा/धन संबंधी मूल बातें</value>
+  </data>
+  <data name="Tool_sip_ScenarioSubtitle" xml:space="preserve">
+    <value>वही SIP, अलग-अलग रिटर्न धारणाएँ</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_3" xml:space="preserve">
+    <value>12% (आधार) पर कोष लगभग ₹50 लाख तक पहुँचता है।</value>
+  </data>
+  <data name="Common_Scenario_YourRate" xml:space="preserve">
+    <value>आपकी दर</value>
+  </data>
+  <data name="Tool_inflation_ScenarioSubtitle" xml:space="preserve">
+    <value>वही राशि, अलग-अलग मुद्रास्फीति धारणाएँ</value>
+  </data>
+  <data name="Common_RateAssumptions" xml:space="preserve">
+    <value>दर धारणाएँ (ऊपर संपादन योग्य)</value>
+  </data>
+  <data name="Tool_fire_ScenarioSubtitle" xml:space="preserve">
+    <value>मासिक SIP को FIRE कोष तक पहुंचने की आवश्यकता है</value>
+  </data>
+  <data name="Tool_goal_Info_RealLife" xml:space="preserve">
+    <value>कार ख़रीदना, आपातकालीन निधि बनाना, डाउन पेमेंट योजना, शिक्षा निधि - लक्ष्य राशि और समय सीमा के साथ कुछ भी।</value>
+  </data>
+  <data name="Common_CopyFormulaAria" xml:space="preserve">
+    <value>सूत्र कॉपी करें</value>
+  </data>
+  <data name="Tool_emi_Scenario_Shorter" xml:space="preserve">
+    <value>छोटी अवधि</value>
+  </data>
+  <data name="Common_ScenarioComparisonAria" xml:space="preserve">
+    <value>परिदृश्य तुलना</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_2" xml:space="preserve">
+    <value>पूर्वानुमेय (सुरक्षित) बनाम अनिश्चित (अस्थिर) पथों की तुलना करें</value>
+  </data>
+  <data name="Tool_fire_BreakdownSubtitle" xml:space="preserve">
+    <value>{0}/माह {1}% पर बचत</value>
+  </data>
+  <data name="Common_Footnote_RatePa" xml:space="preserve">
+    <value>{0} प्रति वर्ष दर</value>
+  </data>
+  <data name="Tool_goal_Source_PolicyBazaar" xml:space="preserve">
+    <value>PolicyBazaar - FD ब्याज दरें</value>
+  </data>
+  <data name="Tool_emi_Scenario_Longer" xml:space="preserve">
+    <value>लंबी अवधि</value>
+  </data>
+  <data name="Common_Label_FutureValue" xml:space="preserve">
+    <value>भविष्य का मूल्य</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Name" xml:space="preserve">
+    <value>सरल बजट नियम</value>
+  </data>
+  <data name="Tool_goal_StepSip_4" xml:space="preserve">
+    <value>SIP सूत्र लागू करें: sip = लक्ष्य × r / ((1 + r) ^ months - 1)।</value>
+  </data>
+  <data name="Common_Label_Corpus" xml:space="preserve">
+    <value>कोर्पस</value>
+  </data>
+  <data name="Common_Label_MonthlySip" xml:space="preserve">
+    <value>मासिक SIP</value>
+  </data>
+  <data name="Common_Footnote_InflationRate" xml:space="preserve">
+    <value>{0} मुद्रास्फीति</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_5" xml:space="preserve">
+    <value>7% सुरक्षित रिटर्न पर लगभग ₹92,000/माह चाहिए — अस्थिर पथ में कम बचत लगती है लेकिन जोखिम होता है।</value>
+  </data>
+  <data name="Tool_fire_Scenario_Volatile" xml:space="preserve">
+    <value>अस्थिर (15%)</value>
+  </data>
+  <data name="Tool_emi_ScenarioSubtitle" xml:space="preserve">
+    <value>वही ऋण, अलग-अलग अवधि</value>
+  </data>
+  <data name="Tool_fire_Goal_Interior" xml:space="preserve">
+    <value>आंतरिक भाग</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Cons" xml:space="preserve">
+    <value>लक्ष्य-विशिष्ट नहीं; कोई समय सीमा स्पष्टता नहीं</value>
+  </data>
+  <data name="Common_Col_PrincipalPaid" xml:space="preserve">
+    <value>मूलधन का भुगतान किया गया</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_3" xml:space="preserve">
+    <value>20 वर्षों में यह लगभग ₹1.6 लाख/माह तक बढ़ जाता है।</value>
+  </data>
+  <data name="Tool_goal_Source_SumMoney" xml:space="preserve">
+    <value>sum.money - Nifty कैलकुलेटर लौटाता है</value>
+  </data>
+  <data name="Tool_fire_Goal_Travel" xml:space="preserve">
+    <value>यात्रा</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Name" xml:space="preserve">
+    <value>SIP कैलकुलेटर</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_3" xml:space="preserve">
+    <value>20 वर्षों में कुल भुगतान: लगभग ₹52 लाख — जिसमें से ~₹27 लाख ब्याज है।</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Example" xml:space="preserve">
+    <value>₹10,000/माह SIP 5 years के लिए 12%</value>
+  </data>
+  <data name="Common_Summary" xml:space="preserve">
+    <value>सारांश</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_4" xml:space="preserve">
+    <value>10% रिटर्न पर, इस तक पहुँचने के लिए लगभग ₹66,000/माह SIP चाहिए।</value>
+  </data>
+  <data name="Tool_goal_StepSip_2" xml:space="preserve">
+    <value>कुल गणना months: months = years × 12.</value>
+  </data>
+  <data name="Common_EmptyCell" xml:space="preserve">
+    <value>—</value>
+  </data>
+  <data name="Tool_fd_ExampleTitle" xml:space="preserve">
+    <value>उत्पाद उदाहरण: ₹3,00,000 को 3 FD में विभाजित</value>
+  </data>
+  <data name="Common_Col_FutureCost" xml:space="preserve">
+    <value>भविष्य की लागत</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Cons" xml:space="preserve">
+    <value>कर के बाद मुद्रास्फीति को मात नहीं दे सकते</value>
+  </data>
+  <data name="Tool_sip_Scenario_Conservative" xml:space="preserve">
+    <value>रूढ़िवादी</value>
+  </data>
+  <data name="Tool_fire_RuleNote" xml:space="preserve">
+    <value>(4% निकासी दर पर आधारित)।</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_1" xml:space="preserve">
+    <value>ऋण: ₹25,00,000, 8.5% पर 20 वर्ष।</value>
+  </data>
+  <data name="Tool_goal_Result_VolatileRange" xml:space="preserve">
+    <value>{0} - {1} रेंज</value>
+  </data>
+  <data name="Tool_fire_InflationBecomes" xml:space="preserve">
+    <value>लगभग बन जाता है</value>
+  </data>
+  <data name="Tool_goal_Info_WhyKnow" xml:space="preserve">
+    <value>अधिकांश लोग स्पष्ट लक्ष्य के बिना बचत करते हैं। यह आपके लक्ष्य को मापने योग्य बनाता है और दिखाता है कि रिटर्न और मुद्रास्फीति आवश्यक मासिक बचत को कैसे बदलते हैं।</value>
+  </data>
+  <data name="Tool_fire_Result_YearsToFire" xml:space="preserve">
+    <value>FIRE तक के वर्ष</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_4" xml:space="preserve">
+    <value>यदि आपकी आय या निवेश कम से कम मुद्रास्फीति दर पर नहीं बढ़ते, तो आप प्रभावी रूप से पीछे रह जाते हैं।</value>
+  </data>
+  <data name="Tool_goal_FormulaSipTitle" xml:space="preserve">
+    <value>मासिक SIP आवश्यक</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_4" xml:space="preserve">
+    <value>15% (आक्रामक) पर कोष लगभग ₹67 लाख तक पहुँच सकता है।</value>
+  </data>
+  <data name="Tool_goal_Info_Purpose" xml:space="preserve">
+    <value>एक लक्ष्य राशि और समय सीमा को एक साधारण मासिक बचत योजना में बदलें।</value>
+  </data>
+  <data name="Tool_emi_Result_MonthlyEmi" xml:space="preserve">
+    <value>मासिक EMI</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_4" xml:space="preserve">
+    <value>12% इक्विटी-जैसे रिटर्न पर अस्थिर आधार के लिए लगभग ₹16,400/माह की आवश्यकता होती है - लेकिन परिणाम ~₹19,800 (8%) से ~₹14,600 (15%) तक हो सकते हैं।</value>
+  </data>
+  <data name="Tool_emi_ScenarioTitle" xml:space="preserve">
+    <value>अवधि का प्रभाव</value>
+  </data>
+  <data name="Common_Label_Increase" xml:space="preserve">
+    <value>बढ़ोतरी</value>
+  </data>
+  <data name="Tool_sip_FormulaNote" xml:space="preserve">
+    <value>FV आपके निवेश का भविष्य मूल्य है। ^ का अर्थ है 'घातांक'।</value>
+  </data>
+  <data name="Tool_fire_Goal_Marriage" xml:space="preserve">
+    <value>शादी</value>
+  </data>
+  <data name="Tool_goal_StepSip_3" xml:space="preserve">
+    <value>कंपाउंडिंग फ़ैक्टर की गणना करें: (1 + r) ^ months।</value>
+  </data>
+  <data name="Common_Breakdown" xml:space="preserve">
+    <value>विवरण</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_2" xml:space="preserve">
+    <value>10% (रूढ़िवादी) पर कोष लगभग ₹41 लाख तक बढ़ता है।</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileWorst" xml:space="preserve">
+    <value>अस्थिर - सबसे खराब</value>
+  </data>
+  <data name="Tool_sip_ScenarioTitle" xml:space="preserve">
+    <value>वापसी परिदृश्य</value>
+  </data>
+  <data name="Common_Label_EndValue" xml:space="preserve">
+    <value>अंतिम मूल्य</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_2" xml:space="preserve">
+    <value>6% मुद्रास्फीति पर, 10 वर्षों में उसी जीवनशैली के लिए लगभग ₹89,500/माह चाहिए।</value>
+  </data>
+  <data name="Common_Footnote_AtReturn" xml:space="preserve">
+    <value>{0} पर वापसी</value>
+  </data>
+  <data name="Common_Footnote_AfterYears" xml:space="preserve">
+    <value>{0} वर्षों के बाद</value>
+  </data>
+  <data name="Tool_inflation_Result_PresentFootnote" xml:space="preserve">
+    <value>वर्तमान मूल्य</value>
+  </data>
+  <data name="Tool_goal_BreakdownTitle" xml:space="preserve">
+    <value>वर्ष-दर-वर्ष प्रक्षेपण (अस्थिर आधार)</value>
+  </data>
+  <data name="Tool_goal_StepInflation_1" xml:space="preserve">
+    <value>आज की लक्ष्य राशि (targetToday) से प्रारंभ करें।</value>
+  </data>
+  <data name="Common_Label_MonthlySaving" xml:space="preserve">
+    <value>मासिक बचत</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_When" xml:space="preserve">
+    <value>जब आपको केवल एक रफ प्लान की जरूरत हो</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_When" xml:space="preserve">
+    <value>जब आप निश्चित दर पर सावधि मासिक जमा चाहते हैं</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_1" xml:space="preserve">
+    <value>अपने लक्ष्य को समयबद्ध और संख्या-संचालित बनाएं</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_4" xml:space="preserve">
+    <value>इससे लंबी जमा को जल्दी तोड़े बिना पूर्वानुमेय तरलता मिलती है।</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Example" xml:space="preserve">
+    <value>₹10,000/माह RD 5 years के लिए 7%</value>
+  </data>
+  <data name="Tool_fd_FormulaNote" xml:space="preserve">
+    <value>P जमा है, r वार्षिक दर (दशमलव), t वर्ष। सरलीकृत वार्षिक चक्रवृद्धि; ^ का अर्थ है 'घातांक'।</value>
+  </data>
+  <data name="Tool_goal_Scenario_Secure" xml:space="preserve">
+    <value>सुरक्षित</value>
+  </data>
+  <data name="Tool_fire_ExampleTitle" xml:space="preserve">
+    <value>उत्पाद उदाहरण: ₹50,000/माह खर्च पर 50 की उम्र में सेवानिवृत्ति</value>
+  </data>
+  <data name="Tool_inflation_Scenario_Low" xml:space="preserve">
+    <value>निम्न (4%)</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedTarget" xml:space="preserve">
+    <value>समायोजित लक्ष्य</value>
+  </data>
+  <data name="Tool_fire_ExampleSubtitle" xml:space="preserve">
+    <value>आज आयु 30, 6% मुद्रास्फीति, 10% रिटर्न</value>
+  </data>
+  <data name="Common_YearN" xml:space="preserve">
+    <value>वर्ष {0}</value>
+  </data>
+  <data name="Tool_sip_Result_EstimatedValue" xml:space="preserve">
+    <value>अनुमानित मूल्य</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Pros" xml:space="preserve">
+    <value>तेज़ और आसान</value>
+  </data>
+  <data name="Tool_goal_Result_SecureMonthly" xml:space="preserve">
+    <value>मासिक सुरक्षित करें</value>
+  </data>
+  <data name="Tool_fire_RuleFormula" xml:space="preserve">
+    <value>वार्षिक खर्च × 25</value>
+  </data>
+  <data name="Tool_sip_ExampleSubtitle" xml:space="preserve">
+    <value>रूढ़िवादी 10%, आधार 12%, आक्रामक 15%</value>
+  </data>
+  <data name="Tool_goal_Info_Motto" xml:space="preserve">
+    <value>छोटे कदम, स्थिर यात्रा - स्पष्टता से बचाएं, चिंता से नहीं।</value>
+  </data>
+  <data name="Tool_goal_Result_VolatileMonthly" xml:space="preserve">
+    <value>अस्थिर मासिक (आधार)</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_1" xml:space="preserve">
+    <value>₹3,00,000 को 3 बराबर हिस्सों में बाँटें → प्रत्येक ₹1,00,000।</value>
+  </data>
+  <data name="Tool_goal_ScenarioTitle" xml:space="preserve">
+    <value>सुरक्षित बनाम अस्थिर मासिक बचत</value>
+  </data>
+  <data name="Tool_fire_Quote" xml:space="preserve">
+    <value>पैसा बचाएं, और पैसा आपको बचाएगा।</value>
+  </data>
+  <data name="Tool_emi_BreakdownSubtitle" xml:space="preserve">
+    <value>प्रत्येक वर्ष भुगतान किया गया मूलधन बनाम ब्याज</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileBest" xml:space="preserve">
+    <value>अस्थिर - सर्वोत्तम</value>
+  </data>
+  <data name="Tool_goal_Result_SecureFootnote" xml:space="preserve">
+    <value>{0}% प्रति वर्ष निश्चित रिटर्न</value>
+  </data>
+  <data name="Common_Label_Return" xml:space="preserve">
+    <value>रिटर्न</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_5" xml:space="preserve">
+    <value>अवधि चुनने से पहले हमेशा EMI की सामर्थ्य बनाम कुल ब्याज लागत की तुलना करें।</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedFootnoteToday" xml:space="preserve">
+    <value>आज के रुपये</value>
+  </data>
+  <data name="Tool_inflation_FormulaNote" xml:space="preserve">
+    <value>i प्रति वर्ष मुद्रास्फीति दर है (दशमलव में, जैसे 6% = 0.06)। ^ का अर्थ है 'घातांक'।</value>
+  </data>
+  <data name="Tool_goal_StepInflation_4" xml:space="preserve">
+    <value>इसे years की संख्या तक बढ़ाएं: (1 + inflationRate) ^ years।</value>
+  </data>
+  <data name="Common_WorkedExampleAria" xml:space="preserve">
+    <value>विस्तृत उदाहरण</value>
+  </data>
+  <data name="Common_Label_Months" xml:space="preserve">
+    <value>महीने</value>
+  </data>
+  <data name="Common_ResultSummaryAria" xml:space="preserve">
+    <value>परिणाम सारांश</value>
+  </data>
+  <data name="Tool_goal_BreakdownSubtitle" xml:space="preserve">
+    <value>यदि आप आधार अस्थिर मासिक राशि बचाते हैं</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Pros" xml:space="preserve">
+    <value>संभावित उच्च वृद्धि</value>
+  </data>
+  <data name="Tool_goal_StepSip_1" xml:space="preserve">
+    <value>वार्षिक रिटर्न को मासिक में बदलें: r = annualReturn / 12.</value>
+  </data>
+  <data name="Tool_inflation_Scenario_High" xml:space="preserve">
+    <value>उच्च (8%)</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_4" xml:space="preserve">
+    <value>यदि अवधि 15 वर्ष कर दें, तो EMI बढ़ती है लेकिन कुल ब्याज काफी कम हो जाता है।</value>
+  </data>
+  <data name="Common_Col_TodaysValue" xml:space="preserve">
+    <value>आज का मूल्य</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileBase" xml:space="preserve">
+    <value>अस्थिर - आधार</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_5" xml:space="preserve">
+    <value>इसीलिए FIRE और लक्ष्य योजना में आज की संख्याओं के साथ-साथ मुद्रास्फीति का हिसाब रखना ज़रूरी है।</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_When" xml:space="preserve">
+    <value>जब आप मार्केट-लिंक्ड फंड में निवेश कर रहे हों</value>
+  </data>
+  <data name="Tool_fire_Result_TargetCorpus" xml:space="preserve">
+    <value>लक्ष्य कोष</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_5" xml:space="preserve">
+    <value>ट्रेड-ऑफ़: सुरक्षित पूर्वानुमानित परिणाम देता है; अस्थिर को कम मासिक बचत की आवश्यकता हो सकती है लेकिन अनिश्चितता के साथ।</value>
+  </data>
+  <data name="Tool_fd_BreakdownSubtitle" xml:space="preserve">
+    <value>प्रत्येक FD: {0}</value>
+  </data>
+  <data name="Tool_goal_Info_Abbreviation" xml:space="preserve">
+    <value>लक्ष्य-आधारित बचत योजनाकार (कोई मानक संक्षिप्त नाम नहीं)</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_1" xml:space="preserve">
+    <value>आप 15 वर्षों तक हर महीने ₹10,000 निवेश करते हैं — कुल ₹18 लाख निवेश।</value>
+  </data>
+  <data name="Tool_fire_RuleTitle" xml:space="preserve">
+    <value>अंगूठे का नियम (सरल)</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_2" xml:space="preserve">
+    <value>6% मुद्रास्फीति के साथ, भविष्य का लक्ष्य लगभग ₹13.4 लाख हो जाता है।</value>
+  </data>
+  <data name="Tool_inflation_ScenarioTitle" xml:space="preserve">
+    <value>मुद्रास्फीति परिदृश्य</value>
+  </data>
+  <data name="Tool_goal_StepInflation_3" xml:space="preserve">
+    <value>वृद्धि कारक की गणना करें: (1 + inflationRate)।</value>
+  </data>
+  <data name="Tool_inflation_Result_IncreaseNeeded" xml:space="preserve">
+    <value>आवश्यक वृद्धि</value>
+  </data>
+  <data name="Tool_inflation_Result_CostToday" xml:space="preserve">
+    <value>आज की लागत</value>
+  </data>
+  <data name="Common_ScenarioComparison" xml:space="preserve">
+    <value>परिदृश्य तुलना</value>
+  </data>
+  <data name="Tool_emi_FormulaNote" xml:space="preserve">
+    <value>P ऋण का मूलधन है। ^ का अर्थ है 'घातांक'।</value>
+  </data>
+  <data name="Common_NoDataYet" xml:space="preserve">
+    <value>अभी तक कोई डेटा नहीं.</value>
+  </data>
+  <data name="Tool_fire_Goal_House" xml:space="preserve">
+    <value>घर</value>
+  </data>
+  <data name="Tool_sip_Scenario_Aggressive" xml:space="preserve">
+    <value>आक्रामक</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_1" xml:space="preserve">
+    <value>लक्ष्य: प्रयुक्त कार के लिए आज के पैसे में ₹10,00,000 + 5 years में आपातकालीन बफर।</value>
+  </data>
+  <data name="Tool_fire_InflationToday" xml:space="preserve">
+    <value>आज ₹100</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_3" xml:space="preserve">
+    <value>जब 1-वर्ष की FD परिपक्व हो, तो उसे उपयोग करें या नई लंबी FD में रोल करें।</value>
+  </data>
+  <data name="Tool_goal_SummaryAria" xml:space="preserve">
+    <value>लक्ष्य योजनाकार सारांश</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_2" xml:space="preserve">
+    <value>आज के मासिक खर्च ₹50,000 सेवानिवृत्ति तक लगभग ₹1.6 लाख/माह हो जाते हैं (6% मुद्रास्फीति)।</value>
+  </data>
+  <data name="Tool_emi_Result_TotalInterest" xml:space="preserve">
+    <value>कुल ब्याज</value>
+  </data>
+  <data name="Tool_fire_Goal_Other" xml:space="preserve">
+    <value>अन्य</value>
+  </data>
+  <data name="Common_Col_Balance" xml:space="preserve">
+    <value>संतुलन</value>
+  </data>
+  <data name="Tool_fd_ExampleSubtitle" xml:space="preserve">
+    <value>वार्षिक तरलता के लिए 1व, 2व, 3व अवधि</value>
+  </data>
+  <data name="Tool_fire_Result_CorpusFootnote" xml:space="preserve">
+    <value>भविष्य का मासिक खर्च: {0}</value>
+  </data>
+  <data name="Common_Copy" xml:space="preserve">
+    <value>प्रतिलिपि</value>
+  </data>
+  <data name="Tool_sip_Result_ValueFootnote" xml:space="preserve">
+    <value>{0} रिटर्न पर</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Name" xml:space="preserve">
+    <value>RD/FD कैलकुलेटर</value>
+  </data>
+  <data name="Tool_fd_BreakdownTitle" xml:space="preserve">
+    <value>FD सीढ़ी</value>
+  </data>
+  <data name="Tool_emi_Result_PaymentFootnote" xml:space="preserve">
+    <value>मूलधन + ब्याज</value>
+  </data>
+  <data name="Tool_emi_Result_TenureFootnote" xml:space="preserve">
+    <value>{0} वर्ष की अवधि</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_1" xml:space="preserve">
+    <value>वर्तमान आयु 30, लक्ष्य सेवानिवृत्ति 50 — कोष बनाने के लिए 20 वर्ष।</value>
+  </data>
+  <data name="Tool_goal_ExampleSubtitle" xml:space="preserve">
+    <value>2026 के मध्य की दर मान्यताओं का उपयोग करना (ऊपर संपादन योग्य)</value>
+  </data>
+  <data name="Common_Copied" xml:space="preserve">
+    <value>कॉपी किया गया</value>
+  </data>
+  <data name="Tool_goal_Info_Differentiation" xml:space="preserve">
+    <value>केवल एक नंबर देने के बजाय, FinYatra सुरक्षित बनाम अस्थिर परिदृश्यों को साथ-साथ और साल-दर-साल ब्रेकडाउन दिखाता है ताकि उपयोगकर्ता अनिश्चितता और प्रगति को समझ सकें।</value>
+  </data>
+  <data name="Common_Col_InterestPaid" xml:space="preserve">
+    <value>ब्याज का भुगतान किया</value>
+  </data>
+  <data name="Tool_fire_GoalsTitle" xml:space="preserve">
+    <value>लक्ष्य (वैकल्पिक)</value>
+  </data>
+<data name="Tool_fire_Info_Abbreviation" xml:space="preserve"><value>FIRE = वित्तीय स्वतंत्रता, शीघ्र सेवानिवृत्ति</value></data><data name="Tool_fire_Info_Purpose" xml:space="preserve"><value>सेवानिवृत्ति के लिए आवश्यक कोष का अनुमान लगाएँ और उस तक पहुँचने के लिए आवश्यक मासिक निवेश की गणना करें।</value></data><data name="Tool_fire_Info_WhyKnow" xml:space="preserve"><value>सेवानिवृत्ति योजना ज़्यादातर गणित + अनुशासन है। FIRE लक्ष्य को ठोस बनाता है और मुद्रास्फीति, निकासी दर की धारणाओं और रिटर्न अपेक्षाओं की भूमिका दिखाता है।</value></data><data name="Tool_fire_Info_RealLife" xml:space="preserve"><value>यह तय करना कि आप पूर्णकालिक काम कब छोड़ सकते हैं, करियर ब्रेक की योजना बनाना, या यह सुनिश्चित करना कि निवेश वेतन के बिना जीवन-यापन खर्चों को कवर कर सकें।</value></data><data name="Tool_fire_Info_Goal_1" xml:space="preserve"><value>सेवानिवृत्ति पर भविष्य (मुद्रास्फीति-समायोजित) खर्चों का अनुमान लगाएँ</value></data><data name="Tool_fire_Info_Goal_2" xml:space="preserve"><value>खर्चों को कोष लक्ष्य में बदलें (अंगूठे का नियम)</value></data><data name="Tool_fire_Info_Goal_3" xml:space="preserve"><value>समय सीमा के लिए आवश्यक मासिक SIP की गणना करें</value></data><data name="Tool_fire_Info_Alt_Retirement_Name" xml:space="preserve"><value>सेवानिवृत्ति कैलकुलेटर</value></data><data name="Tool_fire_Info_Alt_Retirement_When" xml:space="preserve"><value>जब आप अधिक विस्तृत मॉडल चाहते हैं</value></data><data name="Tool_fire_Info_Alt_Retirement_Example" xml:space="preserve"><value>आय/खर्च + मुद्रास्फीति + पेंशन</value></data><data name="Tool_fire_Info_Alt_Retirement_Pros" xml:space="preserve"><value>अधिक व्यापक</value></data><data name="Tool_fire_Info_Alt_Retirement_Cons" xml:space="preserve"><value>अधिक इनपुट; शुरुआती लोगों के लिए कठिन</value></data><data name="Tool_fire_Info_Alt_Rule_Name" xml:space="preserve"><value>केवल 4% नियम अनुमान</value></data><data name="Tool_fire_Info_Alt_Rule_When" xml:space="preserve"><value>जब आप त्वरित कोष अनुमान चाहते हैं</value></data><data name="Tool_fire_Info_Alt_Rule_Example" xml:space="preserve"><value>वार्षिक खर्च × 25</value></data><data name="Tool_fire_Info_Alt_Rule_Pros" xml:space="preserve"><value>बहुत सरल</value></data><data name="Tool_fire_Info_Alt_Rule_Cons" xml:space="preserve"><value>फिर भी एक सरलीकरण</value></data><data name="Tool_fire_Info_Alt_Goal_Name" xml:space="preserve"><value>लक्ष्य योजनाकार</value></data><data name="Tool_fire_Info_Alt_Goal_When" xml:space="preserve"><value>जब आप केवल सेवानिवृत्ति नहीं, कोई भी लक्ष्य योजना बनाना चाहते हैं</value></data><data name="Tool_fire_Info_Alt_Goal_Example" xml:space="preserve"><value>20 वर्षों में ₹5Cr</value></data><data name="Tool_fire_Info_Alt_Goal_Pros" xml:space="preserve"><value>लचीला</value></data><data name="Tool_fire_Info_Alt_Goal_Cons" xml:space="preserve"><value>सेवानिवृत्ति-विशिष्ट नहीं</value></data><data name="Tool_fire_Info_Link_Rbi" xml:space="preserve"><value>RBI — भारतीय रिज़र्व बैंक</value></data><data name="Tool_fire_Info_Link_Sebi" xml:space="preserve"><value>SEBI — निवेशक शिक्षा</value></data><data name="Tool_fire_Info_Differentiation" xml:space="preserve"><value>FinYatra स्पष्टता पर केंद्रित है: कम इनपुट, मुद्रास्फीति-जागरूक संख्याएँ, और एक प्रक्षेपण तालिका ताकि उपयोगकर्ता समझ सकें कि कोष का क्या अर्थ है और SIP इसे कैसे बनाता है।</value></data><data name="Tool_fire_Info_Motto" xml:space="preserve"><value>आज़ादी बनाई जाती है, माँगी नहीं — इसकी योजना बनाएँ और नियमित निवेश करें।</value></data><data name="Tool_fire_FormulaInflateTitle" xml:space="preserve"><value>सेवानिवृत्ति वर्ष तक खर्चों को मुद्रास्फीति से समायोजित करें</value></data><data name="Tool_fire_StepInflate_1" xml:space="preserve"><value>वर्तमान मासिक खर्च लें।</value></data><data name="Tool_fire_StepInflate_2" xml:space="preserve"><value>सेवानिवृत्ति तक के वर्षों के लिए अनुमानित मुद्रास्फीति से इसे बढ़ाएँ।</value></data><data name="Tool_fire_StepInflate_3" xml:space="preserve"><value>यह अनुमान लगाता है कि सेवानिवृत्ति पर उसी जीवनशैली की लागत कितनी होगी।</value></data><data name="Tool_fire_FormulaCorpusTitle" xml:space="preserve"><value>कोष लक्ष्य (सरल नियम)</value></data><data name="Tool_fire_StepCorpus_1" xml:space="preserve"><value>भविष्य के मासिक खर्च को वार्षिक खर्च में बदलें।</value></data><data name="Tool_fire_StepCorpus_2" xml:space="preserve"><value>25 से गुणा करें (4% निकासी धारणा के बराबर)।</value></data><data name="Tool_fire_FormulaSipTitle" xml:space="preserve"><value>कोष तक पहुँचने के लिए आवश्यक मासिक SIP</value></data><data name="Tool_fire_StepSipCalc_1" xml:space="preserve"><value>वार्षिक रिटर्न को मासिक रिटर्न r में बदलें।</value></data><data name="Tool_fire_StepSipCalc_2" xml:space="preserve"><value>सेवानिवृत्ति तक कुल महीनों की गणना करें।</value></data><data name="Tool_fire_StepSipCalc_3" xml:space="preserve"><value>ऐसा SIP हल करें कि योगदान चक्रवृद्धि होकर कोष लक्ष्य तक पहुँचें।</value></data><data name="Tool_sip_Info_Abbreviation" xml:space="preserve"><value>SIP = व्यवस्थित निवेश योजना</value></data><data name="Tool_sip_Info_Purpose" xml:space="preserve"><value>अनुमान लगाएँ कि निश्चित मासिक निवेश समय के साथ चक्रवृद्धि से कैसे बढ़ सकता है।</value></data><data name="Tool_sip_Info_WhyKnow" xml:space="preserve"><value>SIP योजना अनुमान लगाने से बचाती है। यह आपकी मासिक बचत आदत को भविष्य के लक्ष्य से जोड़ती है, और दिखाती है कि समय और रिटर्न धारणाएँ परिणाम कैसे बदलती हैं।</value></data><data name="Tool_sip_Info_RealLife" xml:space="preserve"><value>घर के डाउन पेमेंट, बच्चे की शिक्षा, सेवानिवृत्ति या किसी भी दीर्घकालिक लक्ष्य के लिए जहाँ आप मासिक निवेश करते हैं।</value></data><data name="Tool_sip_Info_Goal_1" xml:space="preserve"><value>मासिक SIP का भविष्य मूल्य अनुमानित करें</value></data><data name="Tool_sip_Info_Goal_2" xml:space="preserve"><value>रूढ़िवादी/आधार/आक्रामक रिटर्न परिदृश्यों की तुलना करें</value></data><data name="Tool_sip_Info_Goal_3" xml:space="preserve"><value>वर्ष-दर-वर्ष वृद्धि देखें ताकि आत्मविश्वास और निरंतरता बने</value></data><data name="Tool_sip_Info_Alt_Rd_Name" xml:space="preserve"><value>RD कैलकुलेटर (बैंक)</value></data><data name="Tool_sip_Info_Alt_Rd_When" xml:space="preserve"><value>जब आप गारंटीड रिटर्न चाहते हैं</value></data><data name="Tool_sip_Info_Alt_Rd_Example" xml:space="preserve"><value>₹10,000/माह RD @ 7% 10 वर्षों के लिए</value></data><data name="Tool_sip_Info_Alt_Rd_Pros" xml:space="preserve"><value>पूर्वानुमेय</value></data><data name="Tool_sip_Info_Alt_Rd_Cons" xml:space="preserve"><value>आमतौर पर दीर्घकालिक वृद्धि कम</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Name" xml:space="preserve"><value>एकमुश्त कैलकुलेटर</value></data><data name="Tool_sip_Info_Alt_Lumpsum_When" xml:space="preserve"><value>जब आप एक बार निवेश करते हैं, मासिक नहीं</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Example" xml:space="preserve"><value>₹5,00,000 @ 12% 10 वर्षों के लिए</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Pros" xml:space="preserve"><value>एकमुश्त राशि हो तो सरल</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Cons" xml:space="preserve"><value>कोई मासिक अनुशासन मॉडल नहीं</value></data><data name="Tool_sip_Info_Alt_Goal_Name" xml:space="preserve"><value>लक्ष्य योजनाकार</value></data><data name="Tool_sip_Info_Alt_Goal_When" xml:space="preserve"><value>जब आप लक्ष्य राशि से शुरू करते हैं</value></data><data name="Tool_sip_Info_Alt_Goal_Example" xml:space="preserve"><value>7 वर्षों में ₹15L चाहिए</value></data><data name="Tool_sip_Info_Alt_Goal_Pros" xml:space="preserve"><value>लक्ष्य-प्रथम योजना</value></data><data name="Tool_sip_Info_Alt_Goal_Cons" xml:space="preserve"><value>रिटर्न की धारणाएँ चाहिए</value></data><data name="Tool_sip_Info_Link_Sebi" xml:space="preserve"><value>SEBI — निवेशक शिक्षा</value></data><data name="Tool_sip_Info_Link_Amfi" xml:space="preserve"><value>AMFI — म्यूचुअल फंड मूल बातें</value></data><data name="Tool_sip_Info_Differentiation" xml:space="preserve"><value>FinYatra संरचित परिदृश्य और पठनीय प्रक्षेपण तालिका जोड़ता है ताकि उपयोगकर्ता अनुमान और उसकी पीछे की अनिश्चितता दोनों समझ सकें।</value></data><data name="Tool_sip_Info_Motto" xml:space="preserve"><value>निरंतरता से धन बनता है — एक-एक SIP।</value></data><data name="Tool_sip_FormulaFvTitle" xml:space="preserve"><value>SIP भविष्य मूल्य</value></data><data name="Tool_sip_StepFv_1" xml:space="preserve"><value>वार्षिक रिटर्न को मासिक रिटर्न में बदलें r = annualReturn/12।</value></data><data name="Tool_sip_StepFv_2" xml:space="preserve"><value>कुल महीने n = years×12 की गणना करें।</value></data><data name="Tool_sip_StepFv_3" xml:space="preserve"><value>((1+r)^n - 1)/r बार-बार मासिक योगदान के लिए चक्रवृद्धि गुणक है।</value></data><data name="Tool_sip_StepFv_4" xml:space="preserve"><value>अनुमानित भविष्य मूल्य के लिए SIP राशि से गुणा करें।</value></data><data name="Tool_sip_StepFv_5" xml:space="preserve"><value>यदि r 0% है, FV = SIP × n।</value></data><data name="Tool_emi_Info_Abbreviation" xml:space="preserve"><value>EMI = समान मासिक किस्त</value></data><data name="Tool_emi_Info_Purpose" xml:space="preserve"><value>ऋण की निश्चित मासिक किस्त ज्ञात करें, और समय के साथ ब्याज बनाम मूलधन का भुगतान समझें।</value></data><data name="Tool_emi_Info_WhyKnow" xml:space="preserve"><value>EMI मासिक नकदी प्रवाह को प्रभावित करती है। दर या अवधि में छोटे बदलाव कुल ब्याज को लाखों तक बदल सकते हैं — EMI जानने से स्मार्ट अवधि और प्रीपेमेंट रणनीति चुनने में मदद मिलती है।</value></data><data name="Tool_emi_Info_RealLife" xml:space="preserve"><value>होम लोन, कार लोन, शिक्षा लोन, पर्सनल लोन — जहाँ भी आप मासिक मूलधन + ब्याज चुकाते हैं।</value></data><data name="Tool_emi_Info_Goal_1" xml:space="preserve"><value>ऋण लेने से पहले मासिक EMI जानें</value></data><data name="Tool_emi_Info_Goal_2" xml:space="preserve"><value>कुल ब्याज लागत देखें (लंबी अवधि की छिपी लागत)</value></data><data name="Tool_emi_Info_Goal_3" xml:space="preserve"><value>परिशोधन समझें (शुरुआती EMI में अधिक ब्याज जाता है)</value></data><data name="Tool_emi_Info_Alt_Bank_Name" xml:space="preserve"><value>बैंक EMI कैलकुलेटर</value></data><data name="Tool_emi_Info_Alt_Bank_When" xml:space="preserve"><value>जब आप बैंक-विशिष्ट ऑफ़र चाहते हैं</value></data><data name="Tool_emi_Info_Alt_Bank_Example" xml:space="preserve"><value>₹10L @ 9% 5 वर्षों के लिए</value></data><data name="Tool_emi_Info_Alt_Bank_Pros" xml:space="preserve"><value>बैंक उत्पाद विवरण शामिल हो सकते हैं</value></data><data name="Tool_emi_Info_Alt_Bank_Cons" xml:space="preserve"><value>धारणाएँ/शुल्क छिप सकते हैं</value></data><data name="Tool_emi_Info_Alt_Amort_Name" xml:space="preserve"><value>परिशोधन अनुसूची उपकरण</value></data><data name="Tool_emi_Info_Alt_Amort_When" xml:space="preserve"><value>जब आप पूरी मासिक अनुसूची चाहते हैं</value></data><data name="Tool_emi_Info_Alt_Amort_Example" xml:space="preserve"><value>माह-दर-माह मूलधन/ब्याज</value></data><data name="Tool_emi_Info_Alt_Amort_Pros" xml:space="preserve"><value>बहुत विस्तृत</value></data><data name="Tool_emi_Info_Alt_Amort_Cons" xml:space="preserve"><value>जल्दी पढ़ना कठिन</value></data><data name="Tool_emi_Info_Alt_Afford_Name" xml:space="preserve"><value>अंगूठे का नियम सामर्थ्य</value></data><data name="Tool_emi_Info_Alt_Afford_When" xml:space="preserve"><value>जब आप त्वरित जाँच चाहते हैं</value></data><data name="Tool_emi_Info_Alt_Afford_Example" xml:space="preserve"><value>EMI ≤ टेक-होम का 30–40%</value></data><data name="Tool_emi_Info_Alt_Afford_Pros" xml:space="preserve"><value>तेज़ फ़िल्टर</value></data><data name="Tool_emi_Info_Alt_Afford_Cons" xml:space="preserve"><value>कोई ब्याज विवरण नहीं</value></data><data name="Tool_emi_Info_Link_Rbi" xml:space="preserve"><value>RBI — भारतीय रिज़र्व बैंक</value></data><data name="Tool_emi_Info_Differentiation" xml:space="preserve"><value>FinYatra इसे न्यूनतम लेकिन पूर्ण रखता है: सारांश कार्ड, परिदृश्य तुलना, और पठनीय परिशोधन विवरण ताकि उपयोगकर्ता उधार की वास्तविक लागत समझ सकें।</value></data><data name="Tool_emi_Info_Motto" xml:space="preserve"><value>समझदारी से उधार लें — EMI शांत और पूर्वानुमेय रखें।</value></data><data name="Tool_emi_FormulaEmiTitle" xml:space="preserve"><value>EMI (निश्चित मासिक भुगतान)</value></data><data name="Tool_emi_StepEmi_1" xml:space="preserve"><value>P आपका ऋण मूलधन (ऋण राशि) है।</value></data><data name="Tool_emi_StepEmi_2" xml:space="preserve"><value>वार्षिक ब्याज दर को मासिक दर में बदलें: monthlyRate = annualRate/12।</value></data><data name="Tool_emi_StepEmi_3" xml:space="preserve"><value>n महीनों की संख्या है (years × 12)।</value></data><data name="Tool_emi_StepEmi_4" xml:space="preserve"><value>सूत्र वह निश्चित भुगतान देता है जो महीने n तक मूलधन+ब्याज पूरी तरह चुकाता है।</value></data><data name="Tool_emi_StepEmi_5" xml:space="preserve"><value>यदि दर 0% है, EMI = P / n।</value></data><data name="Tool_inflation_Info_Abbreviation" xml:space="preserve"><value>मुद्रास्फीति (कोई संक्षिप्त नाम नहीं)</value></data><data name="Tool_inflation_Info_Purpose" xml:space="preserve"><value>अनुमान लगाएँ कि मुद्रास्फीति के कारण समय के साथ किसी चीज़ की लागत कैसे बढ़ती है।</value></data><data name="Tool_inflation_Info_WhyKnow" xml:space="preserve"><value>अधिकांश वित्तीय लक्ष्य इसलिए विफल होते हैं क्योंकि लोग आज के रुपयों में योजना बनाते हैं। मुद्रास्फीति चुपचाप आवश्यक राशि बढ़ाती है — विशेषकर सेवानिवृत्ति और शिक्षा जैसी लंबी अवधि के लिए।</value></data><data name="Tool_inflation_Info_RealLife" xml:space="preserve"><value>भविष्य की स्कूल फीस, भविष्य का किराया, चिकित्सा खर्च, सेवानिवृत्ति में जीवनशैली खर्च, घर निर्माण जैसी दीर्घकालिक परियोजनाएँ।</value></data><data name="Tool_inflation_Info_Goal_1" xml:space="preserve"><value>आज की लागत को भविष्य की लागत में बदलें</value></data><data name="Tool_inflation_Info_Goal_2" xml:space="preserve"><value>मुद्रास्फीति की चक्रवृद्धि प्रकृति समझें</value></data><data name="Tool_inflation_Info_Goal_3" xml:space="preserve"><value>FIRE और लक्ष्य योजना को यथार्थवादी बनाएँ</value></data><data name="Tool_inflation_Info_Alt_Rule72_Name" xml:space="preserve"><value>72 का नियम अनुमान</value></data><data name="Tool_inflation_Info_Alt_Rule72_When" xml:space="preserve"><value>जब आप त्वरित दोगुना समय चाहते हैं</value></data><data name="Tool_inflation_Info_Alt_Rule72_Example" xml:space="preserve"><value>6% पर, लागत ~12 वर्षों में दोगुनी</value></data><data name="Tool_inflation_Info_Alt_Rule72_Pros" xml:space="preserve"><value>तेज़ मानसिक गणित</value></data><data name="Tool_inflation_Info_Alt_Rule72_Cons" xml:space="preserve"><value>अनुमानित</value></data><data name="Tool_inflation_Info_Alt_Cpi_Name" xml:space="preserve"><value>सरकारी CPI डेटा</value></data><data name="Tool_inflation_Info_Alt_Cpi_When" xml:space="preserve"><value>जब आपको आधिकारिक मुद्रास्फीति श्रृंखला चाहिए</value></data><data name="Tool_inflation_Info_Alt_Cpi_Example" xml:space="preserve"><value>CPI मुद्रास्फीति रुझान देखें</value></data><data name="Tool_inflation_Info_Alt_Cpi_Pros" xml:space="preserve"><value>विश्वसनीय स्रोत</value></data><data name="Tool_inflation_Info_Alt_Cpi_Cons" xml:space="preserve"><value>कैलकुलेटर नहीं</value></data><data name="Tool_inflation_Info_Alt_Budget_Name" xml:space="preserve"><value>बजट वृद्धि विधि</value></data><data name="Tool_inflation_Info_Alt_Budget_When" xml:space="preserve"><value>जब वार्षिक बजट की योजना बना रहे हों</value></data><data name="Tool_inflation_Info_Alt_Budget_Example" xml:space="preserve"><value>बजट हर साल 6% बढ़ाएँ</value></data><data name="Tool_inflation_Info_Alt_Budget_Pros" xml:space="preserve"><value>व्यावहारिक योजना</value></data><data name="Tool_inflation_Info_Alt_Budget_Cons" xml:space="preserve"><value>फिर भी धारणा-आधारित</value></data><data name="Tool_inflation_Info_Link_Rbi" xml:space="preserve"><value>RBI — भारतीय रिज़र्व बैंक</value></data><data name="Tool_inflation_Info_Link_Mospi" xml:space="preserve"><value>MOSPI — CPI / मुद्रास्फीति सांख्यिकी (भारत)</value></data><data name="Tool_inflation_Info_Differentiation" xml:space="preserve"><value>FinYatra सूत्र के साथ वर्ष-दर-वर्ष तालिका और वास्तविक उदाहरण जोड़ता है ताकि उपयोगकर्ता केवल एक संख्या न देखें, प्रभाव महसूस करें।</value></data><data name="Tool_inflation_Info_Motto" xml:space="preserve"><value>आज के रुपये के लिए नहीं, कल के रुपये की योजना बनाएँ।</value></data><data name="Tool_inflation_FormulaFutureTitle" xml:space="preserve"><value>मुद्रास्फीति के साथ भविष्य की लागत</value></data><data name="Tool_inflation_StepFuture_1" xml:space="preserve"><value>presentCost (आज की कीमत) से शुरू करें।</value></data><data name="Tool_inflation_StepFuture_2" xml:space="preserve"><value>मुद्रास्फीति % को वृद्धि कारक (1 + inflationRate) में बदलें।</value></data><data name="Tool_inflation_StepFuture_3" xml:space="preserve"><value>इसे वर्षों की संख्या तक बढ़ाएँ (चक्रवृद्धि)।</value></data><data name="Tool_inflation_StepFuture_4" xml:space="preserve"><value>futureCost पाने के लिए गुणा करें।</value></data><data name="Tool_inflation_StepFuture_5" xml:space="preserve"><value>वृद्धि = futureCost - presentCost।</value></data><data name="Tool_fd_Info_Abbreviation" xml:space="preserve"><value>FD = सावधि जमा</value></data><data name="Tool_fd_Info_Purpose" xml:space="preserve"><value>स्टैगर्ड सावधि जमाओं की योजना बनाएँ ताकि सब कुछ एक तारीख में लॉक करने के बजाय समय-समय पर परिपक्वता मिले।</value></data><data name="Tool_fd_Info_WhyKnow" xml:space="preserve"><value>FD जल्दी तोड़ने पर अक्सर ब्याज कम हो जाता है। लैडरिंग जमा तोड़ने की ज़रूरत कम करती है और पैसा अपेक्षित समय पर सुरक्षित और उपलब्ध रखती है।</value></data><data name="Tool_fd_Info_RealLife" xml:space="preserve"><value>आपातकालीन निधि पार्किंग, नियोजित खर्च (फीस, यात्रा, घर नवीनीकरण), और रूढ़िवादी निवेशक जो पूर्वानुमेय नकदी प्रवाह चाहते हैं।</value></data><data name="Tool_fd_Info_Goal_1" xml:space="preserve"><value>स्टैगर्ड परिपक्वता से तरलता बेहतर करें</value></data><data name="Tool_fd_Info_Goal_2" xml:space="preserve"><value>जल्दी-तोड़ जुर्माने का जोखिम कम करें</value></data><data name="Tool_fd_Info_Goal_3" xml:space="preserve"><value>रिटर्न बनाम नकदी उपलब्धता का संतुलन</value></data><data name="Tool_fd_Info_Alt_Single_Name" xml:space="preserve"><value>एक लंबी FD</value></data><data name="Tool_fd_Info_Alt_Single_When" xml:space="preserve"><value>जब बीच की तरलता न चाहिए</value></data><data name="Tool_fd_Info_Alt_Single_Example" xml:space="preserve"><value>₹3L 3 वर्षों के लिए</value></data><data name="Tool_fd_Info_Alt_Single_Pros" xml:space="preserve"><value>सरल</value></data><data name="Tool_fd_Info_Alt_Single_Cons" xml:space="preserve"><value>जुर्माने के बिना पहुँच कठिन</value></data><data name="Tool_fd_Info_Alt_Mix_Name" xml:space="preserve"><value>FD + लिक्विड फंड मिश्रण</value></data><data name="Tool_fd_Info_Alt_Mix_When" xml:space="preserve"><value>जब कुछ तरलता चाहिए</value></data><data name="Tool_fd_Info_Alt_Mix_Example" xml:space="preserve"><value>50% FD, 50% लिक्विड फंड</value></data><data name="Tool_fd_Info_Alt_Mix_Pros" xml:space="preserve"><value>बेहतर पहुँच</value></data><data name="Tool_fd_Info_Alt_Mix_Cons" xml:space="preserve"><value>अधिक चीज़ें संभालनी पड़ती हैं</value></data><data name="Tool_fd_Info_Alt_Rd_Name" xml:space="preserve"><value>RD सीढ़ी</value></data><data name="Tool_fd_Info_Alt_Rd_When" xml:space="preserve"><value>जब आप मासिक निवेश करते हैं, एकमुश्त नहीं</value></data><data name="Tool_fd_Info_Alt_Rd_Example" xml:space="preserve"><value>₹10k/माह RD</value></data><data name="Tool_fd_Info_Alt_Rd_Pros" xml:space="preserve"><value>अनुशासित बचत</value></data><data name="Tool_fd_Info_Alt_Rd_Cons" xml:space="preserve"><value>अलग संरचना</value></data><data name="Tool_fd_Info_Link_Rbi" xml:space="preserve"><value>RBI — जमा बीमा (DICGC) संदर्भ</value></data><data name="Tool_fd_Info_Link_Dicgc" xml:space="preserve"><value>DICGC — जमा बीमा (भारत)</value></data><data name="Tool_fd_Info_Differentiation" xml:space="preserve"><value>FinYatra सीढ़ी को साफ़ तालिका में दिखाता है — प्रति-FD विभाजन और परिपक्वता अनुमान — ताकि आप वर्ष-दर-वर्ष तरलता योजना बना सकें।</value></data><data name="Tool_fd_Info_Motto" xml:space="preserve"><value>पैसा सुरक्षित रखें — खुद को लॉक किए बिना।</value></data><data name="Tool_fd_FormulaLadderTitle" xml:space="preserve"><value>FD सीढ़ी विभाजन + परिपक्वता</value></data><data name="Tool_fd_StepLadder_1" xml:space="preserve"><value>totalAmount को बराबर हिस्सों (perFd) में बाँटें।</value></data><data name="Tool_fd_StepLadder_2" xml:space="preserve"><value>startYears से अवधि निर्धारित करें: 1y, 2y, 3y...</value></data><data name="Tool_fd_StepLadder_3" xml:space="preserve"><value>प्रत्येक FD के लिए सरलीकृत वार्षिक चक्रवृद्धि से परिपक्वता अनुमानित करें।</value></data><data name="Tool_fd_StepLadder_4" xml:space="preserve"><value>परिणाम एक सीढ़ी है जहाँ हर साल एक FD परिपक्व होती है।</value></data><data name="Page_Privacy_S01_Title" xml:space="preserve"><value>1. हम कौन हैं</value></data><data name="Page_Privacy_S01_Body" xml:space="preserve"><value>FinYatra ("हम", "हमें", "ऐप") मुफ़्त शैक्षिक वित्तीय कैलकुलेटर और योजनाकार प्रदान करता है। यह नूथन मुरारिसेट्टी द्वारा संचालित एक स्वतंत्र परियोजना है। आप हमसे कभी भी संपर्क कर सकते हैं:</value></data><data name="Page_Privacy_S02_Title" xml:space="preserve"><value>2. संक्षिप्त संस्करण</value></data><data name="Page_Privacy_S02_L1" xml:space="preserve"><value>FinYatra उपयोग करने के लिए कोई खाता, साइन-अप या लॉगिन आवश्यक नहीं है।</value></data><data name="Page_Privacy_S02_L2" xml:space="preserve"><value>कैलकुलेटर में आप जो संख्याएँ टाइप करते हैं, वे आपके ब्राउज़र में संसाधित होती हैं और हमारे सर्वर पर नहीं भेजी जातीं।</value></data><data name="Page_Privacy_S02_L3" xml:space="preserve"><value>हम आपका व्यक्तिगत डेटा कभी नहीं बेचते — कभी भी।</value></data><data name="Page_Privacy_S02_L4" xml:space="preserve"><value>ऐप को मुफ़्त रखने के लिए हम गोपनीयता-सम्मानित विश्लेषण और, जहाँ सक्षम हो, विज्ञापन का उपयोग करते हैं।</value></data><data name="Page_Privacy_S03_Title" xml:space="preserve"><value>3. आप जो जानकारी दर्ज करते हैं</value></data><data name="Page_Privacy_S03_Body" xml:space="preserve"><value>कैलकुलेटर इनपुट (जैसे लक्ष्य राशि, ब्याज दर, अवधि और खर्च) केवल आपके डिवाइस पर परिणाम गणना के लिए उपयोग होते हैं। वे आपके ब्राउज़र सत्र में रहते हैं और पृष्ठ बंद या रीफ़्रेश करने पर मिट जाते हैं, जब तक आप जानबूझकर परिणाम कॉपी या साझा न करें। हम इन मानों को सर्वर पर संग्रहीत नहीं करते और न ही आपकी पहचान से जोड़ते हैं।</value></data><data name="Page_Privacy_S04_Title" xml:space="preserve"><value>4. स्वचालित रूप से एकत्र की जाने वाली जानकारी</value></data><data name="Page_Privacy_S04_Body" xml:space="preserve"><value>अधिकांश वेबसाइटों की तरह, हमारा होस्टिंग प्रदाता और कोई भी विश्लेषण या विज्ञापन भागीदार स्वचालित रूप से मानक तकनीकी डेटा प्राप्त कर सकते हैं जैसे आपका IP पता, डिवाइस और ब्राउज़र प्रकार, अनुमानित क्षेत्र, रेफ़रर पृष्ठ और देखे गए पृष्ठ। इससे साइट सुरक्षित रखने, उपयोगी उपकरण समझने और समस्याएँ ठीक करने में मदद मिलती है।</value></data><data name="Page_Privacy_S05_Title" xml:space="preserve"><value>5. कुकीज़ और समान तकनीकें</value></data><data name="Page_Privacy_S05_Body" xml:space="preserve"><value>हम प्रदर्शन प्राथमिकताएँ (जैसे आपकी टाइल्स/सूची पसंद) याद रखने के लिए थोड़ी local storage का उपयोग करते हैं। यदि विज्ञापन सक्षम है, तो तृतीय पक्ष नीचे वर्णित अनुसार कुकीज़ सेट कर सकते हैं। आप ब्राउज़र सेटिंग्स से कभी भी कुकीज़ और local storage साफ़ कर सकते हैं।</value></data><data name="Page_Privacy_S06_Title" xml:space="preserve"><value>6. विज्ञापन (Google AdSense)</value></data><data name="Page_Privacy_S06_Body" xml:space="preserve"><value>FinYatra को मुफ़्त रखने के लिए हम Google AdSense के माध्यम से विज्ञापन दिखा सकते हैं। Google और उसके भागीदार विज्ञापन दिखाने और मापने के लिए कुकीज़ और डिवाइस पहचानकर्ता का उपयोग कर सकते हैं, जिसमें आपकी सेटिंग्स के अधीन, पिछली विज़िट के आधार पर वैयक्तिकृत विज्ञापन शामिल हैं। आप विज्ञापन वैयक्तिकरण को नियंत्रित कर सकते हैं:</value></data><data name="Page_Privacy_S06_LinkAds" xml:space="preserve"><value>Google Ads Settings</value></data><data name="Page_Privacy_S06_BodyAfter" xml:space="preserve"><value>और अधिक जानें:</value></data><data name="Page_Privacy_S06_LinkPolicy" xml:space="preserve"><value>How Google uses information from sites that use its services</value></data><data name="Page_Privacy_S07_Title" xml:space="preserve"><value>7. तृतीय-पक्ष सेवाएँ</value></data><data name="Page_Privacy_S07_Body" xml:space="preserve"><value>हम ऐप रेंडर करने के लिए Google Fonts से Inter फ़ॉन्ट और सार्वजनिक CDN से कुछ लाइब्रेरी लोड करते हैं। इन प्रदाताओं को अपनी फ़ाइलें पहुँचाने के हिस्से के रूप में आपका IP पता मिल सकता है। स्रोतों (RBI, SEBI, बैंक और समान) के बाहरी लिंक संदर्भ के लिए दिए गए हैं; उनकी गोपनीयता प्रथाएँ उनकी अपनी नीतियों द्वारा नियंत्रित होती हैं।</value></data><data name="Page_Privacy_S08_Title" xml:space="preserve"><value>8. आपके अधिकार और विकल्प</value></data><data name="Page_Privacy_S08_L1" xml:space="preserve"><value>कोई व्यक्तिगत जानकारी दिए बिना ऐप का उपयोग करें।</value></data><data name="Page_Privacy_S08_L2" xml:space="preserve"><value>अपने ब्राउज़र में कुकीज़ और local storage ब्लॉक या हटाएँ।</value></data><data name="Page_Privacy_S08_L3" xml:space="preserve"><value>अपने Google खाते या ब्राउज़र नियंत्रणों से वैयक्तिकृत विज्ञापन से बाहर निकलें।</value></data><data name="Page_Privacy_S08_L4" xml:space="preserve"><value>कोई भी गोपनीयता प्रश्न पूछने या चिंता जताने के लिए हमसे संपर्क करें।</value></data><data name="Page_Privacy_S09_Title" xml:space="preserve"><value>9. बच्चों की गोपनीयता</value></data><data name="Page_Privacy_S09_Body" xml:space="preserve"><value>FinYatra सामान्य दर्शकों के लिए है और 13 वर्ष से कम उम्र के बच्चों के लिए नहीं बनाया गया। हम जानबूझकर बच्चों से व्यक्तिगत जानकारी एकत्र नहीं करते।</value></data><data name="Page_Privacy_S10_Title" xml:space="preserve"><value>10. इस नीति में बदलाव</value></data><data name="Page_Privacy_S10_Body" xml:space="preserve"><value>ऐप के विकास के साथ हम इस नीति को अपडेट कर सकते हैं। महत्वपूर्ण बदलाव यहाँ नई "अंतिम अपडेट" तिथि के साथ दिखाए जाएँगे। बदलावों के बाद FinYatra का उपयोग जारी रखना संशोधित नीति स्वीकार करना माना जाएगा।</value></data><data name="Page_Terms_S01_Title" xml:space="preserve"><value>1. नियमों की स्वीकृति</value></data><data name="Page_Terms_S01_Body" xml:space="preserve"><value>FinYatra तक पहुँचने या उसका उपयोग करके, आप इन नियम और शर्तों तथा हमारी</value></data><data name="Page_Terms_S01_LinkPrivacy" xml:space="preserve"><value>गोपनीयता नीति</value></data><data name="Page_Terms_S01_BodyAfter" xml:space="preserve"><value>से बाध्य होने के लिए सहमत हैं। यदि आप सहमत नहीं हैं, तो कृपया ऐप का उपयोग न करें।</value></data><data name="Page_Terms_S02_Title" xml:space="preserve"><value>2. केवल शैक्षिक उपयोग — वित्तीय सलाह नहीं</value></data><data name="Page_Terms_S02_Body" xml:space="preserve"><value>FinYatra सामान्य शैक्षिक कैलकुलेटर, अनुमान और स्पष्टीकरण प्रदान करता है। यह वित्तीय, निवेश, कर या कानूनी सलाह नहीं है, और यह सलाहकार–ग्राहक संबंध नहीं बनाता। परिणाम दृष्टांत हैं और आपके द्वारा दर्ज की गई धारणाओं पर निर्भर करते हैं। वित्तीय निर्णय लेने से पहले हमेशा योग्य पेशेवर से परामर्श करें और आधिकारिक स्रोतों से आँकड़े सत्यापित करें।</value></data><data name="Page_Terms_S03_Title" xml:space="preserve"><value>3. जानकारी की शुद्धता</value></data><data name="Page_Terms_S03_Body" xml:space="preserve"><value>हम सूत्र, उदाहरण और दर धारणाएँ सही और अद्यतन रखने का प्रयास करते हैं, लेकिन शुद्धता, पूर्णता या समयबद्धता की कोई गारंटी नहीं देते। ब्याज दरें, रिटर्न, मुद्रास्फीति और कर नियम अक्सर बदलते हैं और प्रदाता के अनुसार भिन्न होते हैं। महत्वपूर्ण आँकड़ों की स्वतंत्र पुष्टि करने की ज़िम्मेदारी आपकी है।</value></data><data name="Page_Terms_S04_Title" xml:space="preserve"><value>4. कोई गारंटीकृत परिणाम नहीं</value></data><data name="Page_Terms_S04_Body" xml:space="preserve"><value>प्रक्षेपण सरलीकृत मॉडल (जैसे निश्चित वार्षिक चक्रवृद्धि) का उपयोग करते हैं। वास्तविक निवेश में जोखिम, शुल्क, कर और बाज़ार उतार-चढ़ाव शामिल होते हैं, और यहाँ दिखाए किसी भी अनुमान से बहुत अलग प्रदर्शन हो सकता है। पिछला प्रदर्शन और नमूना रिटर्न भविष्य के परिणामों की गारंटी नहीं देते।</value></data><data name="Page_Terms_S05_Title" xml:space="preserve"><value>5. स्वीकार्य उपयोग</value></data><data name="Page_Terms_S05_L1" xml:space="preserve"><value>ऐप का दुरुपयोग न करें, इसे बाधित करने का प्रयास न करें, या स्वचालित दुरुपयोग से इस तक पहुँचें।</value></data><data name="Page_Terms_S05_L2" xml:space="preserve"><value>FinYatra के परिणामों को दूसरों को पेशेवर सलाह के रूप में प्रस्तुत न करें।</value></data><data name="Page_Terms_S05_L3" xml:space="preserve"><value>उपयोगकर्ताओं को धोखा देने या उनकी पहचान छिपाने के लिए ऐप की प्रतिलिपि न बनाएँ।</value></data><data name="Page_Terms_S06_Title" xml:space="preserve"><value>6. बौद्धिक संपदा</value></data><data name="Page_Terms_S06_Body" xml:space="preserve"><value>FinYatra नाम, डिज़ाइन, लेआउट और मूल सामग्री उनके लेखक के स्वामित्व में हैं। आप कैलकुलेटर का व्यक्तिगत, गैर-व्यावसायिक उपयोग कर सकते हैं और अपने परिणामों के स्क्रीनशॉट साझा कर सकते हैं। अन्य सभी अधिकार सुरक्षित हैं।</value></data><data name="Page_Terms_S07_Title" xml:space="preserve"><value>7. तृतीय-पक्ष लिंक और विज्ञापन</value></data><data name="Page_Terms_S07_Body" xml:space="preserve"><value>FinYatra तृतीय-पक्ष साइटों (जैसे RBI, SEBI और बैंक) से लिंक कर सकता है और विज्ञापन दिखा सकता है। हम तृतीय-पक्ष सामग्री, उत्पाद या प्रथाओं को नियंत्रित नहीं करते और उनके लिए ज़िम्मेदार नहीं हैं। तृतीय-पक्ष साइटों पर जाना आपके अपने जोखिम पर है और उनके नियमों के अधीन है।</value></data><data name="Page_Terms_S08_Title" xml:space="preserve"><value>8. दायित्व की सीमा</value></data><data name="Page_Terms_S08_Body" xml:space="preserve"><value>कानून द्वारा अनुमत अधिकतम सीमा तक, FinYatra और उसके लेखक ऐप या उसके परिणामों के उपयोग या उन पर निर्भरता से उत्पन्न किसी भी प्रत्यक्ष, अप्रत्यक्ष, आकस्मिक या परिणामी हानि के लिए उत्तरदायी नहीं हैं। ऐप "जैसा है" और "जैसा उपलब्ध है" के आधार पर बिना किसी प्रकार की वारंटी के प्रदान किया जाता है।</value></data><data name="Page_Terms_S09_Title" xml:space="preserve"><value>9. बदलाव और उपलब्धता</value></data><data name="Page_Terms_S09_Body" xml:space="preserve"><value>हम किसी भी समय ऐप के किसी भी हिस्से को संशोधित, निलंबित या बंद कर सकते हैं, और इन नियमों को अपडेट कर सकते हैं। बदलावों के बाद उपयोग जारी रखना अद्यतन नियमों की स्वीकृति माना जाएगा।</value></data><data name="Page_Terms_S10_Title" xml:space="preserve"><value>10. क्रेडिट और श्रेय</value></data><data name="Page_Terms_S10_Body" xml:space="preserve"><value>इंटरफ़ेस आइकन इनलाइन SVG के रूप में रेंडर किए गए सरल लाइन आइकन हैं, जो ओपन-सोर्स</value></data><data name="Page_Terms_S10_LinkLucide" xml:space="preserve"><value>Lucide</value></data><data name="Page_Terms_S10_BodyMid" xml:space="preserve"><value>आइकन शैली (ISC / MIT लाइसेंस) पर आधारित हैं। टाइपफ़ेस</value></data><data name="Page_Terms_S10_LinkInter" xml:space="preserve"><value>Inter</value></data><data name="Page_Terms_S10_BodyAfter" xml:space="preserve"><value>Rasmus Andersson का है, SIL Open Font License के अंतर्गत। यदि आपको लगता है कि किसी संपत्ति को अतिरिक्त श्रेय चाहिए, तो संपर्क करें</value></data><data name="Page_Terms_S10_BodyEnd" xml:space="preserve"><value>— हम तुरंत संबोधित करेंगे।</value></data><data name="Page_Terms_S11_Title" xml:space="preserve"><value>11. संपर्क</value></data><data name="Page_Terms_S11_Body" xml:space="preserve"><value>इन नियमों के बारे में प्रश्न? inbox.nuthan@gmail.com पर ईमेल करें।</value></data><data name="Page_Contact_Err_CaptchaLoad" xml:space="preserve"><value>सुरक्षा प्रश्न लोड नहीं हो सका। कृपया फिर से प्रयास करें पर टैप करें।</value></data><data name="Page_Contact_Err_CaptchaAnswer" xml:space="preserve"><value>सुरक्षा जाँच का उत्तर दर्ज करें।</value></data><data name="Page_Contact_Err_Submit" xml:space="preserve"><value>अभी संदेश भेजा नहीं जा सका।</value></data><data name="Page_Contact_Err_CaptchaWrong" xml:space="preserve"><value>गलत सुरक्षा जाँच। कृपया पुनः प्रयास करें।</value></data><data name="Page_Contact_Val_NameRequired" xml:space="preserve"><value>नाम आवश्यक है।</value></data><data name="Page_Contact_Val_EmailRequired" xml:space="preserve"><value>ईमेल आवश्यक है।</value></data><data name="Page_Contact_Val_EmailInvalid" xml:space="preserve"><value>मान्य ईमेल दर्ज करें।</value></data><data name="Page_Contact_Val_SubjectRequired" xml:space="preserve"><value>विषय आवश्यक है।</value></data><data name="Page_Contact_Val_MessageRequired" xml:space="preserve"><value>संदेश आवश्यक है।</value></data><data name="Page_Contact_Val_MessageMin" xml:space="preserve"><value>कृपया थोड़ा और विवरण जोड़ें (न्यूनतम 10 अक्षर)।</value></data><data name="Page_Contact_Val_ConsentRequired" xml:space="preserve"><value>कृपया गोपनीयता नीति और नियम स्वीकार करें।</value></data><data name="Page_Contact_HoneypotLabel" xml:space="preserve"><value>वेबसाइट</value></data><data name="Page_Contact_Err_ApiOffline" xml:space="preserve"><value>FinYatra.Server चालू नहीं है। टर्मिनल में चलाएँ: dotnet run --project FinYatra.Server — फिर नीचे पुनः प्रयास करें (या https://localhost:7265/contact खोलें)।</value></data><data name="Page_Contact_BtnRetryCaptcha" xml:space="preserve"><value>फिर से प्रयास करें</value></data><data name="Page_Contact_Unavailable_Title" xml:space="preserve"><value>अभी यहाँ से संदेश नहीं भेजा जा सकता</value></data><data name="Page_Contact_Unavailable_Body_Before" xml:space="preserve"><value>हमारा सुरक्षित संपर्क फ़ॉर्म अस्थायी रूप से उपलब्ध नहीं है। कृपया हमें ईमेल करें </value></data><data name="Page_Contact_Unavailable_Body_After" xml:space="preserve"><value> — हम आमतौर पर 2–3 कार्य दिवसों में जवाब देते हैं।</value></data><data name="Page_Contact_BtnTryAgain" xml:space="preserve"><value>फिर से प्रयास करें</value></data><data name="Page_Contact_DeliveryUnavailable_Title" xml:space="preserve"><value>हम आपका संदेश नहीं भेज सके</value></data><data name="Page_Contact_BtnEmailUs" xml:space="preserve"><value>इसके बजाय ईमेल करें</value></data><data name="Page_Contact_Err_TooManyRequests" xml:space="preserve"><value>बहुत अधिक प्रयास। कृपया कुछ मिनट प्रतीक्षा करें और फिर से प्रयास करें।</value></data></root>

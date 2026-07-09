@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="FIRE illustration">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0f7fc"/>
+      <stop offset="1" stop-color="#fdf9f0"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e67e22"/>
+      <stop offset="1" stop-color="#3a8d8d"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="620" height="400" rx="26" fill="url(#bg2)" stroke="#c5dff0" stroke-width="2"/>
+
+  <g transform="translate(88,62)">
+    <rect x="0" y="0" width="464" height="296" rx="22" fill="#ffffff" stroke="#dce6ef" stroke-width="2"/>
+    <path d="M56 220c50-74 100-110 168-126 78-18 138-2 192 50" fill="none" stroke="#1e3a5f" stroke-width="10" stroke-linecap="round" opacity="0.10"/>
+    <path d="M56 208c70 24 160 10 250-66" fill="none" stroke="url(#accent2)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M292 112l58 10-32 46" fill="none" stroke="url(#accent2)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="52" y="44" width="150" height="16" rx="8" fill="#e8f3fa"/>
+    <rect x="52" y="74" width="220" height="16" rx="8" fill="#e8f3fa"/>
+    <rect x="52" y="104" width="190" height="16" rx="8" fill="#e8f3fa"/>
+
+    <g transform="translate(330,148)">
+      <path d="M66 0c8 26-14 36-14 52 0 10 8 16 18 16 18 0 34-18 34-40 0-22-16-30-38-38z" fill="#e67e22"/>
+      <path d="M40 34c0 16-24 26-24 54 0 28 24 52 60 52s60-24 60-52c0-22-12-38-28-50" fill="none" stroke="#1e3a5f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

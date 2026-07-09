@@ -1,0 +1,13 @@
+@import "../public/css/finyatra.css";
+
+/* Next.js shell tweaks — design tokens live in finyatra.css */
+.fy-side-link.active {
+  background: #f1f5fb;
+  color: var(--fy-accent-dark);
+  border-color: var(--fy-info-border);
+  font-weight: 700;
+}
+
+.fy-side-link.active .fy-ic {
+  color: var(--fy-accent);
+}

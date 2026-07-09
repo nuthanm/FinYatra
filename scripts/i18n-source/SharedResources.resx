@@ -1,0 +1,1425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="App_Title" xml:space="preserve">
+    <value>FinYatra</value>
+  </data>
+  <data name="Nav_OpenMenu" xml:space="preserve">
+    <value>Open menu</value>
+  </data>
+  <data name="Nav_CollapseSidebar" xml:space="preserve">
+    <value>Collapse sidebar</value>
+  </data>
+  <data name="Nav_CloseMenu" xml:space="preserve">
+    <value>Close menu</value>
+  </data>
+  <data name="Nav_SearchPlaceholder" xml:space="preserve">
+    <value>Search tools…</value>
+  </data>
+  <data name="Nav_SearchAria" xml:space="preserve">
+    <value>Search tools</value>
+  </data>
+  <data name="Nav_SearchGoAria" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="Nav_LanguageAria" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Nav_PrimaryAria" xml:space="preserve">
+    <value>Primary</value>
+  </data>
+  <data name="Nav_FooterAria" xml:space="preserve">
+    <value>Footer links</value>
+  </data>
+  <data name="Group_Overview" xml:space="preserve">
+    <value>Overview</value>
+  </data>
+  <data name="Group_Planning" xml:space="preserve">
+    <value>Planning</value>
+  </data>
+  <data name="Group_Investing" xml:space="preserve">
+    <value>Investing</value>
+  </data>
+  <data name="Group_Loans" xml:space="preserve">
+    <value>Loans</value>
+  </data>
+  <data name="Group_Basics" xml:space="preserve">
+    <value>Basics</value>
+  </data>
+  <data name="Group_More" xml:space="preserve">
+    <value>More</value>
+  </data>
+  <data name="Group_Assets" xml:space="preserve">
+    <value>Assets</value>
+  </data>
+  <data name="Nav_Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="Nav_AllTools" xml:space="preserve">
+    <value>All Tools</value>
+  </data>
+  <data name="Nav_GoalPlanner" xml:space="preserve">
+    <value>Goal Planner</value>
+  </data>
+  <data name="Nav_Fire" xml:space="preserve">
+    <value>FIRE</value>
+  </data>
+  <data name="Nav_FdLaddering" xml:space="preserve">
+    <value>FD Laddering</value>
+  </data>
+  <data name="Nav_Sip" xml:space="preserve">
+    <value>SIP</value>
+  </data>
+  <data name="Nav_Cagr" xml:space="preserve">
+    <value>CAGR</value>
+  </data>
+  <data name="Nav_Lumpsum" xml:space="preserve">
+    <value>Lumpsum</value>
+  </data>
+  <data name="Nav_Emi" xml:space="preserve">
+    <value>EMI</value>
+  </data>
+  <data name="Nav_Mortgage" xml:space="preserve">
+    <value>Mortgage</value>
+  </data>
+  <data name="Nav_Inflation" xml:space="preserve">
+    <value>Inflation</value>
+  </data>
+  <data name="Nav_CompoundInterest" xml:space="preserve">
+    <value>Compound Interest</value>
+  </data>
+  <data name="Nav_About" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="Nav_Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="Nav_Sitemap" xml:space="preserve">
+    <value>Sitemap</value>
+  </data>
+  <data name="Nav_Privacy" xml:space="preserve">
+    <value>Privacy Policy</value>
+  </data>
+  <data name="Nav_Terms" xml:space="preserve">
+    <value>Terms</value>
+  </data>
+  <data name="Label_Soon" xml:space="preserve">
+    <value>Soon</value>
+  </data>
+  <data name="Footer_MadeWith" xml:space="preserve">
+    <value>Made with</value>
+  </data>
+  <data name="Footer_Rights" xml:space="preserve">
+    <value>All rights reserved.</value>
+  </data>
+  <data name="Footer_Privacy" xml:space="preserve">
+    <value>Privacy Policy</value>
+  </data>
+  <data name="Footer_Terms" xml:space="preserve">
+    <value>Terms and Conditions</value>
+  </data>
+  <data name="Footer_About" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="Footer_Contact" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="Footer_Sitemap" xml:space="preserve">
+    <value>Sitemap</value>
+  </data>
+  <data name="Footer_AdsTxt" xml:space="preserve">
+    <value>ads.txt</value>
+  </data>
+  <data name="Scroll_NavAria" xml:space="preserve">
+    <value>Page scroll shortcuts</value>
+  </data>
+  <data name="Scroll_Top" xml:space="preserve">
+    <value>Top</value>
+  </data>
+  <data name="Scroll_Bottom" xml:space="preserve">
+    <value>Bottom</value>
+  </data>
+  <data name="Scroll_TopAria" xml:space="preserve">
+    <value>Scroll to top</value>
+  </data>
+  <data name="Scroll_BottomAria" xml:space="preserve">
+    <value>Scroll to bottom</value>
+  </data>
+  <data name="Home_Badge" xml:space="preserve">
+    <value>Free finance tools · No login · India-first</value>
+  </data>
+  <data name="Home_H1_Before" xml:space="preserve">
+    <value>Plan your money with </value>
+  </data>
+  <data name="Home_H1_Highlight" xml:space="preserve">
+    <value>clarity</value>
+  </data>
+  <data name="Home_H1_After" xml:space="preserve">
+    <value>, not guesswork.</value>
+  </data>
+  <data name="Home_Sub" xml:space="preserve">
+    <value>Clean, mobile-first calculators and planners. Every tool shows the formula, a worked example, and secure vs volatile ways to reach the number — so you learn the “why”, not just the result.</value>
+  </data>
+  <data name="Home_CtaExplore" xml:space="preserve">
+    <value>Explore all tools</value>
+  </data>
+  <data name="Home_CtaGoal" xml:space="preserve">
+    <value>Start with Goal Planner</value>
+  </data>
+  <data name="Home_StatTools" xml:space="preserve">
+    <value>Finance tools</value>
+  </data>
+  <data name="Home_StatFree" xml:space="preserve">
+    <value>Free to use</value>
+  </data>
+  <data name="Home_StatSignup" xml:space="preserve">
+    <value>No sign-up</value>
+  </data>
+  <data name="Home_StatLearn" xml:space="preserve">
+    <value>Learn + calculate</value>
+  </data>
+  <data name="Home_KpiReachGoal" xml:space="preserve">
+    <value>Reach a goal</value>
+  </data>
+  <data name="Home_KpiStartInvest" xml:space="preserve">
+    <value>Start investing</value>
+  </data>
+  <data name="Home_KpiPlanLoan" xml:space="preserve">
+    <value>Plan a loan</value>
+  </data>
+  <data name="Home_KpiUnderstandInflation" xml:space="preserve">
+    <value>Understand inflation</value>
+  </data>
+  <data name="Home_KpiPlanLiquidity" xml:space="preserve">
+    <value>Plan liquidity</value>
+  </data>
+  <data name="Home_KpiGoalFoot" xml:space="preserve">
+    <value>Secure vs volatile saving</value>
+  </data>
+  <data name="Home_KpiSipFoot" xml:space="preserve">
+    <value>Monthly SIP → future value</value>
+  </data>
+  <data name="Home_KpiEmiFoot" xml:space="preserve">
+    <value>EMI, interest &amp; total</value>
+  </data>
+  <data name="Home_KpiInflationFoot" xml:space="preserve">
+    <value>Future cost of today’s ₹</value>
+  </data>
+  <data name="Home_KpiFdFoot" xml:space="preserve">
+    <value>Staggered fixed deposits</value>
+  </data>
+  <data name="Home_QuickToolsAria" xml:space="preserve">
+    <value>Quick tools</value>
+  </data>
+  <data name="Home_GainAria" xml:space="preserve">
+    <value>What you will gain</value>
+  </data>
+  <data name="Home_GainTitle" xml:space="preserve">
+    <value>What you’ll gain</value>
+  </data>
+  <data name="Home_GainWhyTitle" xml:space="preserve">
+    <value>Understand the “why”</value>
+  </data>
+  <data name="Home_GainWhyText" xml:space="preserve">
+    <value>Each tool starts with a short explanation so beginners can follow.</value>
+  </data>
+  <data name="Home_GainFormulaTitle" xml:space="preserve">
+    <value>Learn the formula</value>
+  </data>
+  <data name="Home_GainFormulaText" xml:space="preserve">
+    <value>We show the standard formula used in finance, in simple words.</value>
+  </data>
+  <data name="Home_GainExampleTitle" xml:space="preserve">
+    <value>See a worked example</value>
+  </data>
+  <data name="Home_GainExampleText" xml:space="preserve">
+    <value>Try the default numbers and understand how the result is formed.</value>
+  </data>
+  <data name="Home_AllToolsAria" xml:space="preserve">
+    <value>All tools</value>
+  </data>
+  <data name="Home_AllTools" xml:space="preserve">
+    <value>All tools</value>
+  </data>
+  <data name="Tools_PageTitle" xml:space="preserve">
+    <value>Tools — FinYatra</value>
+  </data>
+  <data name="Tools_Title" xml:space="preserve">
+    <value>Tools</value>
+  </data>
+  <data name="Tools_Subtitle" xml:space="preserve">
+    <value>Pick a tool by category</value>
+  </data>
+  <data name="Tools_Desc" xml:space="preserve">
+    <value>Clean, structured calculators and planners. Each tool includes examples, assumptions, and a clear “why”.</value>
+  </data>
+  <data name="Tools_TabAll" xml:space="preserve">
+    <value>All</value>
+  </data>
+  <data name="Tools_CategoriesAria" xml:space="preserve">
+    <value>Tool categories</value>
+  </data>
+  <data name="View_ChooseLayout" xml:space="preserve">
+    <value>Choose layout</value>
+  </data>
+  <data name="View_Tiles" xml:space="preserve">
+    <value>Tiles</value>
+  </data>
+  <data name="View_List" xml:space="preserve">
+    <value>List</value>
+  </data>
+  <data name="Tools_ComingSoon" xml:space="preserve">
+    <value>Coming soon</value>
+  </data>
+  <data name="Tools_NoTools" xml:space="preserve">
+    <value>No tools to show.</value>
+  </data>
+  <data name="NotFound_Message" xml:space="preserve">
+    <value>Sorry, there's nothing at this address.</value>
+  </data>
+  <data name="Tool_goal_Title" xml:space="preserve">
+    <value>Goal Planner</value>
+  </data>
+  <data name="Tool_goal_Description" xml:space="preserve">
+    <value>Secure vs volatile monthly saving to reach any target amount.</value>
+  </data>
+  <data name="Tool_fire_Title" xml:space="preserve">
+    <value>FIRE Calculator</value>
+  </data>
+  <data name="Tool_fire_Description" xml:space="preserve">
+    <value>Find your FIRE corpus and SIP needed (inflation-aware).</value>
+  </data>
+  <data name="Tool_fd_Title" xml:space="preserve">
+    <value>FD Laddering</value>
+  </data>
+  <data name="Tool_fd_Description" xml:space="preserve">
+    <value>Stagger deposits for yearly liquidity and re-investment flexibility.</value>
+  </data>
+  <data name="Tool_sip_Title" xml:space="preserve">
+    <value>SIP Calculator</value>
+  </data>
+  <data name="Tool_sip_Description" xml:space="preserve">
+    <value>Estimate long-term SIP growth with scenarios and projections.</value>
+  </data>
+  <data name="Tool_cagr_Title" xml:space="preserve">
+    <value>CAGR Calculator</value>
+  </data>
+  <data name="Tool_cagr_Description" xml:space="preserve">
+    <value>Understand annualized growth for any investment.</value>
+  </data>
+  <data name="Tool_lumpsum_Title" xml:space="preserve">
+    <value>Lumpsum Growth</value>
+  </data>
+  <data name="Tool_lumpsum_Description" xml:space="preserve">
+    <value>Project a one-time investment forward in time.</value>
+  </data>
+  <data name="Tool_emi_Title" xml:space="preserve">
+    <value>EMI Calculator</value>
+  </data>
+  <data name="Tool_emi_Description" xml:space="preserve">
+    <value>Monthly EMI, total interest, and yearly amortization.</value>
+  </data>
+  <data name="Tool_mortgage_Title" xml:space="preserve">
+    <value>Mortgage Calculator</value>
+  </data>
+  <data name="Tool_mortgage_Description" xml:space="preserve">
+    <value>Home loan estimate with EMI and affordability.</value>
+  </data>
+  <data name="Tool_inflation_Title" xml:space="preserve">
+    <value>Inflation Calculator</value>
+  </data>
+  <data name="Tool_inflation_Description" xml:space="preserve">
+    <value>Future cost of today’s money with year-by-year growth.</value>
+  </data>
+  <data name="Tool_interest_Title" xml:space="preserve">
+    <value>Compound Interest</value>
+  </data>
+  <data name="Tool_interest_Description" xml:space="preserve">
+    <value>Understand compounding on savings and loans.</value>
+  </data>
+  <data name="Page_About_DisclaimerBody" xml:space="preserve">
+    <value>FinYatra provides educational estimates only. We are not a SEBI-registered advisor, bank, or broker. Results depend on the assumptions you enter. Always verify important financial decisions with a qualified professional.</value>
+  </data>
+  <data name="Page_Search_Title" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="Page_ComingSoon_NextHeading" xml:space="preserve">
+    <value>What happens next</value>
+  </data>
+  <data name="Info_Example" xml:space="preserve">
+    <value>Example</value>
+  </data>
+  <data name="Page_Contact_LabelSecurityCheck" xml:space="preserve">
+    <value>Security check</value>
+  </data>
+  <data name="Page_About_Description" xml:space="preserve">
+    <value>FinYatra helps you plan money with clarity — calculators, formulas, and worked examples in plain language.</value>
+  </data>
+  <data name="Page_About_PageTitle" xml:space="preserve">
+    <value>About — FinYatra</value>
+  </data>
+  <data name="Page_Contact_PageTitle" xml:space="preserve">
+    <value>Contact — FinYatra</value>
+  </data>
+  <data name="Page_About_Offer4" xml:space="preserve">
+    <value>Educational content: formulas, assumptions, and step-by-step explanations</value>
+  </data>
+  <data name="Info_Purpose" xml:space="preserve">
+    <value>Purpose</value>
+  </data>
+  <data name="Page_Contact_Description" xml:space="preserve">
+    <value>Report a bug, request a feature, ask a question, or discuss a partnership.</value>
+  </data>
+  <data name="Page_Contact_BtnSending" xml:space="preserve">
+    <value>Sending…</value>
+  </data>
+  <data name="Page_ComingSoon_LayoutHint" xml:space="preserve">
+    <value>Use Tiles/List to switch the layout.</value>
+  </data>
+  <data name="Page_Terms_PageTitle" xml:space="preserve">
+    <value>Terms and Conditions — FinYatra</value>
+  </data>
+  <data name="Page_Privacy_Subtitle" xml:space="preserve">
+    <value>How we handle your data</value>
+  </data>
+  <data name="Page_Search_SubtitleResults" xml:space="preserve">
+    <value>{0} result(s) for "{1}".</value>
+  </data>
+  <data name="Common_Terms" xml:space="preserve">
+    <value>Terms</value>
+  </data>
+  <data name="Page_Search_ResultsHeading" xml:space="preserve">
+    <value>Results</value>
+  </data>
+  <data name="Page_About_ContactHeading" xml:space="preserve">
+    <value>Get in touch</value>
+  </data>
+  <data name="Page_Search_NoResultsBody" xml:space="preserve">
+    <value>We couldn't find a tool matching "{0}". Try a shorter keyword like goal, sip, emi, or inflation.</value>
+  </data>
+  <data name="Page_Privacy_Description" xml:space="preserve">
+    <value>FinYatra is a calculator-first, privacy-friendly app. This policy explains what we collect, what we do not, and the choices you have.</value>
+  </data>
+  <data name="Info_RealLife" xml:space="preserve">
+    <value>Real life use</value>
+  </data>
+  <data name="Page_Sitemap_Subtitle" xml:space="preserve">
+    <value>All pages on FinYatra</value>
+  </data>
+  <data name="Tool_inflation_Subtitle" xml:space="preserve">
+    <value>Understand future cost</value>
+  </data>
+  <data name="Page_About_MissionHeading" xml:space="preserve">
+    <value>Our mission</value>
+  </data>
+  <data name="Page_ComingSoon_Subtitle" xml:space="preserve">
+    <value>Coming soon</value>
+  </data>
+  <data name="Page_Contact_RequestType_Translation" xml:space="preserve">
+    <value>Translation improvement</value>
+  </data>
+  <data name="Info_WhenToUse" xml:space="preserve">
+    <value>When to use</value>
+  </data>
+  <data name="Info_FormulaHowTo" xml:space="preserve">
+    <value>Formula &amp; how to calculate</value>
+  </data>
+  <data name="Page_Privacy_Title" xml:space="preserve">
+    <value>Privacy Policy</value>
+  </data>
+  <data name="Common_Col_Emi" xml:space="preserve">
+    <value>EMI</value>
+  </data>
+  <data name="Common_YourInputs" xml:space="preserve">
+    <value>Your inputs</value>
+  </data>
+  <data name="Page_Contact_LabelMessage" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="Common_PrivacyPolicy" xml:space="preserve">
+    <value>Privacy Policy</value>
+  </data>
+  <data name="Common_Formula" xml:space="preserve">
+    <value>Formula</value>
+  </data>
+  <data name="Share_ToolGuide" xml:space="preserve">
+    <value>Tool guide</value>
+  </data>
+  <data name="Info_WhyKnow" xml:space="preserve">
+    <value>Why know this?</value>
+  </data>
+  <data name="Page_ComingSoon_RequestBody" xml:space="preserve">
+    <value>Email your request (and what you want this tool to answer) to inbox.nuthan@gmail.com.</value>
+  </data>
+  <data name="Page_Contact_LabelSubject" xml:space="preserve">
+    <value>Subject</value>
+  </data>
+  <data name="Page_Contact_ConsentText" xml:space="preserve">
+    <value>I agree to the Privacy Policy and Terms.</value>
+  </data>
+  <data name="Info_Differentiation" xml:space="preserve">
+    <value>How FinYatra is different</value>
+  </data>
+  <data name="Page_ComingSoon_PageTitle" xml:space="preserve">
+    <value>Coming soon — FinYatra</value>
+  </data>
+  <data name="Common_PageTitleSuffix" xml:space="preserve">
+    <value> — FinYatra</value>
+  </data>
+  <data name="Page_Sitemap_PageTitle" xml:space="preserve">
+    <value>Sitemap — FinYatra</value>
+  </data>
+  <data name="Page_Terms_Title" xml:space="preserve">
+    <value>Terms and Conditions</value>
+  </data>
+  <data name="Common_Col_Tenure" xml:space="preserve">
+    <value>Tenure</value>
+  </data>
+  <data name="Common_Col_EstValue" xml:space="preserve">
+    <value>Est. value</value>
+  </data>
+  <data name="Page_Contact_RequestType_Other" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="Info_Pros" xml:space="preserve">
+    <value>Pros</value>
+  </data>
+  <data name="Info_Cons" xml:space="preserve">
+    <value>Cons</value>
+  </data>
+  <data name="Page_Search_NoResultsTitle" xml:space="preserve">
+    <value>No results found</value>
+  </data>
+  <data name="Page_Contact_RequestType_Feedback" xml:space="preserve">
+    <value>Calculator feedback</value>
+  </data>
+  <data name="Common_WhatYouLearn" xml:space="preserve">
+    <value>What you'll learn</value>
+  </data>
+  <data name="Page_About_MaintainerHeading" xml:space="preserve">
+    <value>Who maintains FinYatra</value>
+  </data>
+  <data name="Page_Contact_PrivacyText" xml:space="preserve">
+    <value>We only use your message to respond. See our Privacy Policy.</value>
+  </data>
+  <data name="Common_Calculate" xml:space="preserve">
+    <value>Calculate</value>
+  </data>
+  <data name="Common_Col_Gain" xml:space="preserve">
+    <value>Gain</value>
+  </data>
+  <data name="Info_Abbreviation" xml:space="preserve">
+    <value>Abbreviation</value>
+  </data>
+  <data name="Page_About_Offer2" xml:space="preserve">
+    <value>No login, no sign-up, no paywall — use every tool for free</value>
+  </data>
+  <data name="Page_About_ContactBody" xml:space="preserve">
+    <value>Questions, feedback, or partnership enquiries? Visit our Contact page or email inbox.nuthan@gmail.com.</value>
+  </data>
+  <data name="Page_About_Offer1" xml:space="preserve">
+    <value>Goal planning, SIP, EMI, inflation, FIRE, and FD laddering calculators</value>
+  </data>
+  <data name="Common_Label_TenureYears" xml:space="preserve">
+    <value>Tenure (years)</value>
+  </data>
+  <data name="Info_GoalsForTool" xml:space="preserve">
+    <value>Goals for this tool</value>
+  </data>
+  <data name="Page_About_OfferHeading" xml:space="preserve">
+    <value>What we offer</value>
+  </data>
+  <data name="Info_Alternatives" xml:space="preserve">
+    <value>Alternatives &amp; comparison</value>
+  </data>
+  <data name="Page_Contact_LabelResponseTime" xml:space="preserve">
+    <value>Response time</value>
+  </data>
+  <data name="Info_FormulaIntro" xml:space="preserve">
+    <value>Read the formula first, then follow the steps below to see how the number is built.</value>
+  </data>
+  <data name="Page_ComingSoon_AvailableHeading" xml:space="preserve">
+    <value>Available now</value>
+  </data>
+  <data name="Page_Contact_Title" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="Page_Contact_InfoBody" xml:space="preserve">
+    <value>Have feedback on a calculator, spotted a bug, or want a new tool? Send a message using the secure form — we will email you back at the address you provide.</value>
+  </data>
+  <data name="Tool_fire_Subtitle" xml:space="preserve">
+    <value>Financial Independence, Retire Early</value>
+  </data>
+  <data name="Common_Year" xml:space="preserve">
+    <value>Year</value>
+  </data>
+  <data name="Page_Contact_Subtitle" xml:space="preserve">
+    <value>We'd love to hear from you</value>
+  </data>
+  <data name="Common_Label_Years" xml:space="preserve">
+    <value>Years</value>
+  </data>
+  <data name="Common_Email" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="Page_Sitemap_Description" xml:space="preserve">
+    <value>A complete list of public pages for visitors and search engines.</value>
+  </data>
+  <data name="Common_ContactPageLink" xml:space="preserve">
+    <value>Contact page</value>
+  </data>
+  <data name="Page_Contact_SecurityCheckPrompt" xml:space="preserve">
+    <value>— what is {0}?</value>
+  </data>
+  <data name="Page_About_MaintainerBody" xml:space="preserve">
+    <value>FinYatra is built and maintained by Nuthan Murarysetty — an independent developer passionate about clear, trustworthy finance tools for Indian users.</value>
+  </data>
+  <data name="Page_Search_PageTitle" xml:space="preserve">
+    <value>Search — FinYatra</value>
+  </data>
+  <data name="Info_Alternative" xml:space="preserve">
+    <value>Alternative</value>
+  </data>
+  <data name="Page_Contact_LabelRequestType" xml:space="preserve">
+    <value>Request type</value>
+  </data>
+  <data name="Page_Contact_InfoHeading" xml:space="preserve">
+    <value>Get in touch</value>
+  </data>
+  <data name="Tool_goal_Subtitle" xml:space="preserve">
+    <value>Save to reach your target</value>
+  </data>
+  <data name="Common_LastUpdated" xml:space="preserve">
+    <value>Last updated:</value>
+  </data>
+  <data name="Page_Sitemap_Title" xml:space="preserve">
+    <value>Sitemap</value>
+  </data>
+  <data name="Page_Search_Description" xml:space="preserve">
+    <value>Search tools by name or description.</value>
+  </data>
+  <data name="Common_YourGoal" xml:space="preserve">
+    <value>Your goal</value>
+  </data>
+  <data name="Tool_fd_Subtitle" xml:space="preserve">
+    <value>Smarter liquidity planning</value>
+  </data>
+  <data name="Common_Col_Invested" xml:space="preserve">
+    <value>Invested</value>
+  </data>
+  <data name="Page_Sitemap_Intro" xml:space="preserve">
+    <value>Machine-readable sitemap: sitemap.xml · Also useful for crawlers and AdSense review.</value>
+  </data>
+  <data name="Page_About_MissionBody" xml:space="preserve">
+    <value>FinYatra is a free collection of financial calculators and planners built for India. We believe everyone should understand the why behind the numbers — not just the result. Every tool shows the formula, a worked example, and practical context.</value>
+  </data>
+  <data name="Page_Contact_LabelPrivacy" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="Page_ComingSoon_Description" xml:space="preserve">
+    <value>This tool is planned next. Explore available calculators in the meantime.</value>
+  </data>
+  <data name="Page_Terms_Description" xml:space="preserve">
+    <value>Please read these terms before using FinYatra. By using the app you agree to them.</value>
+  </data>
+  <data name="Page_Contact_RequestType_Feature" xml:space="preserve">
+    <value>Feature request</value>
+  </data>
+  <data name="Info_Motto" xml:space="preserve">
+    <value>Motto</value>
+  </data>
+  <data name="Page_Contact_SuccessHeading" xml:space="preserve">
+    <value>Message sent</value>
+  </data>
+  <data name="Common_Col_Principal" xml:space="preserve">
+    <value>Principal</value>
+  </data>
+  <data name="Page_ComingSoon_NextBody" xml:space="preserve">
+    <value>We are building this calculator with the same formula-first, example-driven approach as the rest of FinYatra.</value>
+  </data>
+  <data name="Common_Col_Interest" xml:space="preserve">
+    <value>Interest</value>
+  </data>
+  <data name="Page_Terms_Subtitle" xml:space="preserve">
+    <value>Rules for using FinYatra</value>
+  </data>
+  <data name="Page_Privacy_PageTitle" xml:space="preserve">
+    <value>Privacy Policy — FinYatra</value>
+  </data>
+  <data name="Page_Contact_RequestType_Bug" xml:space="preserve">
+    <value>Bug report</value>
+  </data>
+  <data name="Page_ComingSoon_NewTool" xml:space="preserve">
+    <value>New tool</value>
+  </data>
+  <data name="Page_About_Title" xml:space="preserve">
+    <value>About FinYatra</value>
+  </data>
+  <data name="Common_Label_RatePa" xml:space="preserve">
+    <value>Interest rate (% p.a.)</value>
+  </data>
+  <data name="Page_Contact_ResponseTimeValue" xml:space="preserve">
+    <value>Usually within 2–3 business days</value>
+  </data>
+  <data name="Page_Contact_RequestType_Partnership" xml:space="preserve">
+    <value>Partnership / advertising</value>
+  </data>
+  <data name="Common_Col_Maturity" xml:space="preserve">
+    <value>Maturity</value>
+  </data>
+  <data name="Page_Contact_SuccessBody" xml:space="preserve">
+    <value>Thank you — your message was delivered securely. We will reply within a few business days.</value>
+  </data>
+  <data name="Page_About_Subtitle" xml:space="preserve">
+    <value>Free, India-first finance tools</value>
+  </data>
+  <data name="Common_Generate" xml:space="preserve">
+    <value>Generate ladder</value>
+  </data>
+  <data name="Page_Contact_LabelName" xml:space="preserve">
+    <value>Your name</value>
+  </data>
+  <data name="Page_About_DisclaimerHeading" xml:space="preserve">
+    <value>Important disclaimer</value>
+  </data>
+  <data name="Info_OfficialLinks" xml:space="preserve">
+    <value>Official / reliable links</value>
+  </data>
+  <data name="Page_ComingSoon_RequestHeading" xml:space="preserve">
+    <value>Want this sooner?</value>
+  </data>
+  <data name="Page_About_Offer3" xml:space="preserve">
+    <value>Mobile-first design with Hindi, Telugu, Tamil, Kannada, and Malayalam support</value>
+  </data>
+  <data name="Page_Contact_BtnSend" xml:space="preserve">
+    <value>Send message</value>
+  </data>
+  <data name="Page_Contact_BtnSendAnother" xml:space="preserve">
+    <value>Send another message</value>
+  </data>
+  <data name="Tool_emi_Subtitle" xml:space="preserve">
+    <value>Loan repayment made simple</value>
+  </data>
+  <data name="Tool_sip_Subtitle" xml:space="preserve">
+    <value>Plan monthly investing</value>
+  </data>
+  <data name="Page_Search_SubtitleEmpty" xml:space="preserve">
+    <value>Type in the top search box and press Enter.</value>
+  </data>
+  <data name="Page_Search_SuggestedHeading" xml:space="preserve">
+    <value>Suggested tools</value>
+  </data>
+  <data name="Tool_sip_LabelRate" xml:space="preserve">
+    <value>Expected return rate (% p.a.)</value>
+  </data>
+  <data name="Tool_goal_LabelTarget" xml:space="preserve">
+    <value>Target amount (₹)</value>
+  </data>
+  <data name="Tool_goal_LabelBest" xml:space="preserve">
+    <value>Best (% p.a.)</value>
+  </data>
+  <data name="Tool_fire_LabelRetirementAge" xml:space="preserve">
+    <value>Retirement age</value>
+  </data>
+  <data name="Tool_emi_LearnText" xml:space="preserve">
+    <value>How interest rate and tenure change EMI and total interest paid.</value>
+  </data>
+  <data name="Tool_goal_LabelWorst" xml:space="preserve">
+    <value>Worst (% p.a.)</value>
+  </data>
+  <data name="Tool_emi_LabelPrincipal" xml:space="preserve">
+    <value>Loan amount (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelReturn" xml:space="preserve">
+    <value>Expected return rate (%)</value>
+  </data>
+  <data name="Tool_inflation_LearnText" xml:space="preserve">
+    <value>How inflation erodes purchasing power and why planning must account for it.</value>
+  </data>
+  <data name="Tool_goal_VolatilePath" xml:space="preserve">
+    <value>Volatile path</value>
+  </data>
+  <data name="Tool_fd_LabelCount" xml:space="preserve">
+    <value>Number of FDs</value>
+  </data>
+  <data name="Tool_sip_LabelSip" xml:space="preserve">
+    <value>Monthly SIP (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelExpenses" xml:space="preserve">
+    <value>Monthly expenses (₹)</value>
+  </data>
+  <data name="Tool_sip_LearnText" xml:space="preserve">
+    <value>How time (tenure) and return rate have the biggest impact on long-term wealth.</value>
+  </data>
+  <data name="Tool_goal_SecurePath" xml:space="preserve">
+    <value>Secure path</value>
+  </data>
+  <data name="Tool_goal_LearnText" xml:space="preserve">
+    <value>How much to save monthly in a secure path (FD-like) vs a volatile path (equity-like), and how inflation changes the target.</value>
+  </data>
+  <data name="Tool_fd_LabelStartTenure" xml:space="preserve">
+    <value>Starting tenure</value>
+  </data>
+  <data name="Tool_fd_TenureYear" xml:space="preserve">
+    <value>{0} year</value>
+  </data>
+  <data name="Tool_fire_LearnTitle" xml:space="preserve">
+    <value>What is FIRE?</value>
+  </data>
+  <data name="Tool_fd_LearnText" xml:space="preserve">
+    <value>Split a lump sum into multiple fixed deposits maturing in different years for liquidity.</value>
+  </data>
+  <data name="Tool_inflation_LabelPresent" xml:space="preserve">
+    <value>Cost today (₹)</value>
+  </data>
+  <data name="Tool_goal_LabelBase" xml:space="preserve">
+    <value>Base (% p.a.)</value>
+  </data>
+  <data name="Tool_fd_LabelAmount" xml:space="preserve">
+    <value>Total amount (₹)</value>
+  </data>
+  <data name="Tool_fire_LabelCurrentAge" xml:space="preserve">
+    <value>Current age</value>
+  </data>
+  <data name="Tool_fire_LearnText" xml:space="preserve">
+    <value>FIRE helps you plan a corpus so that your investments can cover your yearly expenses.</value>
+  </data>
+  <data name="Tool_goal_AdjustInflation" xml:space="preserve">
+    <value>Adjust target for inflation</value>
+  </data>
+  <data name="Tool_goal_LabelHorizon" xml:space="preserve">
+    <value>Time horizon (years)</value>
+  </data>
+  <data name="Page_Contact_ConsentPrefix" xml:space="preserve">
+    <value>I agree to the</value>
+  </data>
+  <data name="Common_And" xml:space="preserve">
+    <value>and</value>
+  </data>
+  <data name="Tool_inflation_Result_FutureCost" xml:space="preserve">
+    <value>Future cost</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_2" xml:space="preserve">
+    <value>Monthly EMI comes to about ₹21,700.</value>
+  </data>
+  <data name="Tool_goal_StepInflation_5" xml:space="preserve">
+    <value>Multiply by targetToday to get the inflation-adjusted future target.</value>
+  </data>
+  <data name="Common_BreakdownAria" xml:space="preserve">
+    <value>Breakdown table</value>
+  </data>
+  <data name="Tool_goal_FormulaSipNote" xml:space="preserve">
+    <value>If return is 0%, sip = target / months.</value>
+  </data>
+  <data name="Common_FormulaLabel" xml:space="preserve">
+    <value>Formula</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_1" xml:space="preserve">
+    <value>Today's monthly household spend: ₹50,000.</value>
+  </data>
+  <data name="Tool_fire_RuleCorpus" xml:space="preserve">
+    <value>Target corpus ≈</value>
+  </data>
+  <data name="Tool_goal_Info_Link_Sebi" xml:space="preserve">
+    <value>SEBI — Investor education (mutual funds basics)</value>
+  </data>
+  <data name="Tool_fire_InflationIntro" xml:space="preserve">
+    <value>Inflation reduces purchasing power.</value>
+  </data>
+  <data name="Tool_inflation_BreakdownTitle" xml:space="preserve">
+    <value>Year-by-year cost growth</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedFootnoteInflation" xml:space="preserve">
+    <value>Includes {0}% inflation over {1} yrs</value>
+  </data>
+  <data name="Common_StepByStep" xml:space="preserve">
+    <value>Step-by-step explanation</value>
+  </data>
+  <data name="Tool_sip_Result_InvestedFootnote" xml:space="preserve">
+    <value>{0} years × {1}/mo</value>
+  </data>
+  <data name="Common_FinYatraGuide" xml:space="preserve">
+    <value>FinYatra guide</value>
+  </data>
+  <data name="Tool_sip_Result_EstimatedGains" xml:space="preserve">
+    <value>Estimated gains</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_3" xml:space="preserve">
+    <value>Secure path at 7% FD-like return needs roughly ₹18,500/month.</value>
+  </data>
+  <data name="Tool_goal_StepInflation_2" xml:space="preserve">
+    <value>Convert inflation % to a decimal rate (e.g. 6% → 0.06).</value>
+  </data>
+  <data name="Tool_emi_ExampleTitle" xml:space="preserve">
+    <value>Product example: ₹25L home loan at 8.5%</value>
+  </data>
+  <data name="Common_Scenario_Base" xml:space="preserve">
+    <value>Base</value>
+  </data>
+  <data name="Tool_goal_FormulaInflationNote" xml:space="preserve">
+    <value>If inflation is off, futureTarget = targetToday.</value>
+  </data>
+  <data name="Tool_sip_ExampleTitle" xml:space="preserve">
+    <value>Product example: ₹10,000/month SIP for 15 years</value>
+  </data>
+  <data name="Tool_sip_BreakdownSubtitle" xml:space="preserve">
+    <value>At {0}% p.a. return</value>
+  </data>
+  <data name="Tool_sip_Result_GainsFootnote" xml:space="preserve">
+    <value>Value minus invested</value>
+  </data>
+  <data name="Tool_goal_Source_BusinessToday" xml:space="preserve">
+    <value>BusinessToday — FD rates July 2026</value>
+  </data>
+  <data name="Tool_fire_Result_AgeRange" xml:space="preserve">
+    <value>Age {0} → {1}</value>
+  </data>
+  <data name="Common_Scenario_YourTenure" xml:space="preserve">
+    <value>Your tenure</value>
+  </data>
+  <data name="Common_Col_Increase" xml:space="preserve">
+    <value>Increase</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_2" xml:space="preserve">
+    <value>Create FDs at 1 year, 2 years, 3 years so one FD matures every year.</value>
+  </data>
+  <data name="Tool_sip_BreakdownTitle" xml:space="preserve">
+    <value>Year-by-year growth</value>
+  </data>
+  <data name="Tool_goal_StepSip_5" xml:space="preserve">
+    <value>This sip is the monthly amount that compounds to your target.</value>
+  </data>
+  <data name="Common_TenureYearsShort" xml:space="preserve">
+    <value>{0} yr</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_3" xml:space="preserve">
+    <value>Yearly expense at retirement: ~₹19.2 lakh → FIRE corpus target ≈ ₹4.8 crore (25× rule).</value>
+  </data>
+  <data name="Tool_fire_BreakdownTitle" xml:space="preserve">
+    <value>SIP growth projection</value>
+  </data>
+  <data name="Tool_emi_BreakdownTitle" xml:space="preserve">
+    <value>Yearly amortization</value>
+  </data>
+  <data name="Tool_inflation_ExampleSubtitle" xml:space="preserve">
+    <value>At 6% inflation over 20 years</value>
+  </data>
+  <data name="Common_WorkedExample" xml:space="preserve">
+    <value>Worked example</value>
+  </data>
+  <data name="Tool_fire_Scenario_Secure" xml:space="preserve">
+    <value>Secure (7%)</value>
+  </data>
+  <data name="Tool_fire_InflationYears" xml:space="preserve">
+    <value>in 5 years at {0}%.</value>
+  </data>
+  <data name="Tool_goal_ExampleTitle" xml:space="preserve">
+    <value>Product example: ₹10L car + emergency fund in 5 years</value>
+  </data>
+  <data name="Tool_goal_ScenarioSubtitle" xml:space="preserve">
+    <value>How much you need to invest each month to reach the target</value>
+  </data>
+  <data name="Tool_fire_Goal_Car" xml:space="preserve">
+    <value>Car</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Cons" xml:space="preserve">
+    <value>Returns vary; not guaranteed</value>
+  </data>
+  <data name="Tool_emi_Result_TotalPayment" xml:space="preserve">
+    <value>Total payment</value>
+  </data>
+  <data name="Tool_fire_ScenarioTitle" xml:space="preserve">
+    <value>Secure vs volatile saving path</value>
+  </data>
+  <data name="Tool_inflation_ExampleTitle" xml:space="preserve">
+    <value>Product example: ₹50,000 monthly expenses today</value>
+  </data>
+  <data name="Tool_fire_Result_MonthlySip" xml:space="preserve">
+    <value>Monthly SIP needed</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_5" xml:space="preserve">
+    <value>Key insight: starting early and staying consistent matters more than chasing the highest return.</value>
+  </data>
+  <data name="Tool_sip_Result_TotalInvested" xml:space="preserve">
+    <value>Total invested</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Pros" xml:space="preserve">
+    <value>Predictable</value>
+  </data>
+  <data name="Tool_goal_Source_BajajAmc" xml:space="preserve">
+    <value>Bajaj AMC — Nifty 50 historical returns</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Example" xml:space="preserve">
+    <value>Save 20% of income monthly</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_3" xml:space="preserve">
+    <value>Understand the impact of inflation on future required money</value>
+  </data>
+  <data name="Tool_goal_FormulaInflationTitle" xml:space="preserve">
+    <value>Inflation-adjusted target</value>
+  </data>
+  <data name="Tool_goal_Info_Link_Rbi" xml:space="preserve">
+    <value>RBI — Financial education / money basics</value>
+  </data>
+  <data name="Tool_sip_ScenarioSubtitle" xml:space="preserve">
+    <value>Same SIP, different return assumptions</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_3" xml:space="preserve">
+    <value>At 12% (base), corpus reaches about ₹50 lakh.</value>
+  </data>
+  <data name="Common_Scenario_YourRate" xml:space="preserve">
+    <value>Your rate</value>
+  </data>
+  <data name="Tool_inflation_ScenarioSubtitle" xml:space="preserve">
+    <value>Same amount, different inflation assumptions</value>
+  </data>
+  <data name="Common_RateAssumptions" xml:space="preserve">
+    <value>Rate assumptions (editable above)</value>
+  </data>
+  <data name="Tool_fire_ScenarioSubtitle" xml:space="preserve">
+    <value>Monthly SIP needed to reach FIRE corpus</value>
+  </data>
+  <data name="Tool_goal_Info_RealLife" xml:space="preserve">
+    <value>Buying a car, building an emergency fund, down payment planning, education fund — anything with a target amount and deadline.</value>
+  </data>
+  <data name="Common_CopyFormulaAria" xml:space="preserve">
+    <value>Copy formula</value>
+  </data>
+  <data name="Tool_emi_Scenario_Shorter" xml:space="preserve">
+    <value>Shorter tenure</value>
+  </data>
+  <data name="Common_ScenarioComparisonAria" xml:space="preserve">
+    <value>Scenario comparison</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_2" xml:space="preserve">
+    <value>Compare predictable (secure) vs uncertain (volatile) paths</value>
+  </data>
+  <data name="Tool_fire_BreakdownSubtitle" xml:space="preserve">
+    <value>Saving {0}/month at {1}%</value>
+  </data>
+  <data name="Common_Footnote_RatePa" xml:space="preserve">
+    <value>{0} p.a. rate</value>
+  </data>
+  <data name="Tool_goal_Source_PolicyBazaar" xml:space="preserve">
+    <value>PolicyBazaar — FD interest rates</value>
+  </data>
+  <data name="Tool_emi_Scenario_Longer" xml:space="preserve">
+    <value>Longer tenure</value>
+  </data>
+  <data name="Common_Label_FutureValue" xml:space="preserve">
+    <value>Future value</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Name" xml:space="preserve">
+    <value>Simple budgeting rule</value>
+  </data>
+  <data name="Tool_goal_StepSip_4" xml:space="preserve">
+    <value>Apply SIP formula: sip = target × r / ((1 + r) ^ months − 1).</value>
+  </data>
+  <data name="Common_Label_Corpus" xml:space="preserve">
+    <value>Corpus</value>
+  </data>
+  <data name="Common_Label_MonthlySip" xml:space="preserve">
+    <value>Monthly SIP</value>
+  </data>
+  <data name="Common_Footnote_InflationRate" xml:space="preserve">
+    <value>{0} inflation</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_5" xml:space="preserve">
+    <value>At 7% secure return, you'd need about ₹92,000/month — volatile path needs less saving but carries risk.</value>
+  </data>
+  <data name="Tool_fire_Scenario_Volatile" xml:space="preserve">
+    <value>Volatile (15%)</value>
+  </data>
+  <data name="Tool_emi_ScenarioSubtitle" xml:space="preserve">
+    <value>Same loan, different tenures</value>
+  </data>
+  <data name="Tool_fire_Goal_Interior" xml:space="preserve">
+    <value>Interior</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Cons" xml:space="preserve">
+    <value>Not goal-specific; no deadline clarity</value>
+  </data>
+  <data name="Common_Col_PrincipalPaid" xml:space="preserve">
+    <value>Principal paid</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_3" xml:space="preserve">
+    <value>In 20 years, that rises to roughly ₹1.6 lakh/month.</value>
+  </data>
+  <data name="Tool_goal_Source_SumMoney" xml:space="preserve">
+    <value>sum.money — Nifty returns calculator</value>
+  </data>
+  <data name="Tool_fire_Goal_Travel" xml:space="preserve">
+    <value>Travel</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Name" xml:space="preserve">
+    <value>SIP calculator</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_3" xml:space="preserve">
+    <value>Total payment over 20 years: roughly ₹52 lakh — of which ~₹27 lakh is interest.</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Example" xml:space="preserve">
+    <value>₹10,000/month SIP at 12% for 5 years</value>
+  </data>
+  <data name="Common_Summary" xml:space="preserve">
+    <value>Summary</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_4" xml:space="preserve">
+    <value>At 10% return, you need roughly ₹66,000/month SIP to reach this.</value>
+  </data>
+  <data name="Tool_goal_StepSip_2" xml:space="preserve">
+    <value>Count total months: months = years × 12.</value>
+  </data>
+  <data name="Common_EmptyCell" xml:space="preserve">
+    <value>—</value>
+  </data>
+  <data name="Tool_fd_ExampleTitle" xml:space="preserve">
+    <value>Product example: ₹3,00,000 split into 3 FDs</value>
+  </data>
+  <data name="Common_Col_FutureCost" xml:space="preserve">
+    <value>Future cost</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Cons" xml:space="preserve">
+    <value>May not beat inflation after tax</value>
+  </data>
+  <data name="Tool_sip_Scenario_Conservative" xml:space="preserve">
+    <value>Conservative</value>
+  </data>
+  <data name="Tool_fire_RuleNote" xml:space="preserve">
+    <value>(based on a 4% withdrawal rate).</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_1" xml:space="preserve">
+    <value>Loan: ₹25,00,000 at 8.5% for 20 years.</value>
+  </data>
+  <data name="Tool_goal_Result_VolatileRange" xml:space="preserve">
+    <value>{0} – {1} range</value>
+  </data>
+  <data name="Tool_fire_InflationBecomes" xml:space="preserve">
+    <value>becomes roughly</value>
+  </data>
+  <data name="Tool_goal_Info_WhyKnow" xml:space="preserve">
+    <value>Most people save without a clear target. This makes your goal measurable and shows how returns and inflation change the required monthly saving.</value>
+  </data>
+  <data name="Tool_fire_Result_YearsToFire" xml:space="preserve">
+    <value>Years to FIRE</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_4" xml:space="preserve">
+    <value>If your income or investments don't grow at least at inflation rate, you're effectively falling behind.</value>
+  </data>
+  <data name="Tool_goal_FormulaSipTitle" xml:space="preserve">
+    <value>Monthly SIP required</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_4" xml:space="preserve">
+    <value>At 15% (aggressive), corpus can reach about ₹67 lakh.</value>
+  </data>
+  <data name="Tool_goal_Info_Purpose" xml:space="preserve">
+    <value>Convert a goal amount and time horizon into a simple monthly saving plan.</value>
+  </data>
+  <data name="Tool_emi_Result_MonthlyEmi" xml:space="preserve">
+    <value>Monthly EMI</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_4" xml:space="preserve">
+    <value>Volatile base at 12% equity-like return needs roughly ₹16,400/month — but outcomes can range from ~₹19,800 (8%) to ~₹14,600 (15%).</value>
+  </data>
+  <data name="Tool_emi_ScenarioTitle" xml:space="preserve">
+    <value>Tenure impact</value>
+  </data>
+  <data name="Common_Label_Increase" xml:space="preserve">
+    <value>Increase</value>
+  </data>
+  <data name="Tool_sip_FormulaNote" xml:space="preserve">
+    <value>FV is the future value of your investment. ^ means 'to the power of'.</value>
+  </data>
+  <data name="Tool_fire_Goal_Marriage" xml:space="preserve">
+    <value>Marriage</value>
+  </data>
+  <data name="Tool_goal_StepSip_3" xml:space="preserve">
+    <value>Compute compounding factor: (1 + r) ^ months.</value>
+  </data>
+  <data name="Common_Breakdown" xml:space="preserve">
+    <value>Breakdown</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_2" xml:space="preserve">
+    <value>At 10% (conservative), corpus grows to about ₹41 lakh.</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileWorst" xml:space="preserve">
+    <value>Volatile — worst</value>
+  </data>
+  <data name="Tool_sip_ScenarioTitle" xml:space="preserve">
+    <value>Return scenarios</value>
+  </data>
+  <data name="Common_Label_EndValue" xml:space="preserve">
+    <value>End value</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_2" xml:space="preserve">
+    <value>At 6% inflation, in 10 years you need about ₹89,500/month for the same lifestyle.</value>
+  </data>
+  <data name="Common_Footnote_AtReturn" xml:space="preserve">
+    <value>At {0} return</value>
+  </data>
+  <data name="Common_Footnote_AfterYears" xml:space="preserve">
+    <value>After {0} years</value>
+  </data>
+  <data name="Tool_inflation_Result_PresentFootnote" xml:space="preserve">
+    <value>Present value</value>
+  </data>
+  <data name="Tool_goal_BreakdownTitle" xml:space="preserve">
+    <value>Year-by-year projection (volatile base)</value>
+  </data>
+  <data name="Tool_goal_StepInflation_1" xml:space="preserve">
+    <value>Start with today's goal amount (targetToday).</value>
+  </data>
+  <data name="Common_Label_MonthlySaving" xml:space="preserve">
+    <value>Monthly saving</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_When" xml:space="preserve">
+    <value>When you only need a rough plan</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_When" xml:space="preserve">
+    <value>When you want a fixed monthly deposit at fixed rate</value>
+  </data>
+  <data name="Tool_goal_Info_Goal_1" xml:space="preserve">
+    <value>Make your goal time-bound and number-driven</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_4" xml:space="preserve">
+    <value>This gives predictable liquidity without breaking a long-term deposit early.</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Example" xml:space="preserve">
+    <value>₹10,000/month RD at 7% for 5 years</value>
+  </data>
+  <data name="Tool_fd_FormulaNote" xml:space="preserve">
+    <value>P is the deposit, r the annual rate (decimal), t the years. Simplified annual compounding; ^ means 'to the power of'.</value>
+  </data>
+  <data name="Tool_goal_Scenario_Secure" xml:space="preserve">
+    <value>Secure</value>
+  </data>
+  <data name="Tool_fire_ExampleTitle" xml:space="preserve">
+    <value>Product example: retire at 50 with ₹50,000/month expenses</value>
+  </data>
+  <data name="Tool_inflation_Scenario_Low" xml:space="preserve">
+    <value>Low (4%)</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedTarget" xml:space="preserve">
+    <value>Adjusted target</value>
+  </data>
+  <data name="Tool_fire_ExampleSubtitle" xml:space="preserve">
+    <value>Age 30 today, 6% inflation, 10% return</value>
+  </data>
+  <data name="Common_YearN" xml:space="preserve">
+    <value>Year {0}</value>
+  </data>
+  <data name="Tool_sip_Result_EstimatedValue" xml:space="preserve">
+    <value>Estimated value</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Budget_Pros" xml:space="preserve">
+    <value>Fast and easy</value>
+  </data>
+  <data name="Tool_goal_Result_SecureMonthly" xml:space="preserve">
+    <value>Secure monthly</value>
+  </data>
+  <data name="Tool_fire_RuleFormula" xml:space="preserve">
+    <value>Yearly expense × 25</value>
+  </data>
+  <data name="Tool_sip_ExampleSubtitle" xml:space="preserve">
+    <value>Conservative 10%, base 12%, aggressive 15%</value>
+  </data>
+  <data name="Tool_goal_Info_Motto" xml:space="preserve">
+    <value>Small steps, steady journey — save with clarity, not anxiety.</value>
+  </data>
+  <data name="Tool_goal_Result_VolatileMonthly" xml:space="preserve">
+    <value>Volatile monthly (base)</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_1" xml:space="preserve">
+    <value>Split ₹3,00,000 into 3 equal parts → ₹1,00,000 each.</value>
+  </data>
+  <data name="Tool_goal_ScenarioTitle" xml:space="preserve">
+    <value>Secure vs volatile monthly saving</value>
+  </data>
+  <data name="Tool_fire_Quote" xml:space="preserve">
+    <value>Save money, and money will save you.</value>
+  </data>
+  <data name="Tool_emi_BreakdownSubtitle" xml:space="preserve">
+    <value>Principal vs interest paid each year</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileBest" xml:space="preserve">
+    <value>Volatile — best</value>
+  </data>
+  <data name="Tool_goal_Result_SecureFootnote" xml:space="preserve">
+    <value>{0}% p.a. fixed return</value>
+  </data>
+  <data name="Common_Label_Return" xml:space="preserve">
+    <value>Return</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_5" xml:space="preserve">
+    <value>Always compare EMI affordability vs total interest cost before choosing tenure.</value>
+  </data>
+  <data name="Tool_goal_Result_AdjustedFootnoteToday" xml:space="preserve">
+    <value>Today's rupees</value>
+  </data>
+  <data name="Tool_inflation_FormulaNote" xml:space="preserve">
+    <value>i is the inflation rate per year (as a decimal, e.g. 6% = 0.06). ^ means 'to the power of'.</value>
+  </data>
+  <data name="Tool_goal_StepInflation_4" xml:space="preserve">
+    <value>Raise it to the number of years: (1 + inflationRate) ^ years.</value>
+  </data>
+  <data name="Common_WorkedExampleAria" xml:space="preserve">
+    <value>Worked example</value>
+  </data>
+  <data name="Common_Label_Months" xml:space="preserve">
+    <value>Months</value>
+  </data>
+  <data name="Common_ResultSummaryAria" xml:space="preserve">
+    <value>Result summary</value>
+  </data>
+  <data name="Tool_goal_BreakdownSubtitle" xml:space="preserve">
+    <value>If you save the base volatile monthly amount</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_Pros" xml:space="preserve">
+    <value>Potentially higher growth</value>
+  </data>
+  <data name="Tool_goal_StepSip_1" xml:space="preserve">
+    <value>Convert annual return to monthly: r = annualReturn / 12.</value>
+  </data>
+  <data name="Tool_inflation_Scenario_High" xml:space="preserve">
+    <value>High (8%)</value>
+  </data>
+  <data name="Tool_emi_ExampleStep_4" xml:space="preserve">
+    <value>If you reduce tenure to 15 years, EMI rises but total interest drops significantly.</value>
+  </data>
+  <data name="Common_Col_TodaysValue" xml:space="preserve">
+    <value>Today's value</value>
+  </data>
+  <data name="Tool_goal_Scenario_VolatileBase" xml:space="preserve">
+    <value>Volatile — base</value>
+  </data>
+  <data name="Tool_inflation_ExampleStep_5" xml:space="preserve">
+    <value>This is why FIRE and goal planning must account for inflation, not just today's numbers.</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_Sip_When" xml:space="preserve">
+    <value>When you are investing in market-linked funds</value>
+  </data>
+  <data name="Tool_fire_Result_TargetCorpus" xml:space="preserve">
+    <value>Target corpus</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_5" xml:space="preserve">
+    <value>Trade-off: secure gives predictable outcome; volatile may need less monthly saving but with uncertainty.</value>
+  </data>
+  <data name="Tool_fd_BreakdownSubtitle" xml:space="preserve">
+    <value>Each FD: {0}</value>
+  </data>
+  <data name="Tool_goal_Info_Abbreviation" xml:space="preserve">
+    <value>Goal-based saving planner (no standard abbreviation)</value>
+  </data>
+  <data name="Tool_sip_ExampleStep_1" xml:space="preserve">
+    <value>You invest ₹10,000 every month for 15 years — total ₹18 lakh invested.</value>
+  </data>
+  <data name="Tool_fire_RuleTitle" xml:space="preserve">
+    <value>Rule of thumb (simple)</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_2" xml:space="preserve">
+    <value>With 6% inflation, the future target becomes about ₹13.4 lakh.</value>
+  </data>
+  <data name="Tool_inflation_ScenarioTitle" xml:space="preserve">
+    <value>Inflation scenarios</value>
+  </data>
+  <data name="Tool_goal_StepInflation_3" xml:space="preserve">
+    <value>Compute growth factor: (1 + inflationRate).</value>
+  </data>
+  <data name="Tool_inflation_Result_IncreaseNeeded" xml:space="preserve">
+    <value>Increase needed</value>
+  </data>
+  <data name="Tool_inflation_Result_CostToday" xml:space="preserve">
+    <value>Cost today</value>
+  </data>
+  <data name="Common_ScenarioComparison" xml:space="preserve">
+    <value>Scenario comparison</value>
+  </data>
+  <data name="Tool_emi_FormulaNote" xml:space="preserve">
+    <value>P is the loan principal. ^ means 'to the power of'.</value>
+  </data>
+  <data name="Common_NoDataYet" xml:space="preserve">
+    <value>No data yet.</value>
+  </data>
+  <data name="Tool_fire_Goal_House" xml:space="preserve">
+    <value>House</value>
+  </data>
+  <data name="Tool_sip_Scenario_Aggressive" xml:space="preserve">
+    <value>Aggressive</value>
+  </data>
+  <data name="Tool_goal_ExampleStep_1" xml:space="preserve">
+    <value>Goal: ₹10,00,000 in today's money for a used car + emergency buffer in 5 years.</value>
+  </data>
+  <data name="Tool_fire_InflationToday" xml:space="preserve">
+    <value>₹100 today</value>
+  </data>
+  <data name="Tool_fd_ExampleStep_3" xml:space="preserve">
+    <value>When the 1-year FD matures, you can use it or roll it into a new long FD.</value>
+  </data>
+  <data name="Tool_goal_SummaryAria" xml:space="preserve">
+    <value>Goal planner summary</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_2" xml:space="preserve">
+    <value>Monthly expenses ₹50,000 today inflate to about ₹1.6 lakh/month by retirement (6% inflation).</value>
+  </data>
+  <data name="Tool_emi_Result_TotalInterest" xml:space="preserve">
+    <value>Total interest</value>
+  </data>
+  <data name="Tool_fire_Goal_Other" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="Common_Col_Balance" xml:space="preserve">
+    <value>Balance</value>
+  </data>
+  <data name="Tool_fd_ExampleSubtitle" xml:space="preserve">
+    <value>Tenures 1y, 2y, 3y for yearly liquidity</value>
+  </data>
+  <data name="Tool_fire_Result_CorpusFootnote" xml:space="preserve">
+    <value>Future monthly expense: {0}</value>
+  </data>
+  <data name="Common_Copy" xml:space="preserve">
+    <value>Copy</value>
+  </data>
+  <data name="Tool_sip_Result_ValueFootnote" xml:space="preserve">
+    <value>At {0} return</value>
+  </data>
+  <data name="Tool_goal_Info_Alt_RdFd_Name" xml:space="preserve">
+    <value>RD/FD calculator</value>
+  </data>
+  <data name="Tool_fd_BreakdownTitle" xml:space="preserve">
+    <value>FD ladder</value>
+  </data>
+  <data name="Tool_emi_Result_PaymentFootnote" xml:space="preserve">
+    <value>Principal + interest</value>
+  </data>
+  <data name="Tool_emi_Result_TenureFootnote" xml:space="preserve">
+    <value>{0} year tenure</value>
+  </data>
+  <data name="Tool_fire_ExampleStep_1" xml:space="preserve">
+    <value>Current age 30, target retirement at 50 — 20 years to build corpus.</value>
+  </data>
+  <data name="Tool_goal_ExampleSubtitle" xml:space="preserve">
+    <value>Using mid-2026 rate assumptions (editable above)</value>
+  </data>
+  <data name="Common_Copied" xml:space="preserve">
+    <value>Copied</value>
+  </data>
+  <data name="Tool_goal_Info_Differentiation" xml:space="preserve">
+    <value>Instead of just giving one number, FinYatra shows secure vs volatile scenarios side-by-side, and a year-by-year breakdown so users understand uncertainty and progress.</value>
+  </data>
+  <data name="Common_Col_InterestPaid" xml:space="preserve">
+    <value>Interest paid</value>
+  </data>
+  <data name="Tool_fire_GoalsTitle" xml:space="preserve">
+    <value>Goals (optional)</value>
+  </data>
+<data name="Tool_fire_Info_Abbreviation" xml:space="preserve"><value>FIRE = Financial Independence, Retire Early</value></data><data name="Tool_fire_Info_Purpose" xml:space="preserve"><value>Estimate the retirement corpus needed and the monthly investing required to reach it.</value></data><data name="Tool_fire_Info_WhyKnow" xml:space="preserve"><value>Retirement planning is mostly math + discipline. FIRE makes the goal concrete and shows the role of inflation, withdrawal rate assumptions, and return expectations.</value></data><data name="Tool_fire_Info_RealLife" xml:space="preserve"><value>Choosing when you can stop full-time work, planning a career break, or ensuring investments can cover living expenses without salary.</value></data><data name="Tool_fire_Info_Goal_1" xml:space="preserve"><value>Estimate future (inflation-adjusted) expenses at retirement</value></data><data name="Tool_fire_Info_Goal_2" xml:space="preserve"><value>Translate expenses into a corpus target (rule of thumb)</value></data><data name="Tool_fire_Info_Goal_3" xml:space="preserve"><value>Compute monthly SIP needed for the time horizon</value></data><data name="Tool_fire_Info_Alt_Retirement_Name" xml:space="preserve"><value>Retirement calculator</value></data><data name="Tool_fire_Info_Alt_Retirement_When" xml:space="preserve"><value>When you want a more detailed model</value></data><data name="Tool_fire_Info_Alt_Retirement_Example" xml:space="preserve"><value>Income/expenses + inflation + pension</value></data><data name="Tool_fire_Info_Alt_Retirement_Pros" xml:space="preserve"><value>More comprehensive</value></data><data name="Tool_fire_Info_Alt_Retirement_Cons" xml:space="preserve"><value>More inputs; harder for beginners</value></data><data name="Tool_fire_Info_Alt_Rule_Name" xml:space="preserve"><value>4% rule-only estimate</value></data><data name="Tool_fire_Info_Alt_Rule_When" xml:space="preserve"><value>When you want quick corpus thumb rule</value></data><data name="Tool_fire_Info_Alt_Rule_Example" xml:space="preserve"><value>Annual expense × 25</value></data><data name="Tool_fire_Info_Alt_Rule_Pros" xml:space="preserve"><value>Very simple</value></data><data name="Tool_fire_Info_Alt_Rule_Cons" xml:space="preserve"><value>Still a simplification</value></data><data name="Tool_fire_Info_Alt_Goal_Name" xml:space="preserve"><value>Goal planner</value></data><data name="Tool_fire_Info_Alt_Goal_When" xml:space="preserve"><value>When you want to plan any goal, not only retirement</value></data><data name="Tool_fire_Info_Alt_Goal_Example" xml:space="preserve"><value>₹5Cr in 20 yrs</value></data><data name="Tool_fire_Info_Alt_Goal_Pros" xml:space="preserve"><value>Flexible</value></data><data name="Tool_fire_Info_Alt_Goal_Cons" xml:space="preserve"><value>Not retirement-specific</value></data><data name="Tool_fire_Info_Link_Rbi" xml:space="preserve"><value>RBI — Reserve Bank of India</value></data><data name="Tool_fire_Info_Link_Sebi" xml:space="preserve"><value>SEBI — Investor education</value></data><data name="Tool_fire_Info_Differentiation" xml:space="preserve"><value>FinYatra focuses on clarity: fewer inputs, inflation-aware numbers, and a projection table so users understand what the corpus means and how SIP builds it.</value></data><data name="Tool_fire_Info_Motto" xml:space="preserve"><value>Freedom is built, not wished — plan it and invest steadily.</value></data><data name="Tool_fire_FormulaInflateTitle" xml:space="preserve"><value>Inflate expenses to retirement year</value></data><data name="Tool_fire_StepInflate_1" xml:space="preserve"><value>Take current monthly expense.</value></data><data name="Tool_fire_StepInflate_2" xml:space="preserve"><value>Inflate it by assumed inflation for the years until retirement.</value></data><data name="Tool_fire_StepInflate_3" xml:space="preserve"><value>This approximates what the same lifestyle costs at retirement.</value></data><data name="Tool_fire_FormulaCorpusTitle" xml:space="preserve"><value>Corpus target (simple rule)</value></data><data name="Tool_fire_StepCorpus_1" xml:space="preserve"><value>Convert future monthly expense to yearly expense.</value></data><data name="Tool_fire_StepCorpus_2" xml:space="preserve"><value>Multiply by 25 (equivalent to 4% withdrawal assumption).</value></data><data name="Tool_fire_FormulaSipTitle" xml:space="preserve"><value>Monthly SIP needed to reach corpus</value></data><data name="Tool_fire_StepSipCalc_1" xml:space="preserve"><value>Convert annual return to monthly return r.</value></data><data name="Tool_fire_StepSipCalc_2" xml:space="preserve"><value>Compute total months until retirement.</value></data><data name="Tool_fire_StepSipCalc_3" xml:space="preserve"><value>Solve SIP such that contributions compound to the corpus target.</value></data><data name="Tool_sip_Info_Abbreviation" xml:space="preserve"><value>SIP = Systematic Investment Plan</value></data><data name="Tool_sip_Info_Purpose" xml:space="preserve"><value>Estimate how a fixed monthly investment can grow over time with compounding.</value></data><data name="Tool_sip_Info_WhyKnow" xml:space="preserve"><value>SIP planning helps you avoid guesswork. It connects your monthly saving habit with a future goal, and shows how time and return assumptions change the outcome.</value></data><data name="Tool_sip_Info_RealLife" xml:space="preserve"><value>Building wealth for a house down payment, child education, retirement, or any long-term goal where you invest monthly.</value></data><data name="Tool_sip_Info_Goal_1" xml:space="preserve"><value>Estimate future value for a monthly SIP</value></data><data name="Tool_sip_Info_Goal_2" xml:space="preserve"><value>Compare conservative/base/aggressive return scenarios</value></data><data name="Tool_sip_Info_Goal_3" xml:space="preserve"><value>See year-by-year growth to build confidence and consistency</value></data><data name="Tool_sip_Info_Alt_Rd_Name" xml:space="preserve"><value>RD calculator (bank)</value></data><data name="Tool_sip_Info_Alt_Rd_When" xml:space="preserve"><value>When you want guaranteed return</value></data><data name="Tool_sip_Info_Alt_Rd_Example" xml:space="preserve"><value>₹10,000/mo RD @ 7% for 10 yrs</value></data><data name="Tool_sip_Info_Alt_Rd_Pros" xml:space="preserve"><value>Predictable</value></data><data name="Tool_sip_Info_Alt_Rd_Cons" xml:space="preserve"><value>Usually lower long-term growth</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Name" xml:space="preserve"><value>Lumpsum calculator</value></data><data name="Tool_sip_Info_Alt_Lumpsum_When" xml:space="preserve"><value>When you invest once, not monthly</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Example" xml:space="preserve"><value>₹5,00,000 @ 12% for 10 yrs</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Pros" xml:space="preserve"><value>Simple if you have a lump sum</value></data><data name="Tool_sip_Info_Alt_Lumpsum_Cons" xml:space="preserve"><value>No monthly discipline model</value></data><data name="Tool_sip_Info_Alt_Goal_Name" xml:space="preserve"><value>Goal planner</value></data><data name="Tool_sip_Info_Alt_Goal_When" xml:space="preserve"><value>When you start from a target amount</value></data><data name="Tool_sip_Info_Alt_Goal_Example" xml:space="preserve"><value>Need ₹15L in 7 yrs</value></data><data name="Tool_sip_Info_Alt_Goal_Pros" xml:space="preserve"><value>Goal-first planning</value></data><data name="Tool_sip_Info_Alt_Goal_Cons" xml:space="preserve"><value>Needs assumptions about return</value></data><data name="Tool_sip_Info_Link_Sebi" xml:space="preserve"><value>SEBI — Investor education</value></data><data name="Tool_sip_Info_Link_Amfi" xml:space="preserve"><value>AMFI — Mutual fund basics</value></data><data name="Tool_sip_Info_Differentiation" xml:space="preserve"><value>FinYatra adds structured scenarios and a readable projection table so users understand both the estimate and the uncertainty behind it.</value></data><data name="Tool_sip_Info_Motto" xml:space="preserve"><value>Consistency builds wealth — one SIP at a time.</value></data><data name="Tool_sip_FormulaFvTitle" xml:space="preserve"><value>SIP future value</value></data><data name="Tool_sip_StepFv_1" xml:space="preserve"><value>Convert annual return to monthly return r = annualReturn/12.</value></data><data name="Tool_sip_StepFv_2" xml:space="preserve"><value>Compute total months n = years×12.</value></data><data name="Tool_sip_StepFv_3" xml:space="preserve"><value>((1+r)^n - 1)/r is the compounding multiplier for repeated monthly contributions.</value></data><data name="Tool_sip_StepFv_4" xml:space="preserve"><value>Multiply by SIP amount to get estimated future value.</value></data><data name="Tool_sip_StepFv_5" xml:space="preserve"><value>If r is 0%, FV = SIP × n.</value></data><data name="Tool_emi_Info_Abbreviation" xml:space="preserve"><value>EMI = Equated Monthly Instalment</value></data><data name="Tool_emi_Info_Purpose" xml:space="preserve"><value>Find the fixed monthly payment for a loan, and understand how much goes to interest vs principal over time.</value></data><data name="Tool_emi_Info_WhyKnow" xml:space="preserve"><value>EMI affects monthly cashflow. Small changes in rate or tenure can change total interest by lakhs — knowing EMI helps you choose smarter tenures and prepayment strategy.</value></data><data name="Tool_emi_Info_RealLife" xml:space="preserve"><value>Home loans, car loans, education loans, personal loans — anywhere you repay principal + interest monthly.</value></data><data name="Tool_emi_Info_Goal_1" xml:space="preserve"><value>Know the monthly EMI before taking a loan</value></data><data name="Tool_emi_Info_Goal_2" xml:space="preserve"><value>See total interest cost (hidden cost of long tenure)</value></data><data name="Tool_emi_Info_Goal_3" xml:space="preserve"><value>Understand amortization (early EMIs pay more interest)</value></data><data name="Tool_emi_Info_Alt_Bank_Name" xml:space="preserve"><value>Bank EMI calculator</value></data><data name="Tool_emi_Info_Alt_Bank_When" xml:space="preserve"><value>When you want a bank-specific offer</value></data><data name="Tool_emi_Info_Alt_Bank_Example" xml:space="preserve"><value>₹10L @ 9% for 5 yrs</value></data><data name="Tool_emi_Info_Alt_Bank_Pros" xml:space="preserve"><value>May include bank product details</value></data><data name="Tool_emi_Info_Alt_Bank_Cons" xml:space="preserve"><value>May hide assumptions/fees</value></data><data name="Tool_emi_Info_Alt_Amort_Name" xml:space="preserve"><value>Amortization schedule tool</value></data><data name="Tool_emi_Info_Alt_Amort_When" xml:space="preserve"><value>When you want full monthly schedule</value></data><data name="Tool_emi_Info_Alt_Amort_Example" xml:space="preserve"><value>Month-by-month principal/interest</value></data><data name="Tool_emi_Info_Alt_Amort_Pros" xml:space="preserve"><value>Very detailed</value></data><data name="Tool_emi_Info_Alt_Amort_Cons" xml:space="preserve"><value>Harder to read quickly</value></data><data name="Tool_emi_Info_Alt_Afford_Name" xml:space="preserve"><value>Rule-of-thumb affordability</value></data><data name="Tool_emi_Info_Alt_Afford_When" xml:space="preserve"><value>When you want a quick check</value></data><data name="Tool_emi_Info_Alt_Afford_Example" xml:space="preserve"><value>EMI ≤ 30–40% of take-home</value></data><data name="Tool_emi_Info_Alt_Afford_Pros" xml:space="preserve"><value>Fast filter</value></data><data name="Tool_emi_Info_Alt_Afford_Cons" xml:space="preserve"><value>No interest breakdown</value></data><data name="Tool_emi_Info_Link_Rbi" xml:space="preserve"><value>RBI — Reserve Bank of India</value></data><data name="Tool_emi_Info_Differentiation" xml:space="preserve"><value>FinYatra keeps it minimal but complete: summary cards, scenario comparison, and a readable amortization breakdown so users understand the real cost of borrowing.</value></data><data name="Tool_emi_Info_Motto" xml:space="preserve"><value>Borrow wisely — keep EMIs calm and predictable.</value></data><data name="Tool_emi_FormulaEmiTitle" xml:space="preserve"><value>EMI (fixed monthly payment)</value></data><data name="Tool_emi_StepEmi_1" xml:space="preserve"><value>P is your loan principal (loan amount).</value></data><data name="Tool_emi_StepEmi_2" xml:space="preserve"><value>Convert annual interest rate to monthly rate: monthlyRate = annualRate/12.</value></data><data name="Tool_emi_StepEmi_3" xml:space="preserve"><value>n is the number of months (years × 12).</value></data><data name="Tool_emi_StepEmi_4" xml:space="preserve"><value>The formula gives the fixed payment that exactly pays principal+interest by month n.</value></data><data name="Tool_emi_StepEmi_5" xml:space="preserve"><value>If rate is 0%, EMI = P / n.</value></data><data name="Tool_inflation_Info_Abbreviation" xml:space="preserve"><value>Inflation (no abbreviation)</value></data><data name="Tool_inflation_Info_Purpose" xml:space="preserve"><value>Estimate how the cost of something increases over time due to inflation.</value></data><data name="Tool_inflation_Info_WhyKnow" xml:space="preserve"><value>Most financial goals fail because people plan in today's rupees. Inflation quietly increases your required amount — especially for long horizons like retirement and education.</value></data><data name="Tool_inflation_Info_RealLife" xml:space="preserve"><value>Future school fees, future rent, medical costs, lifestyle expenses in retirement, long-term projects like house construction.</value></data><data name="Tool_inflation_Info_Goal_1" xml:space="preserve"><value>Convert today's cost into future cost</value></data><data name="Tool_inflation_Info_Goal_2" xml:space="preserve"><value>Understand the compounding nature of inflation</value></data><data name="Tool_inflation_Info_Goal_3" xml:space="preserve"><value>Make FIRE and goal planning realistic</value></data><data name="Tool_inflation_Info_Alt_Rule72_Name" xml:space="preserve"><value>Rule of 72 approximation</value></data><data name="Tool_inflation_Info_Alt_Rule72_When" xml:space="preserve"><value>When you want quick doubling time</value></data><data name="Tool_inflation_Info_Alt_Rule72_Example" xml:space="preserve"><value>At 6%, cost doubles ~12 years</value></data><data name="Tool_inflation_Info_Alt_Rule72_Pros" xml:space="preserve"><value>Fast mental math</value></data><data name="Tool_inflation_Info_Alt_Rule72_Cons" xml:space="preserve"><value>Approximate</value></data><data name="Tool_inflation_Info_Alt_Cpi_Name" xml:space="preserve"><value>Government CPI data</value></data><data name="Tool_inflation_Info_Alt_Cpi_When" xml:space="preserve"><value>When you need official inflation series</value></data><data name="Tool_inflation_Info_Alt_Cpi_Example" xml:space="preserve"><value>Look at CPI inflation trend</value></data><data name="Tool_inflation_Info_Alt_Cpi_Pros" xml:space="preserve"><value>Reliable source</value></data><data name="Tool_inflation_Info_Alt_Cpi_Cons" xml:space="preserve"><value>Not a calculator</value></data><data name="Tool_inflation_Info_Alt_Budget_Name" xml:space="preserve"><value>Budget escalation method</value></data><data name="Tool_inflation_Info_Alt_Budget_When" xml:space="preserve"><value>When planning yearly budgets</value></data><data name="Tool_inflation_Info_Alt_Budget_Example" xml:space="preserve"><value>Increase budget 6% yearly</value></data><data name="Tool_inflation_Info_Alt_Budget_Pros" xml:space="preserve"><value>Practical planning</value></data><data name="Tool_inflation_Info_Alt_Budget_Cons" xml:space="preserve"><value>Still assumption-based</value></data><data name="Tool_inflation_Info_Link_Rbi" xml:space="preserve"><value>RBI — Reserve Bank of India</value></data><data name="Tool_inflation_Info_Link_Mospi" xml:space="preserve"><value>MOSPI — CPI / inflation statistics (India)</value></data><data name="Tool_inflation_Info_Differentiation" xml:space="preserve"><value>FinYatra pairs the formula with a year-by-year table and real examples so users feel the impact, not just see a single number.</value></data><data name="Tool_inflation_Info_Motto" xml:space="preserve"><value>Plan for tomorrow's rupee, not today's rupee.</value></data><data name="Tool_inflation_FormulaFutureTitle" xml:space="preserve"><value>Future cost with inflation</value></data><data name="Tool_inflation_StepFuture_1" xml:space="preserve"><value>Start with presentCost (today's price).</value></data><data name="Tool_inflation_StepFuture_2" xml:space="preserve"><value>Convert inflation % to a growth factor (1 + inflationRate).</value></data><data name="Tool_inflation_StepFuture_3" xml:space="preserve"><value>Raise it to the number of years (compounding).</value></data><data name="Tool_inflation_StepFuture_4" xml:space="preserve"><value>Multiply to get futureCost.</value></data><data name="Tool_inflation_StepFuture_5" xml:space="preserve"><value>Increase = futureCost - presentCost.</value></data><data name="Tool_fd_Info_Abbreviation" xml:space="preserve"><value>FD = Fixed Deposit</value></data><data name="Tool_fd_Info_Purpose" xml:space="preserve"><value>Plan staggered fixed deposits so you get periodic maturities instead of locking everything into one date.</value></data><data name="Tool_fd_Info_WhyKnow" xml:space="preserve"><value>Breaking an FD early often reduces interest. Laddering reduces the need to break deposits while keeping money relatively safe and available on schedule.</value></data><data name="Tool_fd_Info_RealLife" xml:space="preserve"><value>Emergency fund parking, planned expenses (fees, travel, home renovation), and conservative investors who want predictable cashflow.</value></data><data name="Tool_fd_Info_Goal_1" xml:space="preserve"><value>Improve liquidity with staggered maturities</value></data><data name="Tool_fd_Info_Goal_2" xml:space="preserve"><value>Reduce early-break penalties risk</value></data><data name="Tool_fd_Info_Goal_3" xml:space="preserve"><value>Balance return vs access to cash</value></data><data name="Tool_fd_Info_Alt_Single_Name" xml:space="preserve"><value>Single long FD</value></data><data name="Tool_fd_Info_Alt_Single_When" xml:space="preserve"><value>When you don't need interim liquidity</value></data><data name="Tool_fd_Info_Alt_Single_Example" xml:space="preserve"><value>₹3L for 3 years</value></data><data name="Tool_fd_Info_Alt_Single_Pros" xml:space="preserve"><value>Simple</value></data><data name="Tool_fd_Info_Alt_Single_Cons" xml:space="preserve"><value>Harder to access without penalty</value></data><data name="Tool_fd_Info_Alt_Mix_Name" xml:space="preserve"><value>FD + liquid fund mix</value></data><data name="Tool_fd_Info_Alt_Mix_When" xml:space="preserve"><value>When you want some liquidity</value></data><data name="Tool_fd_Info_Alt_Mix_Example" xml:space="preserve"><value>50% FD, 50% liquid fund</value></data><data name="Tool_fd_Info_Alt_Mix_Pros" xml:space="preserve"><value>Better access</value></data><data name="Tool_fd_Info_Alt_Mix_Cons" xml:space="preserve"><value>More moving parts</value></data><data name="Tool_fd_Info_Alt_Rd_Name" xml:space="preserve"><value>RD ladder</value></data><data name="Tool_fd_Info_Alt_Rd_When" xml:space="preserve"><value>When you invest monthly not lump sum</value></data><data name="Tool_fd_Info_Alt_Rd_Example" xml:space="preserve"><value>₹10k/mo RD</value></data><data name="Tool_fd_Info_Alt_Rd_Pros" xml:space="preserve"><value>Disciplined saving</value></data><data name="Tool_fd_Info_Alt_Rd_Cons" xml:space="preserve"><value>Different structure</value></data><data name="Tool_fd_Info_Link_Rbi" xml:space="preserve"><value>RBI — Deposit insurance (DICGC) context</value></data><data name="Tool_fd_Info_Link_Dicgc" xml:space="preserve"><value>DICGC — Deposit insurance (India)</value></data><data name="Tool_fd_Info_Differentiation" xml:space="preserve"><value>FinYatra shows the ladder in a clean table with the per-FD split and maturity estimate so you can plan liquidity year-by-year.</value></data><data name="Tool_fd_Info_Motto" xml:space="preserve"><value>Keep money safe — without locking yourself in.</value></data><data name="Tool_fd_FormulaLadderTitle" xml:space="preserve"><value>FD ladder split + maturity</value></data><data name="Tool_fd_StepLadder_1" xml:space="preserve"><value>Split totalAmount into equal parts (perFd).</value></data><data name="Tool_fd_StepLadder_2" xml:space="preserve"><value>Assign tenures starting from startYears: 1y, 2y, 3y...</value></data><data name="Tool_fd_StepLadder_3" xml:space="preserve"><value>For each FD, estimate maturity using simplified annual compounding.</value></data><data name="Tool_fd_StepLadder_4" xml:space="preserve"><value>Result is a ladder where one FD matures each year.</value></data><data name="Page_Privacy_S01_Title" xml:space="preserve"><value>1. Who we are</value></data><data name="Page_Privacy_S01_Body" xml:space="preserve"><value>FinYatra ("we", "us", "the app") provides free educational financial calculators and planners. We are an independent project maintained by Nuthan Murarysetty. You can reach us anytime at</value></data><data name="Page_Privacy_S02_Title" xml:space="preserve"><value>2. The short version</value></data><data name="Page_Privacy_S02_L1" xml:space="preserve"><value>No account, sign-up, or login is required to use FinYatra.</value></data><data name="Page_Privacy_S02_L2" xml:space="preserve"><value>The numbers you type into calculators are processed in your browser and are not sent to our servers.</value></data><data name="Page_Privacy_S02_L3" xml:space="preserve"><value>We do not sell your personal data — ever.</value></data><data name="Page_Privacy_S02_L4" xml:space="preserve"><value>We use privacy-respecting analytics and, where enabled, advertising to keep the app free.</value></data><data name="Page_Privacy_S03_Title" xml:space="preserve"><value>3. Information you enter</value></data><data name="Page_Privacy_S03_Body" xml:space="preserve"><value>Calculator inputs (for example target amounts, interest rates, tenure, and expenses) are used only to compute results on your device. They stay in your browser session and are cleared when you close or refresh the page, unless you deliberately copy or share a result. We do not store these values on a server or link them to your identity.</value></data><data name="Page_Privacy_S04_Title" xml:space="preserve"><value>4. Information collected automatically</value></data><data name="Page_Privacy_S04_Body" xml:space="preserve"><value>Like most websites, our hosting provider and any analytics or ad partners may automatically receive standard technical data such as your IP address, device and browser type, approximate region, referring page, and pages viewed. This helps us keep the site secure, understand which tools are useful, and fix problems.</value></data><data name="Page_Privacy_S05_Title" xml:space="preserve"><value>5. Cookies &amp; similar technologies</value></data><data name="Page_Privacy_S05_Body" xml:space="preserve"><value>We use a small amount of local storage to remember display preferences (such as your Tiles/List choice). If advertising is enabled, third parties may set cookies as described below. You can clear cookies and local storage at any time from your browser settings.</value></data><data name="Page_Privacy_S06_Title" xml:space="preserve"><value>6. Advertising (Google AdSense)</value></data><data name="Page_Privacy_S06_Body" xml:space="preserve"><value>To keep FinYatra free, we may display ads through Google AdSense. Google and its partners may use cookies and device identifiers to serve and measure ads, including personalized ads based on your prior visits, subject to your settings. You can control ad personalization at</value></data><data name="Page_Privacy_S06_LinkAds" xml:space="preserve"><value>Google Ads Settings</value></data><data name="Page_Privacy_S06_BodyAfter" xml:space="preserve"><value>and learn more at</value></data><data name="Page_Privacy_S06_LinkPolicy" xml:space="preserve"><value>How Google uses information from sites that use its services</value></data><data name="Page_Privacy_S07_Title" xml:space="preserve"><value>7. Third-party services</value></data><data name="Page_Privacy_S07_Body" xml:space="preserve"><value>We load the Inter font from Google Fonts and some libraries from public CDNs to render the app. These providers may receive your IP address as part of delivering their files. External links to sources (RBI, SEBI, banks, and similar) are provided for reference; their privacy practices are governed by their own policies.</value></data><data name="Page_Privacy_S08_Title" xml:space="preserve"><value>8. Your rights &amp; choices</value></data><data name="Page_Privacy_S08_L1" xml:space="preserve"><value>Use the app without providing any personal information.</value></data><data name="Page_Privacy_S08_L2" xml:space="preserve"><value>Block or delete cookies and local storage in your browser.</value></data><data name="Page_Privacy_S08_L3" xml:space="preserve"><value>Opt out of personalized ads via your Google account or browser controls.</value></data><data name="Page_Privacy_S08_L4" xml:space="preserve"><value>Contact us to ask any privacy question or raise a concern.</value></data><data name="Page_Privacy_S09_Title" xml:space="preserve"><value>9. Children's privacy</value></data><data name="Page_Privacy_S09_Body" xml:space="preserve"><value>FinYatra is intended for a general audience and is not directed at children under 13. We do not knowingly collect personal information from children.</value></data><data name="Page_Privacy_S10_Title" xml:space="preserve"><value>10. Changes to this policy</value></data><data name="Page_Privacy_S10_Body" xml:space="preserve"><value>We may update this policy as the app evolves. Material changes will be reflected here with a new "last updated" date. Continued use of FinYatra after changes means you accept the revised policy.</value></data><data name="Page_Terms_S01_Title" xml:space="preserve"><value>1. Acceptance of terms</value></data><data name="Page_Terms_S01_Body" xml:space="preserve"><value>By accessing or using FinYatra, you agree to be bound by these Terms and Conditions and our</value></data><data name="Page_Terms_S01_LinkPrivacy" xml:space="preserve"><value>Privacy Policy</value></data><data name="Page_Terms_S01_BodyAfter" xml:space="preserve"><value>If you do not agree, please do not use the app.</value></data><data name="Page_Terms_S02_Title" xml:space="preserve"><value>2. Educational use only — not financial advice</value></data><data name="Page_Terms_S02_Body" xml:space="preserve"><value>FinYatra provides general educational calculators, estimates, and explanations. It is not financial, investment, tax, or legal advice, and it does not create an advisor–client relationship. Results are illustrative and depend on the assumptions you enter. Always consult a qualified professional and verify figures with official sources before making financial decisions.</value></data><data name="Page_Terms_S03_Title" xml:space="preserve"><value>3. Accuracy of information</value></data><data name="Page_Terms_S03_Body" xml:space="preserve"><value>We aim to keep formulas, examples, and rate assumptions correct and up to date, but we make no guarantee of accuracy, completeness, or timeliness. Interest rates, returns, inflation, and tax rules change frequently and vary by provider. You are responsible for confirming critical numbers independently.</value></data><data name="Page_Terms_S04_Title" xml:space="preserve"><value>4. No guaranteed outcomes</value></data><data name="Page_Terms_S04_Body" xml:space="preserve"><value>Projections use simplified models (for example fixed annual compounding). Real investments involve risk, fees, taxes, and market fluctuations, and may perform very differently from any estimate shown here. Past performance and sample returns do not guarantee future results.</value></data><data name="Page_Terms_S05_Title" xml:space="preserve"><value>5. Acceptable use</value></data><data name="Page_Terms_S05_L1" xml:space="preserve"><value>Do not misuse the app, attempt to disrupt it, or access it through automated abuse.</value></data><data name="Page_Terms_S05_L2" xml:space="preserve"><value>Do not present FinYatra results as professional advice to others.</value></data><data name="Page_Terms_S05_L3" xml:space="preserve"><value>Do not copy the app to impersonate it or mislead users.</value></data><data name="Page_Terms_S06_Title" xml:space="preserve"><value>6. Intellectual property</value></data><data name="Page_Terms_S06_Body" xml:space="preserve"><value>The FinYatra name, design, layout, and original content are owned by their author. You may use the calculators for personal, non-commercial purposes and share screenshots of your own results. All other rights are reserved.</value></data><data name="Page_Terms_S07_Title" xml:space="preserve"><value>7. Third-party links &amp; ads</value></data><data name="Page_Terms_S07_Body" xml:space="preserve"><value>FinYatra may link to third-party sites (such as RBI, SEBI, and banks) and may display advertising. We do not control and are not responsible for third-party content, products, or practices. Visiting third-party sites is at your own risk and subject to their terms.</value></data><data name="Page_Terms_S08_Title" xml:space="preserve"><value>8. Limitation of liability</value></data><data name="Page_Terms_S08_Body" xml:space="preserve"><value>To the maximum extent permitted by law, FinYatra and its author are not liable for any direct, indirect, incidental, or consequential losses arising from your use of, or reliance on, the app or its results. The app is provided "as is" and "as available" without warranties of any kind.</value></data><data name="Page_Terms_S09_Title" xml:space="preserve"><value>9. Changes &amp; availability</value></data><data name="Page_Terms_S09_Body" xml:space="preserve"><value>We may modify, suspend, or discontinue any part of the app at any time, and we may update these terms. Continued use after changes means you accept the updated terms.</value></data><data name="Page_Terms_S10_Title" xml:space="preserve"><value>10. Credits &amp; attribution</value></data><data name="Page_Terms_S10_Body" xml:space="preserve"><value>Interface icons are simple line icons rendered as inline SVG, based on the open-source</value></data><data name="Page_Terms_S10_LinkLucide" xml:space="preserve"><value>Lucide</value></data><data name="Page_Terms_S10_BodyMid" xml:space="preserve"><value>icon style (ISC / MIT licensed). The typeface is</value></data><data name="Page_Terms_S10_LinkInter" xml:space="preserve"><value>Inter</value></data><data name="Page_Terms_S10_BodyAfter" xml:space="preserve"><value>by Rasmus Andersson under the SIL Open Font License. If you believe any asset needs additional attribution, contact</value></data><data name="Page_Terms_S10_BodyEnd" xml:space="preserve"><value>and we will address it promptly.</value></data><data name="Page_Terms_S11_Title" xml:space="preserve"><value>11. Contact</value></data><data name="Page_Terms_S11_Body" xml:space="preserve"><value>Questions about these terms? Email</value></data><data name="Page_Contact_Err_CaptchaLoad" xml:space="preserve"><value>We couldn't load the security question. Please tap Try again.</value></data><data name="Page_Contact_Err_CaptchaAnswer" xml:space="preserve"><value>Enter the answer to the security check.</value></data><data name="Page_Contact_Err_Submit" xml:space="preserve"><value>Unable to send message right now.</value></data><data name="Page_Contact_Err_CaptchaWrong" xml:space="preserve"><value>Incorrect security check. Please try again.</value></data><data name="Page_Contact_Val_NameRequired" xml:space="preserve"><value>Name is required.</value></data><data name="Page_Contact_Val_EmailRequired" xml:space="preserve"><value>Email is required.</value></data><data name="Page_Contact_Val_EmailInvalid" xml:space="preserve"><value>Enter a valid email.</value></data><data name="Page_Contact_Val_SubjectRequired" xml:space="preserve"><value>Subject is required.</value></data><data name="Page_Contact_Val_MessageRequired" xml:space="preserve"><value>Message is required.</value></data><data name="Page_Contact_Val_MessageMin" xml:space="preserve"><value>Please add a bit more detail (min 10 characters).</value></data><data name="Page_Contact_Val_ConsentRequired" xml:space="preserve"><value>Please accept the Privacy Policy and Terms.</value></data><data name="Page_Contact_HoneypotLabel" xml:space="preserve"><value>Website</value></data><data name="Page_Contact_Err_ApiOffline" xml:space="preserve"><value>FinYatra.Server is not running. Start it with: dotnet run --project FinYatra.Server — then tap Retry below (or open https://localhost:7265/contact).</value></data><data name="Page_Contact_BtnRetryCaptcha" xml:space="preserve"><value>Try again</value></data><data name="Page_Contact_Unavailable_Title" xml:space="preserve"><value>Can't send messages here right now</value></data><data name="Page_Contact_Unavailable_Body_Before" xml:space="preserve"><value>Our secure contact form is temporarily unavailable. Please email us at </value></data><data name="Page_Contact_Unavailable_Body_After" xml:space="preserve"><value> — we usually reply within 2–3 business days.</value></data><data name="Page_Contact_BtnTryAgain" xml:space="preserve"><value>Try again</value></data><data name="Page_Contact_DeliveryUnavailable_Title" xml:space="preserve"><value>We couldn't send your message</value></data><data name="Page_Contact_BtnEmailUs" xml:space="preserve"><value>Email us instead</value></data><data name="Page_Contact_Err_TooManyRequests" xml:space="preserve"><value>Too many attempts. Please wait a few minutes and try again.</value></data></root>
