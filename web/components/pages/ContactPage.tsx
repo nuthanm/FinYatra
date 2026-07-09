@@ -45,6 +45,7 @@ export function ContactPage() {
   const [submitting, setSubmitting] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [submittedEmail, setSubmittedEmail] = useState("");
+  const [submitAttempted, setSubmitAttempted] = useState(false);
 
   const loadCaptcha = useCallback(async () => {
     setCaptchaError("");
@@ -88,10 +89,6 @@ export function ContactPage() {
     return items;
   })();
 
-  const formStarted = Boolean(
-    name.trim() || email.trim() || subject.trim() || message.trim() || consent || captchaAnswer.trim(),
-  );
-
   const canSubmit =
     !submitting &&
     !captchaApiOffline &&
@@ -117,6 +114,7 @@ export function ContactPage() {
     setSubmittedEmail("");
     setMailDeliveryUnavailable(false);
     setSubmitError("");
+    setSubmitAttempted(false);
     await loadCaptcha();
   };
 
@@ -129,6 +127,7 @@ export function ContactPage() {
       setSubmitted(true);
       return;
     }
+    setSubmitAttempted(true);
     if (!canSubmit) return;
 
     setSubmitting(true);
@@ -253,7 +252,7 @@ export function ContactPage() {
               <div className="fy-field">
                 <label htmlFor="contact-message">{t("Page_Contact_LabelMessage")}</label>
                 <textarea id="contact-message" className="fy-input fy-textarea" rows={5} maxLength={5000} value={message} onChange={(e) => setMessage(e.target.value)} required />
-                {message.trim() && message.trim().length < MIN_MESSAGE_LENGTH ? (
+                {submitAttempted && message.trim() && message.trim().length < MIN_MESSAGE_LENGTH ? (
                   <span className="validation-message">{t("Page_Contact_Val_MessageMin")}</span>
                 ) : null}
               </div>
@@ -272,7 +271,7 @@ export function ContactPage() {
                   .
                 </span>
               </label>
-              {!consent && formStarted ? (
+              {submitAttempted && !consent ? (
                 <span className="validation-message">{t("Page_Contact_Val_ConsentRequired")}</span>
               ) : null}
 
@@ -332,7 +331,7 @@ export function ContactPage() {
                 </p>
               ) : null}
 
-              {!canSubmit && formStarted && submitBlockers.length > 0 ? (
+              {submitAttempted && !canSubmit && submitBlockers.length > 0 ? (
                 <p className="validation-message" role="status">
                   {submitBlockers[0]}
                 </p>

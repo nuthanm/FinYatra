@@ -72,7 +72,7 @@ export function AppShell({ children }: { children: ReactNode }) {
         </form>
         <div className="fy-topbar-right">
           <select
-            className="fy-lang"
+            className="fy-lang fy-lang-desktop"
             aria-label={t("Nav_LanguageAria")}
             value={locale}
             onChange={(e) => setLocale(e.target.value as Locale)}
@@ -83,6 +83,20 @@ export function AppShell({ children }: { children: ReactNode }) {
               </option>
             ))}
           </select>
+          <label className="fy-lang-mobile" aria-label={t("Nav_LanguageAria")}>
+            <FyIcon name="globe" size={18} />
+            <select
+              className="fy-lang-mobile-select"
+              value={locale}
+              onChange={(e) => setLocale(e.target.value as Locale)}
+            >
+              {SUPPORTED.map((c) => (
+                <option key={c.code} value={c.code}>
+                  {c.nativeName}
+                </option>
+              ))}
+            </select>
+          </label>
         </div>
       </header>
 
@@ -170,7 +184,11 @@ export function AppShell({ children }: { children: ReactNode }) {
               <div className="fy-footer-top">
                 <div className="fy-footer-meta">
                   <span>
-                    {t("Footer_MadeWith")} <strong>Nuthan Murarysetty</strong>
+                    {t("Footer_MadeWith")}{" "}
+                    <span className="fy-heart" aria-hidden>
+                      <FyIcon name="heart" size={14} />
+                    </span>{" "}
+                    {t("Footer_By")} <strong>Nuthan Murarysetty</strong>
                   </span>
                 </div>
                 <div className="fy-footer-meta">

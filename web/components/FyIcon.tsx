@@ -26,6 +26,8 @@ const ICONS: Record<string, string> = {
   copy: "<rect x='9' y='9' width='11' height='11' rx='2'/><path d='M5 15a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2'/>",
   compass: "<circle cx='12' cy='12' r='9'/><path d='M15.5 8.5 13 13l-4.5 2.5L11 11l4.5-2.5z'/>",
   sparkle: "<path d='M12 3l1.8 4.9L18.7 9.7 13.8 11.5 12 16.4 10.2 11.5 5.3 9.7 10.2 7.9 12 3z'/>",
+  heart: "<path d='M12 20.5s-7-4.6-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10.5c0 5.4-7 10-7 10z' fill='currentColor' stroke='none'/>",
+  globe: "<circle cx='12' cy='12' r='9'/><path d='M3 12h18'/><path d='M12 3a14 14 0 0 1 0 18'/><path d='M12 3a14 14 0 0 0 0 18'/>",
 };
 
 type Props = { name: string; size?: number; className?: string };
