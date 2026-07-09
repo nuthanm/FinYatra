@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "nodemailer": "^9.0.3"
+  "private": true,
+  "name": "finyatra",
+  "description": "FinYatra monorepo root — deploy the web/ app on Vercel (see README).",
+  "scripts": {
+    "build": "node scripts/vercel-root-hint.js"
   }
 }

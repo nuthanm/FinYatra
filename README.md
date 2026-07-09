@@ -150,11 +150,13 @@ Optional: `SMTP_HOST`, `SMTP_PORT`, `SMTP_SECURE`, `SMTP_FROM`, rate-limit setti
 ## Deploy on Vercel
 
 1. Import the GitHub repo in [Vercel](https://vercel.com/new).
-2. Set **Root Directory** to `web`.
-3. Add the environment variables from `web/.env.example`.
-4. Deploy — Vercel runs `npm run build` automatically.
+2. **Critical:** Project → **Settings** → **General** → **Root Directory** → set to **`web`** → Save.
+3. Add environment variables from `web/.env.example` (Project → Settings → Environment Variables).
+4. **Redeploy** (Deployments → ⋯ → Redeploy).
 
-Include `http://localhost:3000` in `CONTACT_ALLOWED_ORIGINS` for local testing only (not required in production).
+> If you see a Vercel **404: NOT_FOUND** page, Root Directory is almost certainly still empty (repo root). The app must build from `web/`.
+
+Include your Vercel URL in `CONTACT_ALLOWED_ORIGINS` (e.g. `https://fin-yatra.vercel.app`) or rely on automatic `*.vercel.app` allowance for previews.
 
 ---
 

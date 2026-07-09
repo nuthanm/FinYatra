@@ -17,6 +17,8 @@ function isAllowedOrigin(request: Request): boolean {
   if (process.env.NODE_ENV === "development") return true;
   const origin = request.headers.get("origin") ?? "";
   const referer = request.headers.get("referer") ?? "";
+  // Vercel preview/production *.vercel.app deployments
+  if (origin.endsWith(".vercel.app") || referer.includes(".vercel.app")) return true;
   for (const allowed of ALLOWED_ORIGINS) {
     if (origin.startsWith(allowed) || referer.startsWith(allowed)) return true;
   }
