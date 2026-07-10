@@ -300,6 +300,30 @@ body {
     font-family: inherit;
 }
 
+.fy-lang-mobile {
+    display: none;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid var(--fy-border);
+    background: #fff;
+    color: var(--fy-ink);
+    cursor: pointer;
+}
+
+.fy-lang-mobile-select {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    cursor: pointer;
+    font-family: inherit;
+}
+
 /* ── Sidebar (fixed on desktop, overlay on mobile) ── */
 .fy-sidebar {
     position: fixed;
@@ -432,7 +456,8 @@ body {
 
 @media (max-width: 560px) {
     .fy-brand-name { display: none; }
-    .fy-lang { display: none; }
+    .fy-lang-desktop { display: none; }
+    .fy-lang-mobile { display: inline-flex; }
 }
 
 /* ============================================================
