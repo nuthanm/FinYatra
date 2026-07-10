@@ -1,8 +1,8 @@
-import { ComingSoonPage } from "@/components/pages/ComingSoonPage";
-import { pageMetadata } from "@/lib/seo/metadata";
+import { LumpsumCalculator } from "@/components/calculators/LumpsumCalculator";
+import { toolMetadata } from "@/lib/seo/metadata";
 
-export const metadata = pageMetadata("Page_ComingSoon_PageTitle", "Page_ComingSoon_Description");
+export const metadata = toolMetadata("Tool_lumpsum_Title", "Tool_lumpsum_Description");
 
 export default function LumpsumPage() {
-  return <ComingSoonPage toolKey="lumpsum" />;
+  return <LumpsumCalculator />;
 }

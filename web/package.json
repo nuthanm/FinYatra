@@ -10,7 +10,8 @@
     "start": "next start",
     "lint": "eslint",
     "i18n:sync": "python ../scripts/resx-to-json.py",
-    "i18n:check": "python ../scripts/check-messages-parity.py"
+    "i18n:check": "python ../scripts/check-messages-parity.py",
+    "i18n:india": "python ../scripts/generate-india-catalog.py && python ../scripts/merge-india-i18n.py"
   },
   "dependencies": {
     "next": "15.5.20",

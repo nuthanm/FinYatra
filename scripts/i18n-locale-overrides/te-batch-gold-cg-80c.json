@@ -1,0 +1,18 @@
+{
+  "Tool_gold_loan_Title": "గోల్డ్ లోన్ కాల్క్యులేటర్",
+  "Tool_gold_loan_Description": "బంగారు నగలపై రుణం. 75% LTV, బ్యాంక్ vs NBFC రేటు పోలిక.",
+  "Tool_gold_loan_Result_MaxLoan": "గరిష్ట రుణం",
+  "Tool_gold_loan_Result_Emi": "నెలవారీ EMI",
+  "Tool_gold_loan_Result_Interest": "మొత్తం వడ్డీ",
+  "Tool_capital_gains_tax_Title": "క్యాపిటల్ గెయిన్స్ టాక్స్ కాల్క్యులేటర్",
+  "Tool_capital_gains_tax_Description": "ఆస్తి, షేర్లు, MF, బంగారంపై LTCG/STCG. సెక్షన్ 54/54EC మినహాయింపులు.",
+  "Tool_capital_gains_tax_Result_Gain": "క్యాపిటల్ గెయిన్",
+  "Tool_capital_gains_tax_Result_Taxable": "పన్ను విధించదగిన గెయిన్",
+  "Tool_capital_gains_tax_Result_Tax": "అంచనా పన్ను",
+  "Tool_section_80c_Title": "సెక్షన్ 80C కాల్క్యులేటర్",
+  "Tool_section_80c_Description": "₹1.5 లక్ష పన్ను ఆదా ప్రణాళిక. PPF, ELSS, NSC మరియు మరిన్ని.",
+  "Tool_section_80c_Result_Eligible": "అర్హత గల మినహాయింపు",
+  "Tool_section_80c_Result_Saving": "అంచనా పన్ను ఆదా",
+  "Tool_section_80c_Result_Unused": "ఉపయోగించని పరిమితి",
+  "Tool_section_80c_Result_Over": "పరిమితి మించింది"
+}

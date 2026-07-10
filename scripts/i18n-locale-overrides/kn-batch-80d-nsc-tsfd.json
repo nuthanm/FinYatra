@@ -1,0 +1,17 @@
+{
+  "Tool_section_80d_Title": "ವಿಭಾಗ 80D ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_section_80d_Description": "ಆರೋಗ್ಯ ವಿಮಾ ಪ್ರೀಮಿಯಂ ತೆರಿಗೆ ಪ್ರಯೋಜನ. ಸ್ವಯಂ + ಪೋಷಕರ ಕಡಿತ ₹1 ಲಕ್ಷ ವರೆಗೆ.",
+  "Tool_section_80d_Result_Eligible": "ಅರ್ಹ ಕಡಿತ",
+  "Tool_section_80d_Result_Saving": "ಅಂದಾಜು ತೆರಿಗೆ ಉಳಿತಾಯ",
+  "Tool_section_80d_Result_Preventive": "ತಡೆಗಟ್ಟುವ ಪರೀಕ್ಷೆ ಲೆಕ್ಕಿಸಲಾಗಿದೆ",
+  "Tool_nsc_Title": "NSC ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_nsc_Description": "ರಾಷ್ಟ್ರೀಯ ಉಳಿತಾಯ ಪ್ರಮಾಣಪತ್ರ ಮೆಚ್ಯೂರಿಟಿ ~7.7%. 5 ವರ್ಷ ಲಾಕ್-ಇನ್, 80C ಪ್ರಯೋಜನ.",
+  "Tool_nsc_Result_Maturity": "ಮೆಚ್ಯೂರಿಟಿ ಮೌಲ್ಯ",
+  "Tool_nsc_Result_Interest": "ಒಟ್ಟು ಬಡ್ಡಿ",
+  "Tool_nsc_Result_80c": "80C ಗಾಗಿ ಠೇವಣಿ",
+  "Tool_tax_saving_fd_Title": "ತೆರಿಗೆ ಉಳಿತಾಯ FD ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_tax_saving_fd_Description": "80C ಅಡಿಯಲ್ಲಿ 5-ವರ್ಷ ತೆರಿಗೆ-ಉಳಿತಾಯ FD. ಬ್ಯಾಂಕ್ ದರಗಳು ಮತ್ತು ಲಾಕ್-ಇನ್ ರಿಟರ್ನ್.",
+  "Tool_tax_saving_fd_Result_Maturity": "ಮೆಚ್ಯೂರಿಟಿ ಮೌಲ್ಯ",
+  "Tool_tax_saving_fd_Result_Interest": "ಒಟ್ಟು ಬಡ್ಡಿ",
+  "Tool_tax_saving_fd_Result_80c": "ಅಂದಾಜು 80C ತೆರಿಗೆ ಉಳಿತಾಯ"
+}

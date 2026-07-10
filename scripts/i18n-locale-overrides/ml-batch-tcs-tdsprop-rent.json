@@ -1,0 +1,17 @@
+{
+  "Tool_tcs_Title": "TCS കാൽക്കുലേറ്റർ",
+  "Tool_tcs_Description": "LRS റെമിറ്റൻസ്, സാധന വിൽപ്പന, സ്ക്രാപ്പിൽ TCS — സെക്ഷൻ അനുസരിച്ചുള്ള നിരക്കുകൾ.",
+  "Tool_tcs_Result_Tcs": "TCS തുക",
+  "Tool_tcs_Result_Net": "TCS ശേഷം നെറ്റ്",
+  "Tool_tcs_Result_Threshold": "പരിധി",
+  "Tool_tds_on_property_Title": "വസ്തുവിൽ TDS കാൽക്കുലേറ്റർ",
+  "Tool_tds_on_property_Description": "സെക്ഷൻ 194IA: ₹50 ലക്ഷത്തിന് മുകളിൽ 1% TDS — ജോയിന്റ് വാങ്ങുന്നവരുടെ കുറിപ്പ്.",
+  "Tool_tds_on_property_Result_Tds": "TDS തുക",
+  "Tool_tds_on_property_Result_Net": "വിൽപ്പനക്കാരന് നെറ്റ്",
+  "Tool_tds_on_property_Result_Share": "ഓരോ വാങ്ങുന്നവന്റെ പങ്ക്",
+  "Tool_tds_on_rent_Title": "വാടകയിൽ TDS കാൽക്കുലേറ്റർ",
+  "Tool_tds_on_rent_Description": "സെക്ഷൻ 194IB: മാസ വാടക ₹50,000-ന് മുകളിൽ 2% TDS — വാർഷികവും Form 26QC-യും.",
+  "Tool_tds_on_rent_Result_MonthlyTds": "മാസ TDS",
+  "Tool_tds_on_rent_Result_AnnualTds": "വാർഷിക TDS",
+  "Tool_tds_on_rent_Result_AnnualRent": "വാർഷിക വാടക"
+}

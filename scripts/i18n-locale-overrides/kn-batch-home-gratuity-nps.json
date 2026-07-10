@@ -1,0 +1,17 @@
+{
+  "Tool_home_loan_emi_Title": "ಹೋಮ್ ಲೋನ್ ಇಎಂಐ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_home_loan_emi_Description": "ಹೋಮ್ ಲೋನ್ ಇಎಂಐ ಜೊತೆ ಸೆಕ್ಷನ್ 24(b) ಮತ್ತು 80C ತೆರಿಗೆ ಪ್ರಯೋಜನ.",
+  "Tool_home_loan_emi_Result_Emi": "ಮಾಸಿಕ ಇಎಂಐ",
+  "Tool_home_loan_emi_Result_Interest": "ಒಟ್ಟು ಬಡ್ಡಿ",
+  "Tool_home_loan_emi_Result_TaxSaving": "ಅಂದಾಜು ತೆರಿಗೆ ಉಳಿತಾಯ / ವರ್ಷ",
+  "Tool_gratuity_Title": "ಗ್ರಾಚ್ಯುಟಿ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_gratuity_Description": "5+ ವರ್ಷ ಸೇವೆಯ ನಂತರ ಗ್ರಾಚ್ಯುಟಿ ಅಂದಾಜು. ತೆರಿಗೆ ವಿನಾಯಿತಿ ₹20 ಲಕ್ಷ ವರೆಗೆ.",
+  "Tool_gratuity_Result_Amount": "ಗ್ರಾಚ್ಯುಟಿ ಮೊತ್ತ",
+  "Tool_gratuity_Result_Exempt": "ತೆರಿಗೆ-ಮುಕ್ತ",
+  "Tool_gratuity_Result_Taxable": "ತೆರಿಗೆ ವಿಧೇಯ ಗ್ರಾಚ್ಯುಟಿ",
+  "Tool_nps_Title": "ಎನ್‌ಪಿಎಸ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_nps_Description": "ಎನ್‌ಪಿಎಸ್ ಕಾರ್ಪಸ್ ಮತ್ತು ಪೆನ್ಷನ್ ಅಂದಾಜು. 80CCD ತೆರಿಗೆ ಪ್ರಯೋಜನಗಳು.",
+  "Tool_nps_Result_Corpus": "ಅಂದಾಜು ಕಾರ್ಪಸ್",
+  "Tool_nps_Result_LumpSum": "ಲಂಪ್ ಸಮ್ (60%)",
+  "Tool_nps_Result_Pension": "ಅಂದಾಜು ಮಾಸಿಕ ಪೆನ್ಷನ್"
+}

@@ -1,0 +1,17 @@
+{
+  "Tool_crypto_tax_Title": "क्रिप्टो टैक्स कैलकुलेटर",
+  "Tool_crypto_tax_Description": "धारा 115BBH: क्रिप्टो पर 30% फ्लैट टैक्स। सेट-ऑफ नहीं, 1% TDS।",
+  "Tool_crypto_tax_Result_Gain": "गेन / (हानि)",
+  "Tool_crypto_tax_Result_Tax": "VDA टैक्स (30%)",
+  "Tool_crypto_tax_Result_Tds": "TDS अनुमान",
+  "Tool_dividend_yield_Title": "डिविडेंड यील्ड कैलकुलेटर",
+  "Tool_dividend_yield_Description": "स्टॉक डिविडेंड यील्ड और आय। डिविडेंड बनाम ग्रोथ तुलना।",
+  "Tool_dividend_yield_Result_Yield": "डिविडेंड यील्ड",
+  "Tool_dividend_yield_Result_Income": "वार्षिक आय",
+  "Tool_dividend_yield_Result_Dps": "डिविडेंड / शेयर",
+  "Tool_brokerage_Title": "ब्रोकरेज कैलकुलेटर",
+  "Tool_brokerage_Description": "ट्रेडिंग शुल्क — ब्रोकरेज, STT, GST। डिलीवरी और इंट्राडे।",
+  "Tool_brokerage_Result_Charges": "कुल शुल्क",
+  "Tool_brokerage_Result_Net": "नेट प्राप्ति",
+  "Tool_brokerage_Result_Brokerage": "ब्रोकरेज"
+}

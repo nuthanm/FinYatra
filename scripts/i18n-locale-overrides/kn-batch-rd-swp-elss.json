@@ -1,0 +1,15 @@
+{
+  "Tool_rd_Title": "ಆರ್‌ಡಿ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_rd_Description": "ರಿಕರಿಂಗ್ ಡಿಪಾಸಿಟ್ ಮೆಚ್ಯೂರಿಟಿ — ತ್ರೈಮಾಸಿಕ ಸಂಯುಕ್ತ ಬಡ್ಡಿ.",
+  "Tool_rd_Result_Maturity": "ಮೆಚ್ಯೂರಿಟಿ ಮೊತ್ತ",
+  "Tool_rd_Result_Interest": "ಬಡ್ಡಿ",
+  "Tool_swp_Title": "ಎಸ್‌ಡಬ್ಲ್ಯೂಪಿ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_swp_Description": "ಮ್ಯೂಚುಯಲ್ ಫಂಡ್‌ನಿಂದ ನಿಯಮಿತ ಹಿಂಪಡೆಯುವಿಕೆ. ಕಾರ್ಪಸ್ ಎಷ್ಟು ಕಾಲ?",
+  "Tool_swp_Result_Ending": "ಅಂತಿಮ ಕಾರ್ಪಸ್",
+  "Tool_swp_Result_Withdrawn": "ಒಟ್ಟು ಹಿಂಪಡೆಯುವಿಕೆ",
+  "Tool_elss_Title": "ಈಎಲ್‌ಎಸ್‌ಎಸ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_elss_Description": "ತೆರಿಗೆ ಉಳಿತಾಯ ಮ್ಯೂಚುಯಲ್ ಫಂಡ್. 80C, 3-ವರ್ಷ ಲಾಕ್-ಇನ್.",
+  "Tool_elss_Result_Maturity": "ಅಂದಾಜು ಮೌಲ್ಯ",
+  "Tool_elss_Result_PostTax": "ಎಲ್‌ಟಿಸಿಜಿ ನಂತರ",
+  "Tool_elss_Result_80c": "ವಾರ್ಷಿಕ 80C ಮೊತ್ತ"
+}

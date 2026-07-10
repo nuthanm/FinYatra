@@ -1,0 +1,17 @@
+{
+  "Tool_section_80d_Title": "సెక్షన్ 80D కాల్క్యులేటర్",
+  "Tool_section_80d_Description": "ఆరోగ్య బీమా ప్రీమియం పన్ను ప్రయోజనం. స్వయం + తల్లిదండ్రుల మినహాయింపు ₹1 లక్ష వరకు.",
+  "Tool_section_80d_Result_Eligible": "అర్హత గల మినహాయింపు",
+  "Tool_section_80d_Result_Saving": "అంచనా పన్ను ఆదా",
+  "Tool_section_80d_Result_Preventive": "నివారణ పరీక్ష లెక్కించబడింది",
+  "Tool_nsc_Title": "NSC కాల్క్యులేటర్",
+  "Tool_nsc_Description": "నేషనల్ సేవింగ్స్ సర్టిఫికేట్ మెచ్యూరిటీ ~7.7%. 5 సంవత్సరాల లాక్-ఇన్, 80C ప్రయోజనం.",
+  "Tool_nsc_Result_Maturity": "మెచ్యూరిటీ విలువ",
+  "Tool_nsc_Result_Interest": "మొత్తం వడ్డీ",
+  "Tool_nsc_Result_80c": "80C కోసం డిపాజిట్",
+  "Tool_tax_saving_fd_Title": "టాక్స్ సేవింగ్ FD కాల్క్యులేటర్",
+  "Tool_tax_saving_fd_Description": "80C కింద 5-సంవత్సరాల టాక్స్-సేవర్ FD. బ్యాంక్ రేట్లు మరియు లాక్-ఇన్ రిటర్న్లు.",
+  "Tool_tax_saving_fd_Result_Maturity": "మెచ్యూరిటీ విలువ",
+  "Tool_tax_saving_fd_Result_Interest": "మొత్తం వడ్డీ",
+  "Tool_tax_saving_fd_Result_80c": "అంచనా 80C పన్ను ఆదా"
+}

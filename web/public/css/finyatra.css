@@ -438,17 +438,102 @@ body {
 /* ============================================================
    Footer
    ============================================================ */
-.fy-footer { border-top: 1px solid var(--fy-border); background: #fff; margin-top: auto; }
+.fy-footer {
+    position: relative;
+    border-top: 1px solid var(--fy-border);
+    background: #fff;
+    margin-top: auto;
+    overflow: hidden;
+}
+
+.fy-footer-watermark {
+    position: absolute;
+    left: 50%;
+    top: 42%;
+    transform: translate(-50%, -50%);
+    font-size: clamp(4.5rem, 14vw, 9.5rem);
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    color: rgba(15, 23, 42, 0.04);
+    pointer-events: none;
+    user-select: none;
+    white-space: nowrap;
+    z-index: 0;
+}
 
 .fy-footer-inner {
+    position: relative;
+    z-index: 1;
     max-width: 1180px;
     margin: 0 auto;
     width: 100%;
-    padding: 1.15rem 1.75rem 1.25rem;
+    padding: 2.25rem 1.75rem 1.35rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.fy-footer-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 1.5rem 2rem;
+}
+
+.fy-footer-col-title {
+    margin: 0 0 0.75rem;
+    font-size: 0.92rem;
+    font-weight: 800;
+    color: var(--fy-ink);
+    letter-spacing: -0.01em;
+}
+
+.fy-footer-col-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+}
+
+.fy-footer-col-links a {
+    text-decoration: none;
+    color: var(--fy-text-muted);
+    font-weight: 600;
+    font-size: 0.84rem;
+    line-height: 1.4;
+    transition: color 0.15s;
+}
+
+.fy-footer-col-links a:hover { color: var(--fy-accent-dark); }
+
+.fy-footer-more { font-weight: 700 !important; color: var(--fy-accent) !important; }
+.fy-footer-soon {
+    display: inline-block;
+    margin-left: 0.35rem;
+    font-size: 0.68rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--fy-text-muted);
+    opacity: 0.75;
+}
+
+.fy-footer-tagline {
+    margin: 0 0 0.85rem;
+    color: var(--fy-text-muted);
+    font-size: 0.84rem;
+    line-height: 1.55;
+    max-width: 16rem;
+}
+
+.fy-footer-bar {
+    border-top: 1px solid var(--fy-border);
+    padding-top: 1.1rem;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 0.75rem;
+    gap: 0.55rem;
     text-align: center;
 }
 
@@ -470,11 +555,25 @@ body {
     width: 100%;
 }
 
-.fy-footer-links a { text-decoration: none; color: var(--fy-text-muted); font-weight: 600; font-size: 0.86rem; padding: 0.2rem 0.45rem; border-radius: 999px; white-space: nowrap; }
+.fy-footer-links a { text-decoration: none; color: var(--fy-text-muted); font-weight: 600; font-size: 0.82rem; padding: 0.2rem 0.45rem; border-radius: 999px; white-space: nowrap; }
 .fy-footer-links a:hover { color: var(--fy-accent-dark); background: var(--fy-info-bg); }
 
-.fy-footer-meta { display: flex; align-items: center; justify-content: center; gap: 0.35rem; color: var(--fy-text-muted); font-weight: 600; font-size: 0.82rem; line-height: 1.45; text-align: center; }
+.fy-footer-meta { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 0.35rem; color: var(--fy-text-muted); font-weight: 600; font-size: 0.82rem; line-height: 1.45; text-align: center; }
+.fy-footer-dot { opacity: 0.45; }
+.fy-footer-disclaimer { margin: 0; color: var(--fy-text-muted); font-size: 0.78rem; opacity: 0.85; max-width: 42rem; line-height: 1.45; }
 .fy-footer-sep { color: var(--fy-text-muted); opacity: 0.6; font-weight: 800; }
+
+.fy-side-more { font-size: 0.82rem; opacity: 0.85; }
+
+@media (max-width: 960px) {
+    .fy-footer-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .fy-footer-col-brand { grid-column: 1 / -1; }
+}
+
+@media (max-width: 560px) {
+    .fy-footer-grid { grid-template-columns: 1fr; }
+    .fy-footer-watermark { font-size: 3.5rem; }
+}
 
 .fy-heart { display: inline-flex; color: #e11d48; }
 .fy-heart svg { animation: fyBeat 1.4s ease-in-out infinite; }
@@ -1238,6 +1337,26 @@ body {
 .fy-form-card h3 { margin: 0 0 0.85rem; font-size: 1rem; color: var(--fy-ink); font-weight: 800; }
 .fy-field { margin-bottom: 0.75rem; }
 .fy-field label { display: block; font-size: 0.8rem; font-weight: 700; color: var(--fy-ink); margin-bottom: 0.28rem; }
+.fy-field label:has(input[type="checkbox"]) {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.45rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+.fy-field input[type="checkbox"] {
+    width: auto;
+    margin-top: 0.15rem;
+    accent-color: var(--fy-accent);
+}
+.fy-field-hint {
+    margin: 0.35rem 0 0;
+    font-size: 0.75rem;
+    color: var(--fy-text-muted);
+    line-height: 1.4;
+    font-weight: 500;
+}
+.fy-tax-verdict { margin-bottom: 1rem; }
 
 .fy-field input,
 .fy-field select,

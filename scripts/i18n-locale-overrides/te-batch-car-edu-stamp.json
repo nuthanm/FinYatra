@@ -1,0 +1,15 @@
+{
+  "Tool_car_loan_emi_Title": "కార్ లోన్ EMI కాల్క్యులేటర్",
+  "Tool_car_loan_emi_Result_Emi": "నెలవారీ EMI",
+  "Tool_car_loan_emi_Result_Loan": "లోన్ మొత్తం",
+  "Tool_car_loan_emi_Result_Interest": "మొత్తం వడ్డీ",
+  "Tool_education_loan_Title": "ఎడ్యుకేషన్ లోన్ కాల్క్యులేటర్",
+  "Tool_education_loan_Result_Emi": "నెలవారీ EMI (కోర్సు తర్వాత)",
+  "Tool_education_loan_Result_TaxSaving": "అంచనా వార్షిక 80E పొదుపు",
+  "Tool_education_loan_TaxTitle": "సెక్షన్ 80E",
+  "Tool_stamp_duty_Title": "స్టాంప్ డ్యూటీ కాల్క్యులేటర్",
+  "Tool_stamp_duty_Result_Stamp": "స్టాంప్ డ్యూటీ",
+  "Tool_stamp_duty_Result_Registration": "రిజిస్ట్రేషన్",
+  "Tool_stamp_duty_Result_Total": "మొత్తం ఛార్జీలు",
+  "Tool_stamp_duty_State_tg": "తెలంగాణ"
+}

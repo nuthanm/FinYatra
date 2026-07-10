@@ -1,0 +1,17 @@
+{
+  "Tool_tcs_Title": "TCS கணிப்பான்",
+  "Tool_tcs_Description": "LRS பணம் அனுப்புதல், பொருள் விற்பனை மற்றும் ஸ்கிராப்பில் TCS — பிரிவு வாரியான விகிதங்கள்.",
+  "Tool_tcs_Result_Tcs": "TCS தொகை",
+  "Tool_tcs_Result_Net": "TCSக்குப் பின் நிகரம்",
+  "Tool_tcs_Result_Threshold": "வரம்பு",
+  "Tool_tds_on_property_Title": "சொத்தில் TDS கணிப்பான்",
+  "Tool_tds_on_property_Description": "பிரிவு 194IA: ₹50 லட்சத்திற்கு மேல் 1% TDS — கூட்டு வாங்குநர்கள் குறிப்பு.",
+  "Tool_tds_on_property_Result_Tds": "TDS தொகை",
+  "Tool_tds_on_property_Result_Net": "விற்பனையாளருக்கு நிகரம்",
+  "Tool_tds_on_property_Result_Share": "வாங்குநர் பங்கு",
+  "Tool_tds_on_rent_Title": "வாடகையில் TDS கணிப்பான்",
+  "Tool_tds_on_rent_Description": "பிரிவு 194IB: மாத வாடகை ₹50,000க்கு மேல் 2% TDS — ஆண்டு மற்றும் Form 26QC.",
+  "Tool_tds_on_rent_Result_MonthlyTds": "மாத TDS",
+  "Tool_tds_on_rent_Result_AnnualTds": "ஆண்டு TDS",
+  "Tool_tds_on_rent_Result_AnnualRent": "ஆண்டு வாடகை"
+}

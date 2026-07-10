@@ -1,0 +1,17 @@
+{
+  "Tool_home_loan_emi_Title": "வீட்டுக் கடன் ஈஎம்ஐ கணிப்பான்",
+  "Tool_home_loan_emi_Description": "வீட்டுக் கடன் ஈஎம்ஐ உடன் பிரிவு 24(b) மற்றும் 80C வரி நன்மை.",
+  "Tool_home_loan_emi_Result_Emi": "மாத ஈஎம்ஐ",
+  "Tool_home_loan_emi_Result_Interest": "மொத்த வட்டி",
+  "Tool_home_loan_emi_Result_TaxSaving": "மதிப்பிடப்பட்ட வரி சேமிப்பு / ஆண்டு",
+  "Tool_gratuity_Title": "கிரேச்சுவிட்டி கணிப்பான்",
+  "Tool_gratuity_Description": "5+ ஆண்டு சேவைக்குப் பிறகு கிரேச்சுவிட்டி. வரி விலக்கு ₹20 லட்சம் வரை.",
+  "Tool_gratuity_Result_Amount": "கிரேச்சுவிட்டி தொகை",
+  "Tool_gratuity_Result_Exempt": "வரி விலக்கு",
+  "Tool_gratuity_Result_Taxable": "வரி விதிக்கத்தக்க கிரேச்சுவிட்டி",
+  "Tool_nps_Title": "என்பிஎஸ் கணிப்பான்",
+  "Tool_nps_Description": "என்பிஎஸ் கார்பஸ் மற்றும் பென்ஷன் மதிப்பீடு. 80CCD வரி நன்மைகள்.",
+  "Tool_nps_Result_Corpus": "மதிப்பிடப்பட்ட கார்பஸ்",
+  "Tool_nps_Result_LumpSum": "ஒருமுறை தொகை (60%)",
+  "Tool_nps_Result_Pension": "மதிப்பிடப்பட்ட மாத பென்ஷன்"
+}

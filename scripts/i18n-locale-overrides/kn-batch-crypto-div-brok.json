@@ -1,0 +1,17 @@
+{
+  "Tool_crypto_tax_Title": "ಕ್ರಿಪ್ಟೋ ಟ್ಯಾಕ್ಸ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_crypto_tax_Description": "ವಿಭಾಗ 115BBH: ಕ್ರಿಪ್ಟೋ ಮೇಲೆ 30% ಫ್ಲಾಟ್ ತೆರಿಗೆ. ಸೆಟ್-ಆಫ್ ಇಲ್ಲ, 1% TDS.",
+  "Tool_crypto_tax_Result_Gain": "ಗೇನ್ / (ನಷ್ಟ)",
+  "Tool_crypto_tax_Result_Tax": "VDA ತೆರಿಗೆ (30%)",
+  "Tool_crypto_tax_Result_Tds": "TDS ಅಂದಾಜು",
+  "Tool_dividend_yield_Title": "ಡಿವಿಡೆಂಡ್ ಯೀಲ್ಡ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_dividend_yield_Description": "ಷೇರು ಡಿವಿಡೆಂಡ್ ಯೀಲ್ಡ್ ಮತ್ತು ಆದಾಯ. ಡಿವಿಡೆಂಡ್ vs ಬೆಳವಣಿಗೆ.",
+  "Tool_dividend_yield_Result_Yield": "ಡಿವಿಡೆಂಡ್ ಯೀಲ್ಡ್",
+  "Tool_dividend_yield_Result_Income": "ವಾರ್ಷಿಕ ಆದಾಯ",
+  "Tool_dividend_yield_Result_Dps": "ಡಿವಿಡೆಂಡ್ / ಷೇರು",
+  "Tool_brokerage_Title": "ಬ್ರೋಕರೇಜ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_brokerage_Description": "ಟ್ರೇಡಿಂಗ್ ಶುಲ್ಕ — ಬ್ರೋಕರೇಜ್, STT, GST. ಡೆಲಿವರಿ ಮತ್ತು ಇಂಟ್ರಾಡೇ.",
+  "Tool_brokerage_Result_Charges": "ಒಟ್ಟು ಶುಲ್ಕ",
+  "Tool_brokerage_Result_Net": "ನಿವ್ವಳ ಆದಾಯ",
+  "Tool_brokerage_Result_Brokerage": "ಬ್ರೋಕರೇಜ್"
+}

@@ -1,8 +1,8 @@
-import { ComingSoonPage } from "@/components/pages/ComingSoonPage";
-import { pageMetadata } from "@/lib/seo/metadata";
+import { CagrCalculator } from "@/components/calculators/CagrCalculator";
+import { toolMetadata } from "@/lib/seo/metadata";
 
-export const metadata = pageMetadata("Page_ComingSoon_PageTitle", "Page_ComingSoon_Description");
+export const metadata = toolMetadata("Tool_cagr_Title", "Tool_cagr_Description");
 
 export default function CagrPage() {
-  return <ComingSoonPage toolKey="cagr" />;
+  return <CagrCalculator />;
 }

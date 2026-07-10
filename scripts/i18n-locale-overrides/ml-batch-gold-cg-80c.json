@@ -1,0 +1,18 @@
+{
+  "Tool_gold_loan_Title": "ഗോൾഡ് ലോൺ കാൽക്കുലേറ്റർ",
+  "Tool_gold_loan_Description": "സ്വർണ്ണ ആഭരണത്തിൽ ലോൺ. 75% LTV, ബാങ്ക് vs NBFC നിരക്ക് താരതമ്യം.",
+  "Tool_gold_loan_Result_MaxLoan": "പരമാവധി ലോൺ",
+  "Tool_gold_loan_Result_Emi": "മാസിക EMI",
+  "Tool_gold_loan_Result_Interest": "മൊത്തം പലിശ",
+  "Tool_capital_gains_tax_Title": "ക്യാപിറ്റൽ ഗെയിൻസ് ടാക്സ് കാൽക്കുലേറ്റർ",
+  "Tool_capital_gains_tax_Description": "സ്വത്ത്, ഷെയർ, MF, സ്വർണ്ണത്തിൽ LTCG/STCG. സെക്ഷൻ 54/54EC ഒഴിവുകൾ.",
+  "Tool_capital_gains_tax_Result_Gain": "ക്യാപിറ്റൽ ഗെയിൻ",
+  "Tool_capital_gains_tax_Result_Taxable": "നികുതി വിധേയ ഗെയിൻ",
+  "Tool_capital_gains_tax_Result_Tax": "കണക്കാക്കിയ നികുതി",
+  "Tool_section_80c_Title": "സെക്ഷൻ 80C കാൽക്കുലേറ്റർ",
+  "Tool_section_80c_Description": "₹1.5 ലക്ഷം നികുതി ലാഭ പദ്ധതി. PPF, ELSS, NSC എന്നിവയും കൂടുതലും.",
+  "Tool_section_80c_Result_Eligible": "യോഗ്യമായ കിഴിവ്",
+  "Tool_section_80c_Result_Saving": "കണക്കാക്കിയ നികുതി ലാഭം",
+  "Tool_section_80c_Result_Unused": "ഉപയോഗിക്കാത്ത പരിധി",
+  "Tool_section_80c_Result_Over": "പരിധി കവിഞ്ഞു"
+}

@@ -1,0 +1,18 @@
+{
+  "Tool_gold_loan_Title": "गोल्ड लोन कैलकुलेटर",
+  "Tool_gold_loan_Description": "सोने के जेवर पर लोन। 75% LTV, बैंक बनाम NBFC दर तुलना।",
+  "Tool_gold_loan_Result_MaxLoan": "अधिकतम लोन",
+  "Tool_gold_loan_Result_Emi": "मासिक EMI",
+  "Tool_gold_loan_Result_Interest": "कुल ब्याज",
+  "Tool_capital_gains_tax_Title": "कैपिटल गेन्स टैक्स कैलकुलेटर",
+  "Tool_capital_gains_tax_Description": "संपत्ति, शेयर, MF, सोने पर LTCG/STCG। धारा 54/54EC छूट।",
+  "Tool_capital_gains_tax_Result_Gain": "कैपिटल गेन",
+  "Tool_capital_gains_tax_Result_Taxable": "करयोग्य गेन",
+  "Tool_capital_gains_tax_Result_Tax": "अनुमानित कर",
+  "Tool_section_80c_Title": "धारा 80C कैलकुलेटर",
+  "Tool_section_80c_Description": "₹1.5 लाख टैक्स बचत योजना। PPF, ELSS, NSC और अधिक।",
+  "Tool_section_80c_Result_Eligible": "पात्र कटौती",
+  "Tool_section_80c_Result_Saving": "अनुमानित टैक्स बचत",
+  "Tool_section_80c_Result_Unused": "अप्रयुक्त सीमा",
+  "Tool_section_80c_Result_Over": "सीमा से अधिक"
+}

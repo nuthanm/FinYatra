@@ -1,0 +1,18 @@
+{
+  "Tool_gold_loan_Title": "ಗೋಲ್ಡ್ ಲೋನ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_gold_loan_Description": "ಚಿನ್ನದ ಆಭರಣದ ಮೇಲೆ ಸಾಲ. 75% LTV, ಬ್ಯಾಂಕ್ vs NBFC ದರ ಹೋಲಿಕೆ.",
+  "Tool_gold_loan_Result_MaxLoan": "ಗರಿಷ್ಠ ಸಾಲ",
+  "Tool_gold_loan_Result_Emi": "ಮಾಸಿಕ EMI",
+  "Tool_gold_loan_Result_Interest": "ಒಟ್ಟು ಬಡ್ಡಿ",
+  "Tool_capital_gains_tax_Title": "ಕ್ಯಾಪಿಟಲ್ ಗೇನ್ಸ್ ಟ್ಯಾಕ್ಸ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_capital_gains_tax_Description": "ಆಸ್ತಿ, ಷೇರು, MF, ಚಿನ್ನದ ಮೇಲೆ LTCG/STCG. ವಿಭಾಗ 54/54EC ವಿನಾಯಿತಿ.",
+  "Tool_capital_gains_tax_Result_Gain": "ಕ್ಯಾಪಿಟಲ್ ಗೇನ್",
+  "Tool_capital_gains_tax_Result_Taxable": "ತೆರಿಗೆ ವಿಧಿಸಬಹುದಾದ ಗೇನ್",
+  "Tool_capital_gains_tax_Result_Tax": "ಅಂದಾಜು ತೆರಿಗೆ",
+  "Tool_section_80c_Title": "ವಿಭಾಗ 80C ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_section_80c_Description": "₹1.5 ಲಕ್ಷ ತೆರಿಗೆ ಉಳಿತಾಯ ಯೋಜನೆ. PPF, ELSS, NSC ಮತ್ತು ಹೆಚ್ಚು.",
+  "Tool_section_80c_Result_Eligible": "ಅರ್ಹ ಕಡಿತ",
+  "Tool_section_80c_Result_Saving": "ಅಂದಾಜು ತೆರಿಗೆ ಉಳಿತಾಯ",
+  "Tool_section_80c_Result_Unused": "ಬಳಸದ ಮಿತಿ",
+  "Tool_section_80c_Result_Over": "ಮಿತಿ ಮೀರಿದೆ"
+}

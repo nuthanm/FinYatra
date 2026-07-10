@@ -1,0 +1,15 @@
+{
+  "Tool_car_loan_emi_Title": "கார் கடன் EMI கணக்கிடுபொறி",
+  "Tool_car_loan_emi_Result_Emi": "மாதாந்திர EMI",
+  "Tool_car_loan_emi_Result_Loan": "கடன் தொகை",
+  "Tool_car_loan_emi_Result_Interest": "மொத்த வட்டி",
+  "Tool_education_loan_Title": "கல்விக் கடன் கணக்கிடுபொறி",
+  "Tool_education_loan_Result_Emi": "மாதாந்திர EMI (பாடத்திற்குப் பின்)",
+  "Tool_education_loan_Result_TaxSaving": "மதிப்பிடப்பட்ட ஆண்டு 80E சேமிப்பு",
+  "Tool_education_loan_TaxTitle": "பிரிவு 80E",
+  "Tool_stamp_duty_Title": "முத்திரைத் தீர்வை கணக்கிடுபொறி",
+  "Tool_stamp_duty_Result_Stamp": "முத்திரைத் தீர்வை",
+  "Tool_stamp_duty_Result_Registration": "பதிவுக் கட்டணம்",
+  "Tool_stamp_duty_Result_Total": "மொத்தக் கட்டணங்கள்",
+  "Tool_stamp_duty_State_tn": "தமிழ்நாடு"
+}

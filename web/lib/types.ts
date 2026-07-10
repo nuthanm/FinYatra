@@ -33,7 +33,18 @@ export type ToolInfo = {
   formulaBlocks: FormulaBlock[];
 };
 
-export type ToolGroup = "Planning" | "Investing" | "Loans" | "Basics";
+export type ToolGroup =
+  | "Planning"
+  | "Investing"
+  | "Loans"
+  | "Basics"
+  | "Tax"
+  | "Government"
+  | "Salary"
+  | "Property"
+  | "Insurance";
+
+export type ToolRegion = "global" | "in";
 
 export type ToolLink = {
   key: string;
@@ -43,4 +54,5 @@ export type ToolLink = {
   descriptionKey: string;
   icon: string;
   comingSoon?: boolean;
+  region?: ToolRegion;
 };

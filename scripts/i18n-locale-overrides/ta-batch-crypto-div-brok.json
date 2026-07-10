@@ -1,0 +1,17 @@
+{
+  "Tool_crypto_tax_Title": "கிரிப்டோ வரி கணிப்பான்",
+  "Tool_crypto_tax_Description": "பிரிவு 115BBH: கிரிப்டோவில் 30% தட்டையான வரி. செட்-ஆஃப் இல்லை, 1% TDS.",
+  "Tool_crypto_tax_Result_Gain": "ஆதாயம் / (இழப்பு)",
+  "Tool_crypto_tax_Result_Tax": "VDA வரி (30%)",
+  "Tool_crypto_tax_Result_Tds": "TDS மதிப்பீடு",
+  "Tool_dividend_yield_Title": "டிவிடெண்ட் யீல்ட் கணிப்பான்",
+  "Tool_dividend_yield_Description": "பங்கு டிவிடெண்ட் யீல்ட் மற்றும் வருமானம். டிவிடெண்ட் vs வளர்ச்சி.",
+  "Tool_dividend_yield_Result_Yield": "டிவிடெண்ட் யீல்ட்",
+  "Tool_dividend_yield_Result_Income": "ஆண்டு வருமானம்",
+  "Tool_dividend_yield_Result_Dps": "டிவிடெண்ட் / பங்கு",
+  "Tool_brokerage_Title": "புரோக்கரேஜ் கணிப்பான்",
+  "Tool_brokerage_Description": "வர்த்தக கட்டணங்கள் — புரோக்கரேஜ், STT, GST. டெலிவரி மற்றும் இன்ட்ராடே.",
+  "Tool_brokerage_Result_Charges": "மொத்த கட்டணங்கள்",
+  "Tool_brokerage_Result_Net": "நிகர வரவு",
+  "Tool_brokerage_Result_Brokerage": "புரோக்கரேஜ்"
+}

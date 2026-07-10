@@ -1,0 +1,15 @@
+{
+  "Tool_car_loan_emi_Title": "ಕಾರ್ ಸಾಲ EMI ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_car_loan_emi_Result_Emi": "ಮಾಸಿಕ EMI",
+  "Tool_car_loan_emi_Result_Loan": "ಸಾಲದ ಮೊತ್ತ",
+  "Tool_car_loan_emi_Result_Interest": "ಒಟ್ಟು ಬಡ್ಡಿ",
+  "Tool_education_loan_Title": "ಶಿಕ್ಷಣ ಸಾಲ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_education_loan_Result_Emi": "ಮಾಸಿಕ EMI (ಕೋರ್ಸ್ ನಂತರ)",
+  "Tool_education_loan_Result_TaxSaving": "ಅಂದಾಜು ವಾರ್ಷಿಕ 80E ಉಳಿತಾಯ",
+  "Tool_education_loan_TaxTitle": "ವಿಭಾಗ 80E",
+  "Tool_stamp_duty_Title": "ಸ್ಟಾಂಪ್ ಡ್ಯೂಟಿ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_stamp_duty_Result_Stamp": "ಸ್ಟಾಂಪ್ ಡ್ಯೂಟಿ",
+  "Tool_stamp_duty_Result_Registration": "ನೋಂದಣಿ",
+  "Tool_stamp_duty_Result_Total": "ಒಟ್ಟು ಶುಲ್ಕಗಳು",
+  "Tool_stamp_duty_State_ka": "ಕರ್ನಾಟಕ"
+}

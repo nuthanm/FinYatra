@@ -1,0 +1,12 @@
+{
+  "Tool_epf_Title": "ഇപിഎഫ് കാൽക്കുലേറ്റർ",
+  "Tool_epf_Result_Corpus": "കണക്കാക്കിയ ഇപിഎഫ് കോർപ്പസ്",
+  "Tool_epf_Result_Interest": "പലിശ",
+  "Tool_sukanya_samriddhi_Title": "സുകന്യ സമൃദ്ധി കാൽക്കുലേറ്റർ",
+  "Tool_sukanya_samriddhi_Result_Maturity": "21-ാം വർഷ മെച്യൂരിറ്റി",
+  "Tool_sukanya_samriddhi_Result_Interest": "പലിശ",
+  "Tool_scss_Title": "എസ്‌സിഎസ്‌എസ് കാൽക്കുലേറ്റർ",
+  "Tool_scss_Result_Quarterly": "ത്രൈമാസിക പലിശ",
+  "Tool_scss_Result_Annual": "വാർഷിക പലിശ",
+  "Tool_scss_Result_TotalInterest": "ആകെ പലിശ"
+}

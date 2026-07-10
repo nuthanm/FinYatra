@@ -1,0 +1,17 @@
+{
+  "Tool_crypto_tax_Title": "క్రిప్టో టాక్స్ కాల్క్యులేటర్",
+  "Tool_crypto_tax_Description": "సెక్షన్ 115BBH: క్రిప్టోపై 30% ఫ్లాట్ పన్ను. సెట్-ఆఫ్ లేదు, 1% TDS.",
+  "Tool_crypto_tax_Result_Gain": "గెయిన్ / (నష్టం)",
+  "Tool_crypto_tax_Result_Tax": "VDA పన్ను (30%)",
+  "Tool_crypto_tax_Result_Tds": "TDS అంచనా",
+  "Tool_dividend_yield_Title": "డివిడెండ్ యీల్డ్ కాల్క్యులేటర్",
+  "Tool_dividend_yield_Description": "స్టాక్ డివిడెండ్ యీల్డ్ మరియు ఆదాయం. డివిడెండ్ vs గ్రోత్.",
+  "Tool_dividend_yield_Result_Yield": "డివిడెండ్ యీల్డ్",
+  "Tool_dividend_yield_Result_Income": "వార్షిక ఆదాయం",
+  "Tool_dividend_yield_Result_Dps": "డివిడెండ్ / షేర్",
+  "Tool_brokerage_Title": "బ్రోకరేజ్ కాల్క్యులేటర్",
+  "Tool_brokerage_Description": "ట్రేడింగ్ ఛార్జీలు — బ్రోకరేజ్, STT, GST. డెలివరీ మరియు ఇంట్రాడే.",
+  "Tool_brokerage_Result_Charges": "మొత్తం ఛార్జీలు",
+  "Tool_brokerage_Result_Net": "నికర రాబడి",
+  "Tool_brokerage_Result_Brokerage": "బ్రోకరేజ్"
+}

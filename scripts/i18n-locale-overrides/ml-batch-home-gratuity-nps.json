@@ -1,0 +1,17 @@
+{
+  "Tool_home_loan_emi_Title": "ഹോം ലോൺ ഇഎംഐ കാൽക്കുലേറ്റർ",
+  "Tool_home_loan_emi_Description": "ഹോം ലോൺ ഇഎംഐയും സെക്ഷൻ 24(b), 80C നികുതി ആനുകൂല്യവും.",
+  "Tool_home_loan_emi_Result_Emi": "മാസ ഇഎംഐ",
+  "Tool_home_loan_emi_Result_Interest": "ആകെ പലിശ",
+  "Tool_home_loan_emi_Result_TaxSaving": "കണക്കാക്കിയ നികുതി ലാഭം / വർഷം",
+  "Tool_gratuity_Title": "ഗ്രാറ്റ്യുവിറ്റി കാൽക്കുലേറ്റർ",
+  "Tool_gratuity_Description": "5+ വർഷ സേവനത്തിന് ശേഷം ഗ്രാറ്റ്യുവിറ്റി. നികുതി ഇളവ് ₹20 ലക്ഷം വരെ.",
+  "Tool_gratuity_Result_Amount": "ഗ്രാറ്റ്യുവിറ്റി തുക",
+  "Tool_gratuity_Result_Exempt": "നികുതി രഹിതം",
+  "Tool_gratuity_Result_Taxable": "നികുതി വിധേയ ഗ്രാറ്റ്യുവിറ്റി",
+  "Tool_nps_Title": "എൻപിഎസ് കാൽക്കുലേറ്റർ",
+  "Tool_nps_Description": "എൻപിഎസ് കോർപ്പസും പെൻഷനും. 80CCD നികുതി ആനുകൂല്യങ്ങൾ.",
+  "Tool_nps_Result_Corpus": "കണക്കാക്കിയ കോർപ്പസ്",
+  "Tool_nps_Result_LumpSum": "ലംപ് സം (60%)",
+  "Tool_nps_Result_Pension": "കണക്കാക്കിയ മാസ പെൻഷൻ"
+}

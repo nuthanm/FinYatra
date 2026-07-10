@@ -44,7 +44,7 @@ export function HomePage() {
 
           <div className="fy-hero-stats">
             <div className="fy-stat">
-              <div className="fy-stat-value">8+</div>
+              <div className="fy-stat-value">200+</div>
               <div className="fy-stat-label">{t("Home_StatTools")}</div>
             </div>
             <div className="fy-stat">
@@ -122,7 +122,17 @@ export function HomePage() {
   );
 }
 
-const GROUPS: ToolGroup[] = ["Planning", "Investing", "Loans", "Basics"];
+const GROUPS: ToolGroup[] = [
+  "Planning",
+  "Investing",
+  "Loans",
+  "Basics",
+  "Tax",
+  "Government",
+  "Salary",
+  "Property",
+  "Insurance",
+];
 
 export function ToolsPage({ group }: { group?: string }) {
   const t = useT();

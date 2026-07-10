@@ -4,10 +4,17 @@ import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
 import { useState, type FormEvent, type ReactNode } from "react";
 import { FyIcon } from "@/components/FyIcon";
+import { Footer } from "@/components/layout/Footer";
 import { ScrollNav } from "@/components/layout/ScrollNav";
 import { useI18n } from "@/components/providers/I18nProvider";
 import { SUPPORTED, type Locale } from "@/lib/i18n";
-import { TOOLS } from "@/lib/config/tools";
+import {
+  TOOL_GROUPS,
+  TOOLS,
+  groupLabelKey,
+  sidebarToolsForGroup,
+  toolsByGroup,
+} from "@/lib/config/tools";
 
 function NavLink({ href, title, children, matchAll }: { href: string; title: string; children: ReactNode; matchAll?: boolean }) {
   const pathname = usePathname();
@@ -25,7 +32,6 @@ export function AppShell({ children }: { children: ReactNode }) {
   const [navOpen, setNavOpen] = useState(false);
   const [collapsed, setCollapsed] = useState(false);
   const [query, setQuery] = useState("");
-  const year = new Date().getFullYear();
 
   const onSearch = (e: FormEvent) => {
     e.preventDefault();
@@ -41,6 +47,8 @@ export function AppShell({ children }: { children: ReactNode }) {
     router.push(`/search?q=${encodeURIComponent(q)}`);
     setNavOpen(false);
   };
+
+  const calculatorGroups = TOOL_GROUPS;
 
   return (
     <div className={`fy-shell${navOpen ? " fy-nav-open" : ""}${collapsed ? " fy-collapsed" : ""}`}>
@@ -98,48 +106,26 @@ export function AppShell({ children }: { children: ReactNode }) {
                 <FyIcon name="grid" /> <span>{t("Nav_AllTools")}</span>
               </NavLink>
             </div>
-            <div className="fy-side-group">
-              <div className="fy-side-label">{t("Group_Planning")}</div>
-              <NavLink href="/goal" title={t("Nav_GoalPlanner")}>
-                <FyIcon name="target" /> <span>{t("Nav_GoalPlanner")}</span>
-              </NavLink>
-              <NavLink href="/fire" title={t("Nav_Fire")}>
-                <FyIcon name="flame" /> <span>{t("Nav_Fire")}</span>
-              </NavLink>
-              <NavLink href="/fd-laddering" title={t("Nav_FdLaddering")}>
-                <FyIcon name="layers" /> <span>{t("Nav_FdLaddering")}</span>
-              </NavLink>
-            </div>
-            <div className="fy-side-group">
-              <div className="fy-side-label">{t("Group_Investing")}</div>
-              <NavLink href="/sip" title={t("Nav_Sip")}>
-                <FyIcon name="trending-up" /> <span>{t("Nav_Sip")}</span>
-              </NavLink>
-              <NavLink href="/cagr" title={t("Nav_Cagr")}>
-                <FyIcon name="percent" /> <span>{t("Nav_Cagr")}</span> <span className="fy-side-soon">{t("Label_Soon")}</span>
-              </NavLink>
-              <NavLink href="/lumpsum" title={t("Nav_Lumpsum")}>
-                <FyIcon name="box" /> <span>{t("Nav_Lumpsum")}</span> <span className="fy-side-soon">{t("Label_Soon")}</span>
-              </NavLink>
-            </div>
-            <div className="fy-side-group">
-              <div className="fy-side-label">{t("Group_Loans")}</div>
-              <NavLink href="/emi" title={t("Nav_Emi")}>
-                <FyIcon name="card" /> <span>{t("Nav_Emi")}</span>
-              </NavLink>
-              <NavLink href="/mortgage" title={t("Nav_Mortgage")}>
-                <FyIcon name="bank" /> <span>{t("Nav_Mortgage")}</span> <span className="fy-side-soon">{t("Label_Soon")}</span>
-              </NavLink>
-            </div>
-            <div className="fy-side-group">
-              <div className="fy-side-label">{t("Group_Basics")}</div>
-              <NavLink href="/inflation" title={t("Nav_Inflation")}>
-                <FyIcon name="clock" /> <span>{t("Nav_Inflation")}</span>
-              </NavLink>
-              <NavLink href="/compound-interest" title={t("Nav_CompoundInterest")}>
-                <FyIcon name="refresh" /> <span>{t("Nav_CompoundInterest")}</span> <span className="fy-side-soon">{t("Label_Soon")}</span>
-              </NavLink>
-            </div>
+
+            {calculatorGroups.map((group) => {
+              const preview = sidebarToolsForGroup(group);
+              const allInGroup = toolsByGroup(group);
+              if (!allInGroup.length) return null;
+              return (
+                <div key={group} className="fy-side-group">
+                  <div className="fy-side-label">{t(groupLabelKey(group))}</div>
+                  {preview.map((tool) => (
+                    <NavLink key={tool.key} href={tool.route} title={t(tool.titleKey)}>
+                      <FyIcon name={tool.icon} /> <span>{t(tool.titleKey)}</span>
+                    </NavLink>
+                  ))}
+                  <NavLink href={`/tools/${group}`} title={t("Nav_ViewGroup", t(groupLabelKey(group)))}>
+                    <FyIcon name="chevron-right" /> <span className="fy-side-more">{t("Nav_ViewGroup", t(groupLabelKey(group)))}</span>
+                  </NavLink>
+                </div>
+              );
+            })}
+
             <div className="fy-side-group">
               <div className="fy-side-label">{t("Group_More")}</div>
               <NavLink href="/about" title={t("Nav_About")}>
@@ -165,33 +151,7 @@ export function AppShell({ children }: { children: ReactNode }) {
 
         <div className="fy-content">
           <main className="fy-main">{children}</main>
-          <footer className="fy-footer">
-            <div className="fy-footer-inner">
-              <div className="fy-footer-top">
-                <div className="fy-footer-meta">
-                  <span>
-                    {t("Footer_MadeWith")} <strong>Nuthan Murarysetty</strong>
-                  </span>
-                </div>
-                <div className="fy-footer-meta">
-                  <span>
-                    © {year} {t("Footer_Rights")}
-                  </span>
-                </div>
-              </div>
-              <nav className="fy-footer-links" aria-label={t("Nav_FooterAria")}>
-                <Link href="/about">{t("Footer_About")}</Link>
-                <span className="fy-footer-sep">|</span>
-                <Link href="/contact">{t("Footer_Contact")}</Link>
-                <span className="fy-footer-sep">|</span>
-                <Link href="/sitemap">{t("Footer_Sitemap")}</Link>
-                <span className="fy-footer-sep">|</span>
-                <Link href="/privacy">{t("Footer_Privacy")}</Link>
-                <span className="fy-footer-sep">|</span>
-                <Link href="/terms">{t("Footer_Terms")}</Link>
-              </nav>
-            </div>
-          </footer>
+          <Footer />
         </div>
       </div>
       <ScrollNav />

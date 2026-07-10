@@ -1,0 +1,17 @@
+{
+  "Tool_tcs_Title": "TCS कैलकुलेटर",
+  "Tool_tcs_Description": "LRS प्रेषण, माल की बिक्री और स्क्रैप पर TCS — अनुभाग-वार दरें।",
+  "Tool_tcs_Result_Tcs": "TCS राशि",
+  "Tool_tcs_Result_Net": "TCS के बाद नेट",
+  "Tool_tcs_Result_Threshold": "सीमा",
+  "Tool_tds_on_property_Title": "संपत्ति पर TDS कैलकुलेटर",
+  "Tool_tds_on_property_Description": "धारा 194IA: ₹50 लाख से अधिक पर 1% TDS — संयुक्त खरीदार नोट।",
+  "Tool_tds_on_property_Result_Tds": "TDS राशि",
+  "Tool_tds_on_property_Result_Net": "विक्रेता को नेट",
+  "Tool_tds_on_property_Result_Share": "प्रति खरीदार हिस्सा",
+  "Tool_tds_on_rent_Title": "किराए पर TDS कैलकुलेटर",
+  "Tool_tds_on_rent_Description": "धारा 194IB: मासिक किराया ₹50,000 से अधिक पर 2% TDS — वार्षिक और Form 26QC।",
+  "Tool_tds_on_rent_Result_MonthlyTds": "मासिक TDS",
+  "Tool_tds_on_rent_Result_AnnualTds": "वार्षिक TDS",
+  "Tool_tds_on_rent_Result_AnnualRent": "वार्षिक किराया"
+}

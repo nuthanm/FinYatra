@@ -21,6 +21,11 @@ export function buildSearchSuggestions(query: string, results: ToolLink[]): Tool
   if (q.includes("sip") || q.includes("invest") || q.includes("cagr") || q.includes("mf")) hint = "Investing";
   else if (q.includes("emi") || q.includes("loan") || q.includes("mortgage")) hint = "Loans";
   else if (q.includes("inflation") || q.includes("interest") || q.includes("compound")) hint = "Basics";
+  else if (q.includes("tax") || q.includes("gst") || q.includes("tds") || q.includes("hra")) hint = "Tax";
+  else if (q.includes("ppf") || q.includes("nps") || q.includes("epf") || q.includes("gov")) hint = "Government";
+  else if (q.includes("salary") || q.includes("bonus") || q.includes("ctc")) hint = "Salary";
+  else if (q.includes("property") || q.includes("rent") || q.includes("stamp")) hint = "Property";
+  else if (q.includes("insurance") || q.includes("lic") || q.includes("premium")) hint = "Insurance";
   else if (q.includes("goal") || q.includes("fire") || q.includes("fd")) hint = "Planning";
 
   const baseList = TOOLS.filter((t) => !t.comingSoon);

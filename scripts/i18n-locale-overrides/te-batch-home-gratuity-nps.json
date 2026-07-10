@@ -1,0 +1,17 @@
+{
+  "Tool_home_loan_emi_Title": "హోమ్ లోన్ ఈఎంఐ కాల్క్యులేటర్",
+  "Tool_home_loan_emi_Description": "హోమ్ లోన్ ఈఎంఐతో సెక్షన్ 24(b) మరియు 80C పన్ను ప్రయోజనం.",
+  "Tool_home_loan_emi_Result_Emi": "నెలవారీ ఈఎంఐ",
+  "Tool_home_loan_emi_Result_Interest": "మొత్తం వడ్డీ",
+  "Tool_home_loan_emi_Result_TaxSaving": "అంచనా పన్ను ఆదా / సంవత్సరం",
+  "Tool_gratuity_Title": "గ్రాట్యుటీ కాల్క్యులేటర్",
+  "Tool_gratuity_Description": "5+ సంవత్సరాల సేవ తర్వాత గ్రాట్యుటీ అంచనా. పన్ను మినహాయింపు ₹20 లక్షల వరకు.",
+  "Tool_gratuity_Result_Amount": "గ్రాట్యుటీ మొత్తం",
+  "Tool_gratuity_Result_Exempt": "పన్ను రహితం",
+  "Tool_gratuity_Result_Taxable": "పన్ను విధించదగిన గ్రాట్యుటీ",
+  "Tool_nps_Title": "ఎన్‌పిఎస్ కాల్క్యులేటర్",
+  "Tool_nps_Description": "ఎన్‌పిఎస్ కార్పస్ మరియు పెన్షన్ అంచనా. 80CCD పన్ను ప్రయోజనాలు.",
+  "Tool_nps_Result_Corpus": "అంచనా కార్పస్",
+  "Tool_nps_Result_LumpSum": "లంప్ సమ్ (60%)",
+  "Tool_nps_Result_Pension": "అంచనా నెలవారీ పెన్షన్"
+}

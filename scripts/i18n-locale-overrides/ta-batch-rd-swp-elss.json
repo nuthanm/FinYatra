@@ -1,0 +1,15 @@
+{
+  "Tool_rd_Title": "ஆர்டி கணிப்பான்",
+  "Tool_rd_Description": "தொடர் வைப்பு முதிர்வு — காலாண்டு கூட்டு வட்டி.",
+  "Tool_rd_Result_Maturity": "முதிர்வு தொகை",
+  "Tool_rd_Result_Interest": "வட்டி",
+  "Tool_swp_Title": "எஸ்டபிள்யூபி கணிப்பான்",
+  "Tool_swp_Description": "மியூச்சுவல் ஃபண்டிலிருந்து முறையான எடுப்பு. கார்பஸ் எவ்வளவு காலம் நீடிக்கும்?",
+  "Tool_swp_Result_Ending": "இறுதி கார்பஸ்",
+  "Tool_swp_Result_Withdrawn": "மொத்த எடுப்பு",
+  "Tool_elss_Title": "ஈஎல்எஸ்எஸ் கணிப்பான்",
+  "Tool_elss_Description": "வரி சேமிப்பு மியூச்சுவல் ஃபண்ட். 80C, 3-ஆண்டு பூட்டு.",
+  "Tool_elss_Result_Maturity": "மதிப்பிடப்பட்ட மதிப்பு",
+  "Tool_elss_Result_PostTax": "எல்டிசிஜிக்குப் பிறகு",
+  "Tool_elss_Result_80c": "ஆண்டு 80C தொகை"
+}

@@ -1,0 +1,17 @@
+{
+  "Tool_section_80d_Title": "धारा 80D कैलकुलेटर",
+  "Tool_section_80d_Description": "स्वास्थ्य बीमा प्रीमियम कर लाभ। स्वयं + माता-पिता कटौती ₹1 लाख तक।",
+  "Tool_section_80d_Result_Eligible": "पात्र कटौती",
+  "Tool_section_80d_Result_Saving": "अनुमानित टैक्स बचत",
+  "Tool_section_80d_Result_Preventive": "निवारक जांच गिनी गई",
+  "Tool_nsc_Title": "NSC कैलकुलेटर",
+  "Tool_nsc_Description": "राष्ट्रीय बचत प्रमाणपत्र परिपक्वता ~7.7%। 5 वर्ष लॉक-इन, 80C लाभ।",
+  "Tool_nsc_Result_Maturity": "परिपक्वता मूल्य",
+  "Tool_nsc_Result_Interest": "कुल ब्याज",
+  "Tool_nsc_Result_80c": "80C के लिए जमा",
+  "Tool_tax_saving_fd_Title": "टैक्स सेविंग FD कैलकुलेटर",
+  "Tool_tax_saving_fd_Description": "80C के तहत 5-वर्षीय टैक्स-सेवर FD। बैंक दर और लॉक-इन रिटर्न।",
+  "Tool_tax_saving_fd_Result_Maturity": "परिपक्वता मूल्य",
+  "Tool_tax_saving_fd_Result_Interest": "कुल ब्याज",
+  "Tool_tax_saving_fd_Result_80c": "अनुमानित 80C टैक्स बचत"
+}

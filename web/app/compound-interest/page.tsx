@@ -1,8 +1,8 @@
-import { ComingSoonPage } from "@/components/pages/ComingSoonPage";
-import { pageMetadata } from "@/lib/seo/metadata";
+import { CompoundInterestCalculator } from "@/components/calculators/CompoundInterestCalculator";
+import { toolMetadata } from "@/lib/seo/metadata";
 
-export const metadata = pageMetadata("Page_ComingSoon_PageTitle", "Page_ComingSoon_Description");
+export const metadata = toolMetadata("Tool_interest_Title", "Tool_interest_Description");
 
 export default function CompoundInterestPage() {
-  return <ComingSoonPage toolKey="interest" />;
+  return <CompoundInterestCalculator />;
 }

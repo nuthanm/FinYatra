@@ -1,0 +1,17 @@
+{
+  "Tool_tcs_Title": "TCS ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_tcs_Description": "LRS ರೆಮಿಟೆನ್ಸ್, ಸರಕು ಮಾರಾಟ ಮತ್ತು ಸ್ಕ್ರ್ಯಾಪ್‌ನಲ್ಲಿ TCS — ವಿಭಾಗವಾರು ದರಗಳು.",
+  "Tool_tcs_Result_Tcs": "TCS ಮೊತ್ತ",
+  "Tool_tcs_Result_Net": "TCS ನಂತರ ನಿವ್ವಳ",
+  "Tool_tcs_Result_Threshold": "ಮಿತಿ",
+  "Tool_tds_on_property_Title": "ಆಸ್ತಿಯಲ್ಲಿ TDS ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_tds_on_property_Description": "ವಿಭಾಗ 194IA: ₹50 ಲಕ್ಷಕ್ಕಿಂತ ಹೆಚ್ಚು 1% TDS — ಜಂಟಿ ಖರೀದಿದಾರರ ಟಿಪ್ಪಣಿ.",
+  "Tool_tds_on_property_Result_Tds": "TDS ಮೊತ್ತ",
+  "Tool_tds_on_property_Result_Net": "ಮಾರಾಟಗಾರರಿಗೆ ನಿವ್ವಳ",
+  "Tool_tds_on_property_Result_Share": "ಪ್ರತಿ ಖರೀದಿದಾರರ ಪಾಲು",
+  "Tool_tds_on_rent_Title": "ಬಾಡಿಗೆಯಲ್ಲಿ TDS ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_tds_on_rent_Description": "ವಿಭಾಗ 194IB: ಮಾಸಿಕ ಬಾಡಿಗೆ ₹50,000ಕ್ಕಿಂತ ಹೆಚ್ಚು 2% TDS — ವಾರ್ಷಿಕ ಮತ್ತು Form 26QC.",
+  "Tool_tds_on_rent_Result_MonthlyTds": "ಮಾಸಿಕ TDS",
+  "Tool_tds_on_rent_Result_AnnualTds": "ವಾರ್ಷಿಕ TDS",
+  "Tool_tds_on_rent_Result_AnnualRent": "ವಾರ್ಷಿಕ ಬಾಡಿಗೆ"
+}

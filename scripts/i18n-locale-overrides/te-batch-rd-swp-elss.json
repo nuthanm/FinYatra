@@ -1,0 +1,15 @@
+{
+  "Tool_rd_Title": "ఆర్డి కాల్క్యులేటర్",
+  "Tool_rd_Description": "రికరింగ్ డిపాజిట్ మెచ్యూరిటీ — త్రైమాసిక కాంపౌండింగ్.",
+  "Tool_rd_Result_Maturity": "మెచ్యూరిటీ మొత్తం",
+  "Tool_rd_Result_Interest": "వడ్డీ",
+  "Tool_swp_Title": "ఎస్‌డబ్ల్యూపి కాల్క్యులేటర్",
+  "Tool_swp_Description": "మ్యూచువల్ ఫండ్ నుండి క్రమబద్ధ నిష్క్రమణ. కార్పస్ ఎంతకాలం ఉంటుంది?",
+  "Tool_swp_Result_Ending": "చివరి కార్పస్",
+  "Tool_swp_Result_Withdrawn": "మొత్తం ఉపసంహరణ",
+  "Tool_elss_Title": "ఈఎల్‌ఎస్‌ఎస్ కాల్క్యులేటర్",
+  "Tool_elss_Description": "పన్ను ఆదా మ్యూచువల్ ఫండ్ రిటర్న్స్. 80C, 3-సంవత్సర లాక్-ఇన్.",
+  "Tool_elss_Result_Maturity": "అంచనా విలువ",
+  "Tool_elss_Result_PostTax": "ఎల్‌టిసిజి తర్వాత",
+  "Tool_elss_Result_80c": "వార్షిక 80C మొత్తం"
+}

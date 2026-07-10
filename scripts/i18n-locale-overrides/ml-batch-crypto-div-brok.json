@@ -1,0 +1,17 @@
+{
+  "Tool_crypto_tax_Title": "ക്രിപ്റ്റോ ടാക്സ് കാൽക്കുലേറ്റർ",
+  "Tool_crypto_tax_Description": "സെക്ഷൻ 115BBH: ക്രിപ്റ്റോയിൽ 30% ഫ്ലാറ്റ് നികുതി. സെറ്റ്-ഓഫ് ഇല്ല, 1% TDS.",
+  "Tool_crypto_tax_Result_Gain": "ഗെയിൻ / (നഷ്ടം)",
+  "Tool_crypto_tax_Result_Tax": "VDA നികുതി (30%)",
+  "Tool_crypto_tax_Result_Tds": "TDS കണക്ക്",
+  "Tool_dividend_yield_Title": "ഡിവിഡന്റ് യീൽഡ് കാൽക്കുലേറ്റർ",
+  "Tool_dividend_yield_Description": "ഷെയർ ഡിവിഡന്റ് യീൽഡും വരുമാനവും. ഡിവിഡന്റ് vs ഗ്രോത്ത്.",
+  "Tool_dividend_yield_Result_Yield": "ഡിവിഡന്റ് യീൽഡ്",
+  "Tool_dividend_yield_Result_Income": "വാർഷിക വരുമാനം",
+  "Tool_dividend_yield_Result_Dps": "ഡിവിഡന്റ് / ഷെയർ",
+  "Tool_brokerage_Title": "ബ്രോക്കറേജ് കാൽക്കുലേറ്റർ",
+  "Tool_brokerage_Description": "ട്രേഡിംഗ് ചാർജുകൾ — ബ്രോക്കറേജ്, STT, GST. ഡെലിവറിയും ഇൻട്രാഡേയും.",
+  "Tool_brokerage_Result_Charges": "മൊത്തം ചാർജുകൾ",
+  "Tool_brokerage_Result_Net": "നെറ്റ് വരവ്",
+  "Tool_brokerage_Result_Brokerage": "ബ്രോക്കറേജ്"
+}

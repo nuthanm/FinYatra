@@ -1,0 +1,12 @@
+{
+  "Tool_epf_Title": "ஈபிஎஃப் கணிப்பான்",
+  "Tool_epf_Result_Corpus": "மதிப்பிடப்பட்ட ஈபிஎஃப் கார்பஸ்",
+  "Tool_epf_Result_Interest": "வட்டி",
+  "Tool_sukanya_samriddhi_Title": "சுகன்யா சம்ரித்தி கணிப்பான்",
+  "Tool_sukanya_samriddhi_Result_Maturity": "21ஆம் ஆண்டு முதிர்வு",
+  "Tool_sukanya_samriddhi_Result_Interest": "வட்டி",
+  "Tool_scss_Title": "எஸ்சிஎஸ்எஸ் கணிப்பான்",
+  "Tool_scss_Result_Quarterly": "காலாண்டு வட்டி",
+  "Tool_scss_Result_Annual": "ஆண்டு வட்டி",
+  "Tool_scss_Result_TotalInterest": "மொத்த வட்டி"
+}

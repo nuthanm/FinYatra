@@ -1,0 +1,15 @@
+{
+  "Tool_car_loan_emi_Title": "കാർ ലോൺ EMI കാൽക്കുലേറ്റർ",
+  "Tool_car_loan_emi_Result_Emi": "മാസംതോറുമുള്ള EMI",
+  "Tool_car_loan_emi_Result_Loan": "ലോൺ തുക",
+  "Tool_car_loan_emi_Result_Interest": "മൊത്തം പലിശ",
+  "Tool_education_loan_Title": "വിദ്യാഭ്യാസ ലോൺ കാൽക്കുലേറ്റർ",
+  "Tool_education_loan_Result_Emi": "മാസംതോറുമുള്ള EMI (കോഴ്സിന് ശേഷം)",
+  "Tool_education_loan_Result_TaxSaving": "കണക്കാക്കിയ വാർഷിക 80E ലാഭം",
+  "Tool_education_loan_TaxTitle": "സെക്ഷൻ 80E",
+  "Tool_stamp_duty_Title": "സ്റ്റാമ്പ് ഡ്യൂട്ടി കാൽക്കുലേറ്റർ",
+  "Tool_stamp_duty_Result_Stamp": "സ്റ്റാമ്പ് ഡ്യൂട്ടി",
+  "Tool_stamp_duty_Result_Registration": "രജിസ്ട്രേഷൻ",
+  "Tool_stamp_duty_Result_Total": "മൊത്തം ചാർജുകൾ",
+  "Tool_stamp_duty_State_kl": "കേരളം"
+}

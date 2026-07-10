@@ -1,0 +1,17 @@
+{
+  "Tool_section_80d_Title": "பிரிவு 80D கணிப்பான்",
+  "Tool_section_80d_Description": "சுகாதார காப்பீட்டு பிரீமியம் வரி சலுகை. சுயம் + பெற்றோர் விலக்கு ₹1 லட்சம் வரை.",
+  "Tool_section_80d_Result_Eligible": "தகுதியான விலக்கு",
+  "Tool_section_80d_Result_Saving": "மதிப்பிடப்பட்ட வரி சேமிப்பு",
+  "Tool_section_80d_Result_Preventive": "தடுப்பு பரிசோதனை கணக்கிடப்பட்டது",
+  "Tool_nsc_Title": "NSC கணிப்பான்",
+  "Tool_nsc_Description": "தேசிய சேமிப்பு சான்றிதழ் முதிர்வு ~7.7%. 5 ஆண்டு பூட்டு, 80C பயன்.",
+  "Tool_nsc_Result_Maturity": "முதிர்வு மதிப்பு",
+  "Tool_nsc_Result_Interest": "மொத்த வட்டி",
+  "Tool_nsc_Result_80c": "80C-க்கான வைப்பு",
+  "Tool_tax_saving_fd_Title": "வரி சேமிப்பு FD கணிப்பான்",
+  "Tool_tax_saving_fd_Description": "80C கீழ் 5-ஆண்டு வரி-சேமிப்பு FD. வங்கி விகிதங்கள் மற்றும் பூட்டு வருமானம்.",
+  "Tool_tax_saving_fd_Result_Maturity": "முதிர்வு மதிப்பு",
+  "Tool_tax_saving_fd_Result_Interest": "மொத்த வட்டி",
+  "Tool_tax_saving_fd_Result_80c": "மதிப்பிடப்பட்ட 80C வரி சேமிப்பு"
+}

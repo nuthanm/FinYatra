@@ -1,0 +1,17 @@
+{
+  "Tool_section_80d_Title": "സെക്ഷൻ 80D കാൽക്കുലേറ്റർ",
+  "Tool_section_80d_Description": "ആരോഗ്യ ഇൻഷുറൻസ് പ്രീമിയം നികുതി ആനുകൂല്യം. സ്വയം + മാതാപിതാക്കളുടെ കിഴിവ് ₹1 ലക്ഷം വരെ.",
+  "Tool_section_80d_Result_Eligible": "യോഗ്യമായ കിഴിവ്",
+  "Tool_section_80d_Result_Saving": "കണക്കാക്കിയ നികുതി ലാഭം",
+  "Tool_section_80d_Result_Preventive": "പ്രതിരോധ പരിശോധന കണക്കാക്കി",
+  "Tool_nsc_Title": "NSC കാൽക്കുലേറ്റർ",
+  "Tool_nsc_Description": "നാഷണൽ സേവിംഗ്സ് സർട്ടിഫിക്കറ്റ് മെച്യൂരിറ്റി ~7.7%. 5 വർഷ ലോക്ക്-ഇൻ, 80C ആനുകൂല്യം.",
+  "Tool_nsc_Result_Maturity": "മെച്യൂരിറ്റി മൂല്യം",
+  "Tool_nsc_Result_Interest": "മൊത്തം പലിശ",
+  "Tool_nsc_Result_80c": "80C-യ്ക്കുള്ള ഡിപ്പോസിറ്റ്",
+  "Tool_tax_saving_fd_Title": "ടാക്സ് സേവിംഗ് FD കാൽക്കുലേറ്റർ",
+  "Tool_tax_saving_fd_Description": "80C കീഴിൽ 5-വർഷ ടാക്സ്-സേവർ FD. ബാങ്ക് നിരക്കുകളും ലോക്ക്-ഇൻ റിട്ടേണും.",
+  "Tool_tax_saving_fd_Result_Maturity": "മെച്യൂരിറ്റി മൂല്യം",
+  "Tool_tax_saving_fd_Result_Interest": "മൊത്തം പലിശ",
+  "Tool_tax_saving_fd_Result_80c": "കണക്കാക്കിയ 80C നികുതി ലാഭം"
+}

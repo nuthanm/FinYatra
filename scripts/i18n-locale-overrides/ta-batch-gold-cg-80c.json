@@ -1,0 +1,18 @@
+{
+  "Tool_gold_loan_Title": "கோல்ட் லோன் கணிப்பான்",
+  "Tool_gold_loan_Description": "தங்க நகை மீது கடன். 75% LTV, வங்கி vs NBFC வட்டி ஒப்பீடு.",
+  "Tool_gold_loan_Result_MaxLoan": "அதிகபட்ச கடன்",
+  "Tool_gold_loan_Result_Emi": "மாத ஈஎம்ஐ",
+  "Tool_gold_loan_Result_Interest": "மொத்த வட்டி",
+  "Tool_capital_gains_tax_Title": "மூலதன ஆதாய வரி கணிப்பான்",
+  "Tool_capital_gains_tax_Description": "சொத்து, பங்கு, MF, தங்கத்தில் LTCG/STCG. பிரிவு 54/54EC விலக்குகள்.",
+  "Tool_capital_gains_tax_Result_Gain": "மூலதன ஆதாயம்",
+  "Tool_capital_gains_tax_Result_Taxable": "வரி விதிக்கத்தக்க ஆதாயம்",
+  "Tool_capital_gains_tax_Result_Tax": "மதிப்பிடப்பட்ட வரி",
+  "Tool_section_80c_Title": "பிரிவு 80C கணிப்பான்",
+  "Tool_section_80c_Description": "₹1.5 லட்சம் வரி சேமிப்பு திட்டம். PPF, ELSS, NSC மற்றும் மேலும்.",
+  "Tool_section_80c_Result_Eligible": "தகுதியான விலக்கு",
+  "Tool_section_80c_Result_Saving": "மதிப்பிடப்பட்ட வரி சேமிப்பு",
+  "Tool_section_80c_Result_Unused": "பயன்படுத்தாத வரம்பு",
+  "Tool_section_80c_Result_Over": "வரம்பை மீறியது"
+}
