@@ -11,7 +11,7 @@ import {
   WorkedExample,
 } from "@/components/calculator/CalculatorUi";
 import { calculateLoanBalanceTransfer } from "@/lib/finance/loanBalanceTransfer";
-import { inr, percent } from "@/lib/finance/format";
+import { inr } from "@/lib/finance/format";
 import { getTool } from "@/lib/config/tools";
 import { loanBalanceTransferInfo } from "@/lib/tool-page-content";
 

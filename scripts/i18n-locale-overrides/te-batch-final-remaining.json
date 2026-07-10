@@ -1,0 +1,17 @@
+{
+  "Tool_dtaa_Title": "DTAA / విదేశీ పన్ను క్రెడిట్ కాల్క్యులేటర్",
+  "Tool_dtaa_Description": "విదేశీ పన్ను vs భారత పన్ను — క్రెడిట్ = కనిష్టం.",
+  "Tool_dtaa_Subtitle": "విదేశీ పన్ను క్రెడిట్ = min(విదేశీ, భారత)",
+  "Tool_dtaa_Result_Credit": "విదేశీ పన్ను క్రెడిట్",
+  "Tool_80ddb_medical_expense_Title": "80DDB వైద్య ఖర్చు కాల్క్యులేటర్",
+  "Tool_80ddb_medical_expense_Subtitle": "వైద్య ఖర్చు → 80DDB తగ్గింపు",
+  "Tool_80u_disability_deduction_Title": "80U వైకల్య తగ్గింపు కాల్క్యులేటర్",
+  "Tool_ulip_surrender_Title": "ULIP సరెండర్ కాల్క్యులేటర్",
+  "Tool_motor_insurance_ncb_Title": "మోటార్ బీమా NCB కాల్క్యులేటర్",
+  "Tool_under_construction_emi_Title": "నిర్మాణంలో ఉన్న EMI కాల్క్యులేటర్",
+  "Tool_credit_score_simulator_Title": "క్రెడిట్ స్కోర్ సిమ్యులేటర్",
+  "Tool_gst_registration_threshold_Title": "GST నమోదు థ్రెషోల్డ్ కాల్క్యులేటర్",
+  "Tool_international_equity_tax_Title": "అంతర్జాతీయ ఈక్విటీ పన్ను కాల్క్యులేటర్",
+  "Tool_reits_invits_tax_Title": "REIT / InvIT పన్ను కాల్క్యులేటర్",
+  "Tool_partnership_firm_tax_Title": "భాగస్వామ్య సంస్థ పన్ను కాల్క్యులేటర్"
+}

@@ -1,0 +1,16 @@
+{
+  "Tool_dtaa_Title": "DTAA / വിദേശ നികുതി ക്രെഡിറ്റ് കാൽക്കുലേറ്റർ",
+  "Tool_dtaa_Description": "വിദേശ നികുതി vs ഇന്ത്യ നികുതി — ക്രെഡിറ്റ് = കുറഞ്ഞത്.",
+  "Tool_dtaa_Subtitle": "വിദേശ നികുതി ക്രെഡിറ്റ് = min(വിദേശ, ഇന്ത്യ)",
+  "Tool_dtaa_Result_Credit": "വിദേശ നികുതി ക്രെഡിറ്റ്",
+  "Tool_80ddb_medical_expense_Title": "80DDB മെഡിക്കൽ ചെലവ് കാൽക്കുലേറ്റർ",
+  "Tool_80u_disability_deduction_Title": "80U വൈകല്യ കിഴിവ് കാൽക്കുലേറ്റർ",
+  "Tool_ulip_surrender_Title": "ULIP സറണ്ടർ കാൽക്കുലേറ്റർ",
+  "Tool_motor_insurance_ncb_Title": "മോട്ടോർ ഇൻഷുറൻസ് NCB കാൽക്കുലേറ്റർ",
+  "Tool_under_construction_emi_Title": "നിർമ്മാണത്തിലുള്ള EMI കാൽക്കുലേറ്റർ",
+  "Tool_credit_score_simulator_Title": "ക്രെഡിറ്റ് സ്കോർ സിമുലേറ്റർ",
+  "Tool_gst_registration_threshold_Title": "GST രജിസ്ട്രേഷൻ പരിധി കാൽക്കുലേറ്റർ",
+  "Tool_international_equity_tax_Title": "അന്താരാഷ്ട്ര ഇക്വിറ്റി നികുതി കാൽക്കുലേറ്റർ",
+  "Tool_reits_invits_tax_Title": "REIT / InvIT നികുതി കാൽക്കുലേറ്റർ",
+  "Tool_partnership_firm_tax_Title": "പങ്കാളിത്ത സ്ഥാപന നികുതി കാൽക്കുലേറ്റർ"
+}

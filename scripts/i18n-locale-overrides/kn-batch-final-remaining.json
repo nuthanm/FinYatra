@@ -1,0 +1,16 @@
+{
+  "Tool_dtaa_Title": "DTAA / ವಿದೇಶಿ ತೆರಿಗೆ ಕ್ರೆಡಿಟ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_dtaa_Description": "ವಿದೇಶಿ ತೆರಿಗೆ vs ಭಾರತ ತೆರಿಗೆ — ಕ್ರೆಡಿಟ್ = ಕನಿಷ್ಠ.",
+  "Tool_dtaa_Subtitle": "ವಿದೇಶಿ ತೆರಿಗೆ ಕ್ರೆಡಿಟ್ = min(ವಿದೇಶಿ, ಭಾರತ)",
+  "Tool_dtaa_Result_Credit": "ವಿದೇಶಿ ತೆರಿಗೆ ಕ್ರೆಡಿಟ್",
+  "Tool_80ddb_medical_expense_Title": "80DDB ವೈದ್ಯಕೀಯ ವೆಚ್ಚ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_80u_disability_deduction_Title": "80U ಅಂಗವೈಕಲ್ಯ ಕಡಿತ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_ulip_surrender_Title": "ULIP ಸರೆಂಡರ್ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_motor_insurance_ncb_Title": "ಮೋಟಾರ್ ವಿಮೆ NCB ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_under_construction_emi_Title": "ನಿರ್ಮಾಣಾಧೀನ EMI ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_credit_score_simulator_Title": "ಕ್ರೆಡಿಟ್ ಸ್ಕೋರ್ ಸಿಮ್ಯುಲೇಟರ್",
+  "Tool_gst_registration_threshold_Title": "GST ನೋಂದಣಿ ಮಿತಿ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_international_equity_tax_Title": "ಅಂತರರಾಷ್ಟ್ರೀಯ ಇಕ್ವಿಟಿ ತೆರಿಗೆ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_reits_invits_tax_Title": "REIT / InvIT ತೆರಿಗೆ ಕ್ಯಾಲ್ಕುಲೇಟರ್",
+  "Tool_partnership_firm_tax_Title": "ಪಾಲುದಾರಿಕೆ ಸಂಸ್ಥೆ ತೆರಿಗೆ ಕ್ಯಾಲ್ಕುಲೇಟರ್"
+}

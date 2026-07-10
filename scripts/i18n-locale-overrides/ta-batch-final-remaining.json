@@ -1,0 +1,16 @@
+{
+  "Tool_dtaa_Title": "DTAA / வெளிநாட்டு வரி கிரெடிட் கணிப்பான்",
+  "Tool_dtaa_Description": "வெளிநாட்டு வரி vs இந்திய வரி — கிரெடிட் = குறைந்தது.",
+  "Tool_dtaa_Subtitle": "வெளிநாட்டு வரி கிரெடிட் = min(வெளி, இந்தியா)",
+  "Tool_dtaa_Result_Credit": "வெளிநாட்டு வரி கிரெடிட்",
+  "Tool_80ddb_medical_expense_Title": "80DDB மருத்துவ செலவு கணிப்பான்",
+  "Tool_80u_disability_deduction_Title": "80U மாற்றுத்திறன் விலக்கு கணிப்பான்",
+  "Tool_ulip_surrender_Title": "ULIP சரண்டர் கணிப்பான்",
+  "Tool_motor_insurance_ncb_Title": "மோட்டார் காப்பீடு NCB கணிப்பான்",
+  "Tool_under_construction_emi_Title": "கட்டுமான EMI கணிப்பான்",
+  "Tool_credit_score_simulator_Title": "கிரெடிட் ஸ்கோர் சிமுலேட்டர்",
+  "Tool_gst_registration_threshold_Title": "GST பதிவு வரம்பு கணிப்பான்",
+  "Tool_international_equity_tax_Title": "சர்வதேச பங்கு வரி கணிப்பான்",
+  "Tool_reits_invits_tax_Title": "REIT / InvIT வரி கணிப்பான்",
+  "Tool_partnership_firm_tax_Title": "கூட்டாண்மை நிறுவன வரி கணிப்பான்"
+}
