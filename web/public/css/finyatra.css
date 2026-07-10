@@ -748,14 +748,38 @@ body {
     align-self: center;
 }
 
+.fy-hero-brand {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.fy-hero-brand-name {
+    font-size: clamp(1.85rem, 3.2vw, 2.35rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    color: var(--fy-ink);
+}
+
+.fy-hero-tagline {
+    margin: 0;
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.45;
+    color: var(--fy-accent-dark);
+    max-width: 36ch;
+}
+
 .fy-hero-copy > * {
     animation: fyFadeUp 0.75s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
 
 .fy-hero-copy > *:nth-child(1) { animation-delay: 0.05s; }
-.fy-hero-copy > *:nth-child(2) { animation-delay: 0.12s; }
-.fy-hero-copy > *:nth-child(3) { animation-delay: 0.19s; }
-.fy-hero-copy > *:nth-child(4) { animation-delay: 0.26s; }
+.fy-hero-copy > *:nth-child(2) { animation-delay: 0.1s; }
+.fy-hero-copy > *:nth-child(3) { animation-delay: 0.16s; }
+.fy-hero-copy > *:nth-child(4) { animation-delay: 0.22s; }
+.fy-hero-copy > *:nth-child(5) { animation-delay: 0.28s; }
 
 .fy-hero h1 {
     margin: 0;
@@ -1306,6 +1330,70 @@ body {
     border: 1px solid var(--fy-info-border);
     padding: 0.22rem 0.55rem;
     border-radius: 999px;
+}
+
+.fy-tool-card-meta-row {
+    grid-area: meta;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-top: 0.5rem;
+    align-items: center;
+}
+
+.fy-tool-card-meta-row .fy-tool-card-meta {
+    grid-area: unset;
+    margin-top: 0;
+}
+
+.fy-tool-status {
+    font-size: 0.68rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 0.22rem 0.55rem;
+    border-radius: 999px;
+    border: 1px solid transparent;
+}
+
+.fy-tool-status.live {
+    color: #0f766e;
+    background: #ecfdf5;
+    border-color: #99f6e4;
+}
+
+.fy-tool-status.soon {
+    color: #9a3412;
+    background: #fff7ed;
+    border-color: #fed7aa;
+}
+
+.fy-tool-row-meta-wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0.25rem;
+    min-width: 7rem;
+}
+
+.fy-search-found-in {
+    margin: 0.35rem 0 0;
+    color: var(--fy-accent-dark);
+    font-size: 0.88rem;
+    font-weight: 700;
+}
+
+.fy-search-groups {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+
+.fy-search-group-title {
+    margin: 0 0 0.65rem;
+    font-size: 0.95rem;
+    font-weight: 800;
+    color: var(--fy-ink);
 }
 
 /* ============================================================

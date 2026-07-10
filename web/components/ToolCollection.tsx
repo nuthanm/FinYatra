@@ -33,6 +33,18 @@ export function ViewToggle() {
   );
 }
 
+function ToolStatusBadges({ tool }: { tool: ToolLink }) {
+  const t = useT();
+  return (
+    <div className="fy-tool-card-meta-row">
+      <span className="fy-tool-card-meta">{t(groupLabelKey(tool.group))}</span>
+      <span className={`fy-tool-status${tool.comingSoon ? " soon" : " live"}`}>
+        {tool.comingSoon ? t("Tools_ComingSoon") : t("Tools_Available")}
+      </span>
+    </div>
+  );
+}
+
 export function ToolCollection({ tools }: { tools: ToolLink[] }) {
   const t = useT();
   const { toolView } = useAppState();
@@ -61,7 +73,12 @@ export function ToolCollection({ tools }: { tools: ToolLink[] }) {
               </span>
               <span className="fy-tool-row-desc">{t(tool.descriptionKey)}</span>
             </span>
-            <span className="fy-tool-row-meta">{t(groupLabelKey(tool.group))}</span>
+            <span className="fy-tool-row-meta-wrap">
+              <span className="fy-tool-row-meta">{t(groupLabelKey(tool.group))}</span>
+              <span className={`fy-tool-status${tool.comingSoon ? " soon" : " live"}`}>
+                {tool.comingSoon ? t("Tools_ComingSoon") : t("Tools_Available")}
+              </span>
+            </span>
             <span className="fy-tool-row-go">
               <FyIcon name="chevron-right" size={18} />
             </span>
@@ -87,9 +104,7 @@ export function ToolCollection({ tools }: { tools: ToolLink[] }) {
             <h2>{t(tool.titleKey)}</h2>
             <p>{t(tool.descriptionKey)}</p>
           </div>
-          <div className="fy-tool-card-meta">
-            {tool.comingSoon ? t("Tools_ComingSoon") : t(groupLabelKey(tool.group))}
-          </div>
+          <ToolStatusBadges tool={tool} />
         </Link>
       ))}
     </div>

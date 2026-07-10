@@ -16,6 +16,10 @@ export function HomePage() {
       <section className="fy-hero">
         <div className="fy-hero-inner">
           <div className="fy-hero-copy">
+            <div className="fy-hero-brand">
+              <span className="fy-hero-brand-name">{t("App_Title")}</span>
+              <p className="fy-hero-tagline">{t("Home_Tagline")}</p>
+            </div>
             <span className="fy-badge">
               <span className="fy-badge-dot" /> {t("Home_Badge")}
             </span>

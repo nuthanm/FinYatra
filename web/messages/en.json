@@ -12611,5 +12611,9 @@
   "Tool_swp_tax_ScenarioTitle": "Holding scenarios",
   "Tool_swp_tax_ScenarioSubtitle": "STCG vs your holding vs longer LTCG",
   "Tool_swp_tax_Scenario_Stcg": "6 months (STCG)",
-  "Tool_swp_tax_Scenario_Ltcg": "24 months (LTCG)"
+  "Tool_swp_tax_Scenario_Ltcg": "24 months (LTCG)",
+  "Tools_Available": "Available",
+  "Page_Search_FoundIn": "Found in: {0}",
+  "Page_Search_CategoryHeading": "{0} · {1} tool(s)",
+  "Home_Tagline": "Your journey to smarter finances starts here."
 }

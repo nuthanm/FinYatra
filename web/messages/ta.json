@@ -12611,5 +12611,9 @@
   "Tool_swp_tax_ScenarioTitle": "Holding scenarios",
   "Tool_swp_tax_ScenarioSubtitle": "STCG vs your holding vs longer LTCG",
   "Tool_swp_tax_Scenario_Stcg": "6 months (STCG)",
-  "Tool_swp_tax_Scenario_Ltcg": "24 months (LTCG)"
+  "Tool_swp_tax_Scenario_Ltcg": "24 months (LTCG)",
+  "Tools_Available": "கிடைக்கும்",
+  "Page_Search_FoundIn": "காணப்பட்ட பிரிவுகள்: {0}",
+  "Page_Search_CategoryHeading": "{0} · {1} கருவி(கள்)",
+  "Home_Tagline": "ஸ்மார்ட் நிதிக்கான உங்கள் பயணம் இங்கே தொடங்குகிறது."
 }

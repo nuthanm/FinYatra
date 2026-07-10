@@ -12611,5 +12611,9 @@
   "Tool_swp_tax_ScenarioTitle": "Holding scenarios",
   "Tool_swp_tax_ScenarioSubtitle": "STCG vs your holding vs longer LTCG",
   "Tool_swp_tax_Scenario_Stcg": "6 months (STCG)",
-  "Tool_swp_tax_Scenario_Ltcg": "24 months (LTCG)"
+  "Tool_swp_tax_Scenario_Ltcg": "24 months (LTCG)",
+  "Tools_Available": "उपलब्ध",
+  "Page_Search_FoundIn": "श्रेणी: {0}",
+  "Page_Search_CategoryHeading": "{0} · {1} टूल",
+  "Home_Tagline": "स्मार्ट वित्त की आपकी यात्रा यहीं से शुरू होती है।"
 }

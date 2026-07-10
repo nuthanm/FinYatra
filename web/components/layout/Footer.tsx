@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { FyIcon } from "@/components/FyIcon";
 import { useT } from "@/components/providers/I18nProvider";
 import { groupLabelKey, toolsByGroup } from "@/lib/config/tools";
 
@@ -61,7 +62,11 @@ export function Footer() {
         <div className="fy-footer-bar">
           <div className="fy-footer-meta">
             <span>
-              {t("Footer_MadeWith")} <strong>Nuthan Murarysetty</strong>
+              {t("Footer_MadeWith")}{" "}
+              <span className="fy-heart" aria-hidden>
+                <FyIcon name="heart" size={14} />
+              </span>{" "}
+              {t("Footer_By")} <strong>Nuthan Murarysetty</strong>
             </span>
             <span className="fy-footer-dot">·</span>
             <span>

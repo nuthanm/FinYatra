@@ -12611,5 +12611,9 @@
   "Tool_swp_tax_ScenarioTitle": "Holding scenarios",
   "Tool_swp_tax_ScenarioSubtitle": "STCG vs your holding vs longer LTCG",
   "Tool_swp_tax_Scenario_Stcg": "6 months (STCG)",
-  "Tool_swp_tax_Scenario_Ltcg": "24 months (LTCG)"
+  "Tool_swp_tax_Scenario_Ltcg": "24 months (LTCG)",
+  "Tools_Available": "ലഭ്യം",
+  "Page_Search_FoundIn": "കണ്ടെത്തിയ വിഭാഗങ്ങൾ: {0}",
+  "Page_Search_CategoryHeading": "{0} · {1} ഉപകരണം(ങ്ങൾ)",
+  "Home_Tagline": "സ്മാർട്ട് ധനകാര്യത്തിലേക്കുള്ള നിങ്ങളുടെ യാത്ര ഇവിടെ നിന്ന് ആരംഭിക്കുന്നു."
 }

@@ -26,7 +26,7 @@ export function buildSearchSuggestions(query: string, results: ToolLink[]): Tool
   else if (q.includes("salary") || q.includes("bonus") || q.includes("ctc")) hint = "Salary";
   else if (q.includes("property") || q.includes("rent") || q.includes("stamp")) hint = "Property";
   else if (q.includes("insurance") || q.includes("lic") || q.includes("premium")) hint = "Insurance";
-  else if (q.includes("goal") || q.includes("fire") || q.includes("fd")) hint = "Planning";
+  else if (q.includes("goal") || q.includes("fire") || q.includes("fd") || q.includes("emergency") || q.includes("budget") || q.includes("retirement")) hint = "Planning";
 
   const baseList = TOOLS.filter((t) => !t.comingSoon);
   const pool = hint ? baseList.filter((t) => t.group === hint) : baseList;

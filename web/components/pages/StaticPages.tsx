@@ -13,6 +13,7 @@ import {
   defaultSearchSuggestions,
   searchTools,
 } from "@/lib/search";
+import { groupLabelKey } from "@/lib/config/tools";
 import { sitePageDescription, sitePageTitle } from "@/lib/site-page-localization";
 
 function PolicyUpdated() {
@@ -327,9 +328,30 @@ export function SearchPage() {
     return buildSearchSuggestions(query, results);
   }, [query, results]);
 
-  const subtitle = query
-    ? t("Page_Search_SubtitleResults", String(results.length), query)
-    : t("Page_Search_SubtitleEmpty");
+  const categories = useMemo(() => {
+    const seen = new Set<string>();
+    for (const tool of results) {
+      seen.add(t(groupLabelKey(tool.group)));
+    }
+    return Array.from(seen);
+  }, [results, t]);
+
+  const groupedResults = useMemo(() => {
+    const map = new Map<string, typeof results>();
+    for (const tool of results) {
+      const label = t(groupLabelKey(tool.group));
+      const list = map.get(label) ?? [];
+      list.push(tool);
+      map.set(label, list);
+    }
+    return Array.from(map.entries());
+  }, [results, t]);
+
+  const subtitle = !query
+    ? t("Page_Search_SubtitleEmpty")
+    : results.length > 0
+      ? t("Page_Search_SubtitleResults", String(results.length), query)
+      : t("Page_Search_NoResultsTitle");
 
   return (
     <ToolPageShell
@@ -343,12 +365,31 @@ export function SearchPage() {
           <div>
             <h3>{t("Page_Search_ResultsHeading")}</h3>
             <p className="fy-comingsoon-sub">{subtitle}</p>
+            {results.length > 0 ? (
+              <p className="fy-search-found-in">
+                {t("Page_Search_FoundIn", categories.join(", "))}
+              </p>
+            ) : null}
           </div>
           <ViewToggle />
         </div>
 
-        {results.length > 0 ? (
-          <ToolCollection tools={results} />
+        {!query ? (
+          <div className="fy-suggest">
+            <div className="fy-suggest-title">{t("Page_Search_SuggestedHeading")}</div>
+            <ToolCollection tools={suggestions} />
+          </div>
+        ) : results.length > 0 ? (
+          <div className="fy-search-groups">
+            {groupedResults.map(([groupName, tools]) => (
+              <section key={groupName} className="fy-search-group">
+                <h4 className="fy-search-group-title">
+                  {t("Page_Search_CategoryHeading", groupName, String(tools.length))}
+                </h4>
+                <ToolCollection tools={tools} />
+              </section>
+            ))}
+          </div>
         ) : (
           <>
             <div className="fy-empty-state">
