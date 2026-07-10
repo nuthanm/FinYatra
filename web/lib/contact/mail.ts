@@ -1,4 +1,5 @@
 import nodemailer from "nodemailer";
+import { SITE_NAME } from "@/lib/config/site";
 
 function escapeHtml(value: string): string {
   return value
@@ -21,13 +22,14 @@ export function buildHtml(name: string, email: string, requestType: string, subj
   const safeSubject = escapeHtml(subject);
   const safeMessage = escapeHtml(message);
   const submittedAt = escapeHtml(formatSubmittedAt());
+  const brand = escapeHtml(SITE_NAME);
 
   return `<div style="margin:0;padding:0;background-color:#f1f5f9;font-family:Inter,Segoe UI,Arial,sans-serif;color:#0f172a">
   <div style="width:100%;padding:24px 12px;box-sizing:border-box">
     <div style="max-width:680px;margin:0 auto;background:#fff;border:1px solid #dbe2ea;border-radius:14px;overflow:hidden">
       <div style="background:linear-gradient(135deg,#dbeafe,#eff6ff);border-bottom:1px solid #dbe2ea;padding:18px 22px">
-        <h1 style="margin:0;font-size:20px;line-height:1.3">New FinYatra contact message</h1>
-        <p style="margin:6px 0 0;font-size:13px;color:#475569">Received from the FinYatra contact form.</p>
+        <h1 style="margin:0;font-size:20px;line-height:1.3">New ${brand} contact message</h1>
+        <p style="margin:6px 0 0;font-size:13px;color:#475569">Received from the ${brand} contact form.</p>
       </div>
       <div style="padding:20px 22px">
         <table role="presentation" style="width:100%;border-collapse:collapse;margin-bottom:14px">
@@ -40,7 +42,7 @@ export function buildHtml(name: string, email: string, requestType: string, subj
         <div style="margin-top:14px;padding:14px;border:1px solid #dbe2ea;border-radius:10px;background:#f8fafc;font-size:14px;line-height:1.6;color:#1e293b;white-space:pre-wrap">${safeMessage}</div>
       </div>
       <div style="border-top:1px solid #dbe2ea;background:#f8fafc;padding:14px 22px 18px">
-        <p style="margin:3px 0;font-size:12px;color:#64748b"><strong>FinYatra</strong> — free India-first finance calculators</p>
+        <p style="margin:3px 0;font-size:12px;color:#64748b"><strong>${brand}</strong> — free India-first finance calculators</p>
         <p style="margin:3px 0;font-size:12px;color:#64748b">Reply directly to this email to reach the sender.</p>
       </div>
     </div>
@@ -50,7 +52,7 @@ export function buildHtml(name: string, email: string, requestType: string, subj
 
 export function buildPlainText(name: string, email: string, requestType: string, subject: string, message: string): string {
   return [
-    "FinYatra contact request",
+    `${SITE_NAME} contact request`,
     "------------------------",
     `Name: ${name}`,
     `Email: ${email}`,
@@ -61,7 +63,7 @@ export function buildPlainText(name: string, email: string, requestType: string,
     message,
     "",
     "---",
-    "Sent via FinYatra contact form",
+    `Sent via ${SITE_NAME} contact form`,
   ].join("\n");
 }
 
@@ -82,7 +84,7 @@ export async function sendContactMail(
   const host = process.env.SMTP_HOST ?? "smtp.gmail.com";
   const port = Number(process.env.SMTP_PORT ?? 587);
   const secure = process.env.SMTP_SECURE === "true";
-  const from = process.env.SMTP_FROM ?? `FinYatra <${user}>`;
+  const from = process.env.SMTP_FROM ?? `${SITE_NAME} <${user}>`;
 
   const transporter = nodemailer.createTransport({ host, port, secure, auth: { user, pass } });
 
@@ -90,7 +92,7 @@ export async function sendContactMail(
     from,
     to: mailTo,
     replyTo: email,
-    subject: `[FinYatra] ${requestType}: ${subject}`,
+    subject: `[${SITE_NAME}] ${requestType}: ${subject}`,
     text: buildPlainText(name, email, requestType, subject, message),
     html: buildHtml(name, email, requestType, subject, message),
   });

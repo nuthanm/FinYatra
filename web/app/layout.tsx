@@ -4,13 +4,13 @@ import { AppStateProvider } from "@/components/providers/AppStateProvider";
 import { I18nProvider } from "@/components/providers/I18nProvider";
 import { AppShell } from "@/components/layout/AppShell";
 import { ServiceWorkerRegister } from "@/components/layout/ServiceWorkerRegister";
+import { SITE_FY, SITE_NAME } from "@/lib/config/site";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "FinYatra",
-  description: "Free India-first personal finance calculators and guides.",
+  title: SITE_NAME,
+  description: `Free India-first personal finance calculators and guides. Based on FY ${SITE_FY}.`,
   metadataBase: new URL("https://finyatra.com"),
-  manifest: "/manifest.webmanifest",
   icons: {
     icon: [
       { url: "/favicon.svg", type: "image/svg+xml" },

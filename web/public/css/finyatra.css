@@ -748,20 +748,6 @@ body {
     align-self: center;
 }
 
-.fy-hero-brand {
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
-}
-
-.fy-hero-brand-name {
-    font-size: clamp(1.85rem, 3.2vw, 2.35rem);
-    font-weight: 800;
-    letter-spacing: -0.03em;
-    line-height: 1.1;
-    color: var(--fy-ink);
-}
-
 .fy-hero-tagline {
     margin: 0;
     font-size: 1.05rem;
@@ -821,7 +807,18 @@ body {
 .fy-hero-stats .fy-stat:nth-child(4) { animation-delay: 0.66s; }
 
 .fy-stat-value { font-size: 1.4rem; font-weight: 800; color: var(--fy-accent); letter-spacing: -0.02em; }
-.fy-stat-label { font-size: 0.72rem; color: var(--fy-text-muted); margin-top: 0.15rem; font-weight: 600; }
+.fy-stat-label {
+    font-size: 0.72rem;
+    color: var(--fy-text-muted);
+    margin-top: 0.15rem;
+    font-weight: 600;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+}
+
+@media (max-width: 900px) {
+    .fy-hero-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
 
 .fy-hero-art {
     position: relative;
@@ -1267,9 +1264,19 @@ body {
 
 .fy-learn-grid,
 .fy-home-grid,
-.fy-tools-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.9rem; }
+.fy-tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    gap: 0.9rem;
+}
 
 @media (max-width: 900px) {
+    .fy-learn-grid, .fy-home-grid, .fy-tools-grid {
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+    }
+}
+
+@media (max-width: 560px) {
     .fy-learn-grid, .fy-home-grid, .fy-tools-grid { grid-template-columns: 1fr; }
 }
 
@@ -1313,9 +1320,23 @@ body {
 
 .fy-tool-card-icon img { width: 26px; height: 26px; object-fit: contain; }
 
-.fy-tool-card-body { grid-area: body; }
-.fy-tool-card-body h2 { margin: 0; font-size: 1rem; color: var(--fy-ink); font-weight: 700; }
-.fy-tool-card-body p { margin: 0.2rem 0 0; color: var(--fy-text-muted); font-size: 0.85rem; line-height: 1.45; }
+.fy-tool-card-body { grid-area: body; min-width: 0; }
+.fy-tool-card-body h2 {
+    margin: 0;
+    font-size: 1rem;
+    color: var(--fy-ink);
+    font-weight: 700;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+    hyphens: auto;
+}
+.fy-tool-card-body p {
+    margin: 0.2rem 0 0;
+    color: var(--fy-text-muted);
+    font-size: 0.85rem;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+}
 
 .fy-tool-card-meta {
     grid-area: meta;

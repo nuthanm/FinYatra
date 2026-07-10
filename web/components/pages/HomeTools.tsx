@@ -5,30 +5,29 @@ import { AdSlot } from "@/components/AdSlot";
 import { HeroDashboardPreview } from "@/components/HeroDashboardPreview";
 import { ToolCollection, ViewToggle } from "@/components/ToolCollection";
 import { useT } from "@/components/providers/I18nProvider";
+import { SITE_FY } from "@/lib/config/site";
 import { TOOLS, groupLabelKey } from "@/lib/config/tools";
 import type { ToolGroup } from "@/lib/types";
 
 export function HomePage() {
   const t = useT();
+  const toolCount = TOOLS.length;
 
   return (
     <>
       <section className="fy-hero">
         <div className="fy-hero-inner">
           <div className="fy-hero-copy">
-            <div className="fy-hero-brand">
-              <span className="fy-hero-brand-name">{t("App_Title")}</span>
-              <p className="fy-hero-tagline">{t("Home_Tagline")}</p>
-            </div>
+            <p className="fy-hero-tagline">{t("Home_Tagline")}</p>
             <span className="fy-badge">
-              <span className="fy-badge-dot" /> {t("Home_Badge")}
+              <span className="fy-badge-dot" /> {t("Home_Badge", SITE_FY)}
             </span>
             <h1>
               {t("Home_H1_Before")}
               <span className="fy-grad-text">{t("Home_H1_Highlight")}</span>
               {t("Home_H1_After")}
             </h1>
-            <p className="fy-hero-sub">{t("Home_Sub")}</p>
+            <p className="fy-hero-sub">{t("Home_Sub", SITE_FY)}</p>
             <div className="fy-hero-cta">
               <Link className="fy-btn fy-btn-primary" href="/tools">
                 {t("Home_CtaExplore")}
@@ -48,8 +47,8 @@ export function HomePage() {
 
           <div className="fy-hero-stats">
             <div className="fy-stat">
-              <div className="fy-stat-value">200+</div>
-              <div className="fy-stat-label">{t("Home_StatTools")}</div>
+              <div className="fy-stat-value">{toolCount}+</div>
+              <div className="fy-stat-label">{t("Home_StatTools", SITE_FY)}</div>
             </div>
             <div className="fy-stat">
               <div className="fy-stat-value">100%</div>
@@ -148,7 +147,7 @@ export function ToolsPage({ group }: { group?: string }) {
       <header className="fy-tool-header">
         <h1>{t("Tools_Title")}</h1>
         <p className="fy-subtitle">{t("Tools_Subtitle")}</p>
-        <p className="fy-tool-desc">{t("Tools_Desc")}</p>
+        <p className="fy-tool-desc">{t("Tools_Desc", SITE_FY)}</p>
       </header>
 
       <div className="fy-toolbar">

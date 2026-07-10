@@ -1,6 +1,7 @@
 "use client";
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
+import { SITE_NAME, SITE_TITLE_SUFFIX } from "@/lib/config/site";
 import { createT, normalizeLocale, STORAGE_KEY, type Locale, type TFn } from "@/lib/i18n";
 import { getMessages } from "@/lib/i18n/messages";
 
@@ -27,7 +28,11 @@ export function I18nProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const value = useMemo(() => {
-    const messages = getMessages(locale);
+    const messages = {
+      ...getMessages(locale),
+      App_Title: SITE_NAME,
+      Common_PageTitleSuffix: SITE_TITLE_SUFFIX,
+    };
     return { locale, t: createT(messages), setLocale };
   }, [locale, setLocale]);
 
