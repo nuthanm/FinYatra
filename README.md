@@ -14,7 +14,7 @@ FinYatra is a free, India-first personal finance web app. It helps people **with
 
 > **Disclaimer:** FinYatra is for education and planning only. It is not financial, tax, or investment advice. Verify important decisions with qualified professionals and official sources.
 
-**Live:** [finyatra.com](https://finyatra.vercel.app) · **Repo:** [github.com/nuthanm/FinYatra](https://github.com/nuthanm/FinYatra)
+**Live:** [finyatra](https://finyatra.vercel.app) · **Repo:** [github.com/nuthanm/FinYatra](https://github.com/nuthanm/FinYatra)
 
 ---
 
