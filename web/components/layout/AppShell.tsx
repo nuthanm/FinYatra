@@ -204,6 +204,9 @@ export function AppShell({ children }: { children: ReactNode }) {
               <NavLink href="/about" title={t("Nav_About")}>
                 <FyIcon name="compass" /> <span>{t("Nav_About")}</span>
               </NavLink>
+              <NavLink href="/schemes/pmsby-pmjjby" title={t("Nav_PmsbyPmjjby")}>
+                <FyIcon name="shield" /> <span>{t("Nav_PmsbyPmjjby")}</span>
+              </NavLink>
               <NavLink href="/contact" title={t("Nav_Contact")}>
                 <FyIcon name="mail" /> <span>{t("Nav_Contact")}</span>
               </NavLink>

@@ -68,6 +68,30 @@ export function HomePage() {
 
       <AdSlot enabled={false} />
 
+      <section className="fy-section fy-safety-section fy-home-reveal" aria-label={t("Home_SafetyAria")}>
+        <div className="fy-section-head">
+          <h2 className="fy-section-title">{t("Home_SafetyTitle")}</h2>
+        </div>
+        <p className="fy-safety-sub">{t("Home_SafetySub")}</p>
+        <div className="fy-safety-grid">
+          <Link className="fy-safety-card" href="/schemes/pmsby-pmjjby">
+            <div className="fy-safety-card-title">{t("Home_SafetyPmsbyTitle")}</div>
+            <div className="fy-safety-card-foot">{t("Home_SafetyPmsbyFoot")}</div>
+          </Link>
+          <Link className="fy-safety-card" href="/schemes/pmsby-pmjjby">
+            <div className="fy-safety-card-title">{t("Home_SafetyPmjjbyTitle")}</div>
+            <div className="fy-safety-card-foot">{t("Home_SafetyPmjjbyFoot")}</div>
+          </Link>
+          <Link className="fy-safety-card" href="/calc/health-insurance">
+            <div className="fy-safety-card-title">{t("Home_SafetyHealthTitle")}</div>
+            <div className="fy-safety-card-foot">{t("Home_SafetyHealthFoot")}</div>
+          </Link>
+        </div>
+        <Link className="fy-safety-cta" href="/schemes/pmsby-pmjjby">
+          {t("Home_SafetyCta")} →
+        </Link>
+      </section>
+
       <section className="fy-kpi-row fy-home-reveal" aria-label={t("Home_QuickToolsAria")}>
         <Link className="fy-kpi" href="/goal">
           <div className="fy-kpi-title">{t("Home_KpiReachGoal")}</div>

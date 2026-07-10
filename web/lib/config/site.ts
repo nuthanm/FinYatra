@@ -31,6 +31,11 @@ export const SITE_PAGES: SitePageLink[] = [
   { titleKey: "Nav_Emi", route: "emi", descriptionKey: "Page_Sitemap_Desc_Emi" },
   { titleKey: "Nav_Inflation", route: "inflation", descriptionKey: "Page_Sitemap_Desc_Inflation" },
   { titleKey: "Nav_About", route: "about", descriptionKey: "Page_Sitemap_Desc_About" },
+  {
+    titleKey: "Nav_PmsbyPmjjby",
+    route: "schemes/pmsby-pmjjby",
+    descriptionKey: "Page_PmsbyPmjjby_Description",
+  },
   { titleKey: "Nav_Contact", route: "contact", descriptionKey: "Page_Sitemap_Desc_Contact" },
   { titleKey: "Nav_Sitemap", route: "sitemap", descriptionKey: "Page_Sitemap_Desc_Sitemap" },
   { titleKey: "Common_PrivacyPolicy", route: "privacy", descriptionKey: "Page_Sitemap_Desc_Privacy" },

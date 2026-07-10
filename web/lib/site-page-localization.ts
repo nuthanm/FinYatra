@@ -21,6 +21,8 @@ export function sitePageTitle(t: TFn, page: SitePageLink): string {
       return t("Tool_inflation_Title");
     case "about":
       return t("Page_About_Title");
+    case "schemes/pmsby-pmjjby":
+      return t("Page_PmsbyPmjjby_Title");
     case "contact":
       return t("Page_Contact_Title");
     case "sitemap":
@@ -54,6 +56,8 @@ export function sitePageDescription(t: TFn, page: SitePageLink): string {
       return t("Tool_inflation_Description");
     case "about":
       return t("Page_About_Description");
+    case "schemes/pmsby-pmjjby":
+      return t("Page_PmsbyPmjjby_Description");
     case "contact":
       return t("Page_Contact_Description");
     case "sitemap":

@@ -53,6 +53,9 @@ export function Footer() {
                 <Link href="/about">{t("Footer_About")}</Link>
               </li>
               <li>
+                <Link href="/schemes/pmsby-pmjjby">{t("Footer_PmsbyPmjjby")}</Link>
+              </li>
+              <li>
                 <Link href="/contact">{t("Footer_Contact")}</Link>
               </li>
             </ul>
