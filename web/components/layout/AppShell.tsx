@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname, useRouter } from "next/navigation";
-import { useState, type FormEvent, type ReactNode } from "react";
+import { useEffect, useMemo, useRef, useState, type FormEvent, type ReactNode } from "react";
 import { FyIcon } from "@/components/FyIcon";
 import { Footer } from "@/components/layout/Footer";
 import { ScrollNav } from "@/components/layout/ScrollNav";
@@ -15,6 +15,8 @@ import {
   sidebarToolsForGroup,
   toolsByGroup,
 } from "@/lib/config/tools";
+import { searchTools } from "@/lib/search";
+import type { ToolLink } from "@/lib/types";
 
 function NavLink({ href, title, children, matchAll }: { href: string; title: string; children: ReactNode; matchAll?: boolean }) {
   const pathname = usePathname();
@@ -32,6 +34,26 @@ export function AppShell({ children }: { children: ReactNode }) {
   const [navOpen, setNavOpen] = useState(false);
   const [collapsed, setCollapsed] = useState(false);
   const [query, setQuery] = useState("");
+  const [searchOpen, setSearchOpen] = useState(false);
+  const searchRef = useRef<HTMLFormElement>(null);
+
+  const matches = useMemo(() => searchTools(query, t).slice(0, 8), [query, t]);
+  const showResults = searchOpen && query.trim().length > 0;
+
+  useEffect(() => {
+    const onDocPointer = (e: MouseEvent) => {
+      if (!searchRef.current?.contains(e.target as Node)) setSearchOpen(false);
+    };
+    document.addEventListener("mousedown", onDocPointer);
+    return () => document.removeEventListener("mousedown", onDocPointer);
+  }, []);
+
+  const goToTool = (tool: ToolLink) => {
+    router.push(tool.route);
+    setQuery("");
+    setSearchOpen(false);
+    setNavOpen(false);
+  };
 
   const onSearch = (e: FormEvent) => {
     e.preventDefault();
@@ -39,12 +61,15 @@ export function AppShell({ children }: { children: ReactNode }) {
     if (!q) return;
     const direct = TOOLS.find((tool) => tool.key.toLowerCase() === q.toLowerCase());
     if (direct) {
-      router.push(direct.route);
-      setQuery("");
-      setNavOpen(false);
+      goToTool(direct);
+      return;
+    }
+    if (matches.length === 1) {
+      goToTool(matches[0]);
       return;
     }
     router.push(`/search?q=${encodeURIComponent(q)}`);
+    setSearchOpen(false);
     setNavOpen(false);
   };
 
@@ -62,7 +87,7 @@ export function AppShell({ children }: { children: ReactNode }) {
         <Link className="fy-brand" href="/" onClick={() => setNavOpen(false)}>
           <span className="fy-brand-name">{t("App_Title")}</span>
         </Link>
-        <form className="fy-search" role="search" onSubmit={onSearch}>
+        <form ref={searchRef} className="fy-search" role="search" onSubmit={onSearch}>
           <span className="fy-search-ic">
             <FyIcon name="search" size={18} />
           </span>
@@ -71,12 +96,46 @@ export function AppShell({ children }: { children: ReactNode }) {
             className="fy-search-input"
             placeholder={t("Nav_SearchPlaceholder")}
             value={query}
-            onChange={(e) => setQuery(e.target.value)}
+            onChange={(e) => {
+              setQuery(e.target.value);
+              setSearchOpen(true);
+            }}
+            onFocus={() => setSearchOpen(true)}
+            onKeyDown={(e) => {
+              if (e.key === "Escape") setSearchOpen(false);
+            }}
             aria-label={t("Nav_SearchAria")}
+            aria-expanded={showResults}
+            aria-controls="fy-search-results"
+            autoComplete="off"
           />
           <button type="submit" className="fy-search-go" aria-label={t("Nav_SearchGoAria")}>
             <FyIcon name="chevron-right" size={18} />
           </button>
+          {showResults ? (
+            <div id="fy-search-results" className="fy-search-results" role="listbox">
+              {matches.length === 0 ? (
+                <div className="fy-search-empty">{t("Page_Search_NoResultsTitle")}</div>
+              ) : (
+                matches.map((tool) => (
+                  <button
+                    key={tool.key}
+                    type="button"
+                    className="fy-search-item"
+                    role="option"
+                    onMouseDown={(e) => e.preventDefault()}
+                    onClick={() => goToTool(tool)}
+                  >
+                    <span className="fy-search-item-title">
+                      <FyIcon name={tool.icon} size={16} />
+                      {t(tool.titleKey)}
+                    </span>
+                    <span className="fy-search-item-desc">{t(tool.descriptionKey)}</span>
+                  </button>
+                ))
+              )}
+            </div>
+          ) : null}
         </form>
         <div className="fy-topbar-right">
           <select
