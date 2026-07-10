@@ -1209,6 +1209,7 @@ body {
     .fy-hero-stats .fy-stat,
     .fy-home-reveal .fy-kpi,
     .fy-home-reveal .fy-learn-card,
+    .fy-home-reveal .fy-safety-card,
     .fy-badge-dot {
         animation: none !important;
     }
@@ -1284,6 +1285,125 @@ body {
 .fy-learn-card:hover { transform: translateY(-2px); box-shadow: var(--fy-shadow); }
 .fy-learn-title { font-weight: 800; color: var(--fy-ink); margin-bottom: 0.3rem; }
 .fy-learn-text { color: var(--fy-text-muted); font-size: 0.88rem; line-height: 1.5; }
+
+/* PMSBY / PMJJBY awareness */
+.fy-safety-section { margin-top: 0.5rem; }
+.fy-safety-sub {
+  color: var(--fy-text-muted);
+  font-size: 0.95rem;
+  line-height: 1.55;
+  max-width: 42rem;
+  margin: 0 0 1rem;
+}
+.fy-safety-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.85rem;
+}
+@media (max-width: 900px) {
+  .fy-safety-grid { grid-template-columns: 1fr; }
+}
+.fy-safety-card {
+  display: block;
+  text-decoration: none;
+  background: var(--fy-card-bg);
+  border: 1px solid var(--fy-border);
+  border-radius: var(--fy-radius);
+  padding: 1.05rem 1.1rem;
+  transition: transform 0.14s, box-shadow 0.15s, border-color 0.15s;
+}
+.fy-safety-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--fy-shadow);
+  border-color: var(--fy-info-border);
+}
+.fy-safety-card:focus-visible { outline: none; box-shadow: var(--fy-focus); }
+.fy-safety-card-title {
+  font-weight: 800;
+  color: var(--fy-ink);
+  margin-bottom: 0.3rem;
+  font-size: 0.98rem;
+}
+.fy-safety-card-foot {
+  color: var(--fy-text-muted);
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+.fy-safety-cta {
+  display: inline-block;
+  margin-top: 0.95rem;
+  font-weight: 700;
+  color: var(--fy-accent-dark);
+  text-decoration: none;
+  font-size: 0.92rem;
+}
+.fy-safety-cta:hover { text-decoration: underline; }
+.fy-home-reveal .fy-safety-card { animation: fyFadeUp 0.45s ease both; }
+.fy-home-reveal .fy-safety-card:nth-child(1) { animation-delay: 0.06s; }
+.fy-home-reveal .fy-safety-card:nth-child(2) { animation-delay: 0.12s; }
+.fy-home-reveal .fy-safety-card:nth-child(3) { animation-delay: 0.18s; }
+
+.fy-scheme-compare {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+@media (max-width: 800px) {
+  .fy-scheme-compare { grid-template-columns: 1fr; }
+}
+.fy-scheme-eyebrow {
+  margin: 0 0 0.35rem;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--fy-text-muted);
+}
+.fy-scheme-card h3 { margin-bottom: 0.55rem; }
+.fy-scheme-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 0.9rem;
+}
+.fy-faq-list { display: flex; flex-direction: column; gap: 0.45rem; }
+.fy-faq-item {
+  border: 1px solid var(--fy-border);
+  border-radius: calc(var(--fy-radius) - 2px);
+  background: var(--fy-bg, #fff);
+  padding: 0;
+}
+.fy-faq-q {
+  cursor: pointer;
+  list-style: none;
+  font-weight: 700;
+  color: var(--fy-ink);
+  padding: 0.75rem 0.9rem;
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+.fy-faq-q::-webkit-details-marker { display: none; }
+.fy-faq-q::before {
+  content: "+";
+  display: inline-block;
+  width: 1.1rem;
+  color: var(--fy-accent-dark);
+  font-weight: 800;
+}
+.fy-faq-item[open] .fy-faq-q::before { content: "–"; }
+.fy-faq-a {
+  margin: 0;
+  padding: 0 0.9rem 0.85rem 2rem;
+  color: var(--fy-text-muted);
+  font-size: 0.88rem;
+  line-height: 1.6;
+}
+.fy-info-list-ordered {
+  list-style: decimal;
+  padding-left: 1.25rem;
+}
+
 
 /* ── Tool cards ── */
 .fy-tool-card {
